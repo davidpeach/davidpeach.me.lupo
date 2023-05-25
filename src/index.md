@@ -12,4 +12,4 @@ into my new homepage.
 -> **This website was built using my own static site generator `lupo`.
 View the [Lupo source code](https://github.com/davidpeach/lupo)**.
 
-[new page](/my-new-page.html)
+[My Dev Setup](/development-setup.html)
