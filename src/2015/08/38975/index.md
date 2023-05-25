@@ -11,4 +11,5 @@ tags:
 
 If you walk past my office window you will probably hear me singing along to Depeche Mode's Violator album.
 
-[![](images/Violater-album-cover.jpeg)](http://davidpeach.co.uk/wp-content/uploads/2021/02/Violater-album-cover.jpeg)
+[![](images/Violater-album-cover.jpeg)](images/Violater-album-cover.jpeg)
+[![](images/Violater-album-cover.jpeg)](images/Violater-album-cover.jpeg)

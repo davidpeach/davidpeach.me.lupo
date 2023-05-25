@@ -9,6 +9,7 @@ tags:
 coverImage: "1st-may-2011-024-scaled.jpg"
 ---
 
-[![](images/1st-may-2011-024-1024x768.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/1st-may-2011-024-scaled.jpg)
+[![](images/1st-may-2011-024-1024x768.jpg)](images/1st-may-2011-024-scaled.jpg)
+[![](images/1st-may-2011-024-1024x768.jpg)](images/1st-may-2011-024-scaled.jpg)
 
 Stewie in front of Alton Towers.

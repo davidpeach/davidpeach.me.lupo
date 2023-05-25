@@ -11,7 +11,8 @@ tags:
 coverImage: "IMG_20141223_130113-scaled.jpg"
 ---
 
-[![](images/IMG_20141223_130113-scaled.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/IMG_20141223_130113-scaled.jpg)
+[![](images/IMG_20141223_130113-scaled.jpg)](images/IMG_20141223_130113-scaled.jpg)
+[![](images/IMG_20141223_130113-scaled.jpg)](images/IMG_20141223_130113-scaled.jpg)
 
 Girl with red headband
 

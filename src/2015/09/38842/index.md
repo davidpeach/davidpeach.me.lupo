@@ -11,4 +11,5 @@ tags:
 
 There are few soundtracks quite as epic as the Phantom of the Opera.
 
-[![](images/Phantom-of-the-Opera-still.jpeg)](http://davidpeach.co.uk/wp-content/uploads/2021/02/Phantom-of-the-Opera-still.jpeg)
+[![](images/Phantom-of-the-Opera-still.jpeg)](images/Phantom-of-the-Opera-still.jpeg)
+[![](images/Phantom-of-the-Opera-still.jpeg)](images/Phantom-of-the-Opera-still.jpeg)

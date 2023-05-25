@@ -12,4 +12,5 @@ tags:
 coverImage: "Awaiting-the-fighting-pit-scaled-1.jpg"
 ---
 
-[![](images/Awaiting-the-fighting-pit-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/Awaiting-the-fighting-pit-scaled-1.jpg)
+[![](images/Awaiting-the-fighting-pit-scaled-1.jpg)](images/Awaiting-the-fighting-pit-scaled-1.jpg)
+[![](images/Awaiting-the-fighting-pit-scaled-1.jpg)](images/Awaiting-the-fighting-pit-scaled-1.jpg)

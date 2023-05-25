@@ -14,7 +14,8 @@ List out all of your installed Flatpaks and copy the "Application ID" for the Fl
 $ flatpak list
 ```
 
-[![](images/Screenshot-from-2021-08-23-15-14-27.png)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Screenshot-from-2021-08-23-15-14-27.png)
+[![](images/Screenshot-from-2021-08-23-15-14-27.png)](images/Screenshot-from-2021-08-23-15-14-27.png)
+[![](images/Screenshot-from-2021-08-23-15-14-27.png)](images/Screenshot-from-2021-08-23-15-14-27.png)
 
 Part of a Flatpak listing
 

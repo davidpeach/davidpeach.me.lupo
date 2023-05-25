@@ -10,6 +10,7 @@ tags:
 coverImage: "Paint-me-like-one-of-your-french-freakers.jpg"
 ---
 
-[![](images/Paint-me-like-one-of-your-french-freakers.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Paint-me-like-one-of-your-french-freakers.jpg)
+[![](images/Paint-me-like-one-of-your-french-freakers.jpg)](images/Paint-me-like-one-of-your-french-freakers.jpg)
+[![](images/Paint-me-like-one-of-your-french-freakers.jpg)](images/Paint-me-like-one-of-your-french-freakers.jpg)
 
 Paint Me Like One Of Your French Freakers

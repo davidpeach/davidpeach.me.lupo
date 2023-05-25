@@ -12,7 +12,8 @@ tags:
 coverImage: "bat-for-lashes-the-bride-cover.jpg"
 ---
 
-[![](images/bat-for-lashes-the-bride-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/bat-for-lashes-the-bride-cover.jpg)
+[![](images/bat-for-lashes-the-bride-cover.jpg)](images/bat-for-lashes-the-bride-cover.jpg)
+[![](images/bat-for-lashes-the-bride-cover.jpg)](images/bat-for-lashes-the-bride-cover.jpg)
 
 On June the 25th, 2008 I went with some friends of mine to watch Radiohead play in Victoria Park in London. The were touring in support of their album "In Rainbows", and in support of them was a then little-known artist called Bat for Lashes.
 

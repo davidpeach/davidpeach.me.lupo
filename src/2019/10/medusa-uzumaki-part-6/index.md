@@ -14,7 +14,8 @@ tags:
 coverImage: "uzumaki-medusa-by-junji-ito.png"
 ---
 
-[![](images/uzumaki-medusa-by-junji-ito.png)](https://davidpeach.co.uk/wp-content/uploads/2023/05/uzumaki-medusa-by-junji-ito.png)
+[![](images/uzumaki-medusa-by-junji-ito.png)](images/uzumaki-medusa-by-junji-ito.png)
+[![](images/uzumaki-medusa-by-junji-ito.png)](images/uzumaki-medusa-by-junji-ito.png)
 
 > You should know I take this as a challenge... I'll stand out too... you wait and see.
 > 
@@ -30,15 +31,18 @@ After a school boy's death and some discussions with a friend over people's sudd
 
 When the curls in her hair are threatened, they begin to take on a life of their own — the spiral protecting itself. The hair grows faster than is naturally possibly and even physically fights back against those that would do it harm. But when a school friend of Kirie's see's these ever-growing curls as a threat to her own dominance, that friend decides to challenge her in one of the craziest showdowns I've ever seen in a manga.
 
-[![](images/Kirie.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Kirie.jpg)
+[![](images/Kirie.jpg)](images/Kirie.jpg)
+[![](images/Kirie.jpg)](images/Kirie.jpg)
 
 Kirie
 
-[![](images/Shuichi2.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Shuichi2.jpg)
+[![](images/Shuichi2.jpg)](images/Shuichi2.jpg)
+[![](images/Shuichi2.jpg)](images/Shuichi2.jpg)
 
 Shuichi
 
-[![](images/Sekino.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Sekino.jpg)
+[![](images/Sekino.jpg)](images/Sekino.jpg)
+[![](images/Sekino.jpg)](images/Sekino.jpg)
 
 Sekino
 
@@ -50,7 +54,8 @@ The idea of parts of one's own body being out of ones control is a scary one. Th
 
 I loved how the hair became so flamboyant and ridiculous as to lure in those around it. But what I found even more effective was how the hair, whilst growing at such a fast rate, took its toll on the owner. You could see it in Kirie's eyes as the hair lusted after a bigger audience. But it wasn't until the closing pages that you see its true effect on a host.
 
-[![](images/Kiries-hair-fights-back-against-the-hairdresser1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Kiries-hair-fights-back-against-the-hairdresser1.jpg)
+[![](images/Kiries-hair-fights-back-against-the-hairdresser1.jpg)](images/Kiries-hair-fights-back-against-the-hairdresser1.jpg)
+[![](images/Kiries-hair-fights-back-against-the-hairdresser1.jpg)](images/Kiries-hair-fights-back-against-the-hairdresser1.jpg)
 
 Kirie's hair fights back against the hairdresser
 
@@ -62,15 +67,18 @@ In Medusa, however, the hair that grows from Kirie, and later her friend Sekino,
 
 Interestingly, the Spiral only seemed to target Kirie after she had been clear to her friend about not wanting to stick out. She was content with just moving along in life. The idea that her friends' obsessions with being noticed was intrinsically linked to the spiral's presence, seemed to be confirmed when she was made the centrepiece of the Spiral's plans within the Kurouzu-cho school.
 
-[![](images/Kiries-hair-becomes-infected-with-spirals.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Kiries-hair-becomes-infected-with-spirals.jpg)
+[![](images/Kiries-hair-becomes-infected-with-spirals.jpg)](images/Kiries-hair-becomes-infected-with-spirals.jpg)
+[![](images/Kiries-hair-becomes-infected-with-spirals.jpg)](images/Kiries-hair-becomes-infected-with-spirals.jpg)
 
 Kirie's hair becomes infected with spirals
 
-[![](images/People-become-mesmerised-by-Kiries-hair.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/People-become-mesmerised-by-Kiries-hair.jpg)
+[![](images/People-become-mesmerised-by-Kiries-hair.jpg)](images/People-become-mesmerised-by-Kiries-hair.jpg)
+[![](images/People-become-mesmerised-by-Kiries-hair.jpg)](images/People-become-mesmerised-by-Kiries-hair.jpg)
 
 People become mesmerised by Kirie's hair
 
-[![](images/The-showdown-of-the-hair1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-showdown-of-the-hair1.jpg)
+[![](images/The-showdown-of-the-hair1.jpg)](images/The-showdown-of-the-hair1.jpg)
+[![](images/The-showdown-of-the-hair1.jpg)](images/The-showdown-of-the-hair1.jpg)
 
 The showdown of the hair
 

@@ -12,7 +12,8 @@ tags:
 coverImage: "cherlene-album-archer.jpg"
 ---
 
-[![](images/cherlene-album-archer.jpg)](https://davidpeach.co.uk/wp-content/uploads/2014/03/cherlene-album-archer.jpg)
+[![](images/cherlene-album-archer.jpg)](images/cherlene-album-archer.jpg)
+[![](images/cherlene-album-archer.jpg)](images/cherlene-album-archer.jpg)
 
 Any fans of the TV series Archer will know that — while the rest of the ex-ISIS agents are figuring out what to do with a literal tonne of cocaine — Cheryl/Carol has renamed herself to Cherlene and is on her way to becoming the star of outlaw country music.
 

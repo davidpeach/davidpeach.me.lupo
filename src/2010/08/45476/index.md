@@ -8,6 +8,7 @@ tags:
 coverImage: "DSC00220.JPG.jpg"
 ---
 
-[![](images/DSC00220.JPG.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/DSC00220.JPG.jpg)
+[![](images/DSC00220.JPG.jpg)](images/DSC00220.JPG.jpg)
+[![](images/DSC00220.JPG.jpg)](images/DSC00220.JPG.jpg)
 
 Me on the dales way walk. Photo taken by Lizzie.

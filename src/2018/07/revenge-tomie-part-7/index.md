@@ -14,7 +14,8 @@ tags:
 coverImage: "Revenge-Tomie-part-7-cover.jpg"
 ---
 
-[![](images/Revenge-Tomie-part-7-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Revenge-Tomie-part-7-cover.jpg)
+[![](images/Revenge-Tomie-part-7-cover.jpg)](images/Revenge-Tomie-part-7-cover.jpg)
+[![](images/Revenge-Tomie-part-7-cover.jpg)](images/Revenge-Tomie-part-7-cover.jpg)
 
 > Such a beautiful woman... having her on your back... does it excite you?
 > 
@@ -30,19 +31,23 @@ Later in the evening, Tomie and Tanimura make it to a cabin safely. Once inside,
 
 ## Main Characters
 
-[![](images/Tomie-10.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Tomie-10.jpg)
+[![](images/Tomie-10.jpg)](images/Tomie-10.jpg)
+[![](images/Tomie-10.jpg)](images/Tomie-10.jpg)
 
 Tomie
 
-[![](images/Tanimura.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Tanimura.jpg)
+[![](images/Tanimura.jpg)](images/Tanimura.jpg)
+[![](images/Tanimura.jpg)](images/Tanimura.jpg)
 
 Tanimura
 
-[![](images/Hamaguchi.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Hamaguchi.jpg)
+[![](images/Hamaguchi.jpg)](images/Hamaguchi.jpg)
+[![](images/Hamaguchi.jpg)](images/Hamaguchi.jpg)
 
 Hamaguchi
 
-[![](images/Doi.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Doi.jpg)
+[![](images/Doi.jpg)](images/Doi.jpg)
+[![](images/Doi.jpg)](images/Doi.jpg)
 
 Doi
 
@@ -54,19 +59,23 @@ Tomie, as a force of nature, has many strands of life and versions of herself fl
 
 Also of interest, is that this chapter takes place at a single point in time – the mountain journey of the exploration team across one fateful afternoon. This, along with its single location in the snowy peaks of the harsh mountain landscape, give this story a claustrophobic feel. At least for me. The Kiss chapter had a similar tone with it being set mostly within Tsukiko’s apartment, but this is the first time within the collection that this idea has been expanded more fully.
 
-[![](images/Tomie-hanging-out-of-a-mountainside.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Tomie-hanging-out-of-a-mountainside.jpg)
+[![](images/Tomie-hanging-out-of-a-mountainside.jpg)](images/Tomie-hanging-out-of-a-mountainside.jpg)
+[![](images/Tomie-hanging-out-of-a-mountainside.jpg)](images/Tomie-hanging-out-of-a-mountainside.jpg)
 
 Tomie hanging out of a mountainside
 
-[![](images/A-cabin-in-the-blizzard.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/A-cabin-in-the-blizzard.jpg)
+[![](images/A-cabin-in-the-blizzard.jpg)](images/A-cabin-in-the-blizzard.jpg)
+[![](images/A-cabin-in-the-blizzard.jpg)](images/A-cabin-in-the-blizzard.jpg)
 
 A cabin in the blizzard
 
-[![](images/Tomie-wrapped-in-a-sleeping-bag.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Tomie-wrapped-in-a-sleeping-bag.jpg)
+[![](images/Tomie-wrapped-in-a-sleeping-bag.jpg)](images/Tomie-wrapped-in-a-sleeping-bag.jpg)
+[![](images/Tomie-wrapped-in-a-sleeping-bag.jpg)](images/Tomie-wrapped-in-a-sleeping-bag.jpg)
 
 Tomie wrapped in a sleeping bag
 
-[![](images/Open-cabin.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Open-cabin.jpg)
+[![](images/Open-cabin.jpg)](images/Open-cabin.jpg)
+[![](images/Open-cabin.jpg)](images/Open-cabin.jpg)
 
 Open cabin
 

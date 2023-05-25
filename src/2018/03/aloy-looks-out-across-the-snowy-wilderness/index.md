@@ -13,4 +13,5 @@ tags:
 coverImage: "Aloy-looks-out-over-snowy-wilderness-scaled-1.jpg"
 ---
 
-[![](images/Aloy-looks-out-over-snowy-wilderness-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/Aloy-looks-out-over-snowy-wilderness-scaled-1.jpg)
+[![](images/Aloy-looks-out-over-snowy-wilderness-scaled-1.jpg)](images/Aloy-looks-out-over-snowy-wilderness-scaled-1.jpg)
+[![](images/Aloy-looks-out-over-snowy-wilderness-scaled-1.jpg)](images/Aloy-looks-out-over-snowy-wilderness-scaled-1.jpg)

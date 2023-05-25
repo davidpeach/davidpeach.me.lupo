@@ -7,4 +7,5 @@ tags:
   - "flowers"
 ---
 
-[![](images/Thistle-do-nicely.jpg)](http://davidpeach.co.uk/wp-content/uploads/2021/02/Thistle-do-nicely.jpg)
+[![](images/Thistle-do-nicely.jpg)](images/Thistle-do-nicely.jpg)
+[![](images/Thistle-do-nicely.jpg)](images/Thistle-do-nicely.jpg)

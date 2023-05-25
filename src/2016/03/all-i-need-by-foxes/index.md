@@ -11,7 +11,8 @@ tags:
 coverImage: "foxes-all-i-need.jpg"
 ---
 
-[![](images/foxes-all-i-need.jpg)](https://davidpeach.co.uk/wp-content/uploads/2016/03/foxes-all-i-need.jpg)
+[![](images/foxes-all-i-need.jpg)](images/foxes-all-i-need.jpg)
+[![](images/foxes-all-i-need.jpg)](images/foxes-all-i-need.jpg)
 
 I've never been much of a Doctor Who fan but I do sometimes find myself watching it with my girlfriend, who likes it. One of the better episodes I have seen was one called "Mummy on the Orient Express". It was about a Mummy that was killing off passengers in a space version of the Orient Express. This was also the first time I'd heard the artist whose album I am now writing about – Foxes.
 

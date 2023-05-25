@@ -14,7 +14,8 @@ tags:
 coverImage: "Painter-Tomie-part-9-cover.jpg"
 ---
 
-[![](images/Painter-Tomie-part-9-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Painter-Tomie-part-9-cover.jpg)
+[![](images/Painter-Tomie-part-9-cover.jpg)](images/Painter-Tomie-part-9-cover.jpg)
+[![](images/Painter-Tomie-part-9-cover.jpg)](images/Painter-Tomie-part-9-cover.jpg)
 
 > Just look at it! You think this silly thing captures even a tenth of my beauty?
 > 
@@ -32,19 +33,23 @@ Will he finally manage to capture the true essence of Tomie and, more importantl
 
 ## Main Characters
 
-[![](images/Tomie-8.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Tomie-8.jpg)
+[![](images/Tomie-8.jpg)](images/Tomie-8.jpg)
+[![](images/Tomie-8.jpg)](images/Tomie-8.jpg)
 
 Tomie
 
-[![](images/Mitsuo-Mori.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Mitsuo-Mori.jpg)
+[![](images/Mitsuo-Mori.jpg)](images/Mitsuo-Mori.jpg)
+[![](images/Mitsuo-Mori.jpg)](images/Mitsuo-Mori.jpg)
 
 Mitsuo Mori
 
-[![](images/Nana.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Nana.jpg)
+[![](images/Nana.jpg)](images/Nana.jpg)
+[![](images/Nana.jpg)](images/Nana.jpg)
 
 Nana
 
-[![](images/Iwata.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Iwata.jpg)
+[![](images/Iwata.jpg)](images/Iwata.jpg)
+[![](images/Iwata.jpg)](images/Iwata.jpg)
 
 Iwata
 
@@ -62,15 +67,18 @@ Within Painter we get a good taste of most of Tomie's signature characteristics 
 
 I feel that the ending manages to capture the same feeling for the first-time reader as the first chapter did as well. And it does so in an even more grotesque way than before.
 
-[![](images/Tomie-arrives-at-the-gallery.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Tomie-arrives-at-the-gallery.jpg)
+[![](images/Tomie-arrives-at-the-gallery.jpg)](images/Tomie-arrives-at-the-gallery.jpg)
+[![](images/Tomie-arrives-at-the-gallery.jpg)](images/Tomie-arrives-at-the-gallery.jpg)
 
 Tomie arrives at the gallery
 
-[![](images/A-sculptures-attempts-at-Tomie.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/A-sculptures-attempts-at-Tomie.jpg)
+[![](images/A-sculptures-attempts-at-Tomie.jpg)](images/A-sculptures-attempts-at-Tomie.jpg)
+[![](images/A-sculptures-attempts-at-Tomie.jpg)](images/A-sculptures-attempts-at-Tomie.jpg)
 
 A sculptures attempts at Tomie
 
-[![](images/Tomie-finds-the-painters-skills-laughable.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Tomie-finds-the-painters-skills-laughable.jpg)
+[![](images/Tomie-finds-the-painters-skills-laughable.jpg)](images/Tomie-finds-the-painters-skills-laughable.jpg)
+[![](images/Tomie-finds-the-painters-skills-laughable.jpg)](images/Tomie-finds-the-painters-skills-laughable.jpg)
 
 Tomie finds the painters skills laughable
 

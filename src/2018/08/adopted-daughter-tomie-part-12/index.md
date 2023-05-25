@@ -14,7 +14,8 @@ tags:
 coverImage: "Adopted-Daughter-Tomie-part-12-cover.jpg"
 ---
 
-[![](images/Adopted-Daughter-Tomie-part-12-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Adopted-Daughter-Tomie-part-12-cover.jpg)
+[![](images/Adopted-Daughter-Tomie-part-12-cover.jpg)](images/Adopted-Daughter-Tomie-part-12-cover.jpg)
+[![](images/Adopted-Daughter-Tomie-part-12-cover.jpg)](images/Adopted-Daughter-Tomie-part-12-cover.jpg)
 
 > Oh, how sweet. To stay here, with you... it would be like a dream.
 > 
@@ -30,19 +31,23 @@ The old couple dote on her as if she were their very own. They do their very bes
 
 ## Main Characters
 
-[![](images/Tomie-5.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Tomie-5.jpg)
+[![](images/Tomie-5.jpg)](images/Tomie-5.jpg)
+[![](images/Tomie-5.jpg)](images/Tomie-5.jpg)
 
 Tomie
 
-[![](images/Elderly-Lady.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Elderly-Lady.jpg)
+[![](images/Elderly-Lady.jpg)](images/Elderly-Lady.jpg)
+[![](images/Elderly-Lady.jpg)](images/Elderly-Lady.jpg)
 
 Elderly Lady
 
-[![](images/Elderly-man.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Elderly-man.jpg)
+[![](images/Elderly-man.jpg)](images/Elderly-man.jpg)
+[![](images/Elderly-man.jpg)](images/Elderly-man.jpg)
 
 Elderly man
 
-[![](images/Satoko.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Satoko.jpg)
+[![](images/Satoko.jpg)](images/Satoko.jpg)
+[![](images/Satoko.jpg)](images/Satoko.jpg)
 
 Satoko
 
@@ -54,15 +59,18 @@ My heart went out to this sweet, old couple. Although I don't want to reveal the
 
 The couple are without a doubt shunned from society - alone together - and unable to make a family. Mix that with the horrific events that they come to witness, and you have a very unfortunate final stage in life.
 
-[![](images/Tomie-is-found-in-the-rain.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Tomie-is-found-in-the-rain.jpg)
+[![](images/Tomie-is-found-in-the-rain.jpg)](images/Tomie-is-found-in-the-rain.jpg)
+[![](images/Tomie-is-found-in-the-rain.jpg)](images/Tomie-is-found-in-the-rain.jpg)
 
 Tomie is found in the rain
 
-[![](images/Dressed-like-a-Princess.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Dressed-like-a-Princess.jpg)
+[![](images/Dressed-like-a-Princess.jpg)](images/Dressed-like-a-Princess.jpg)
+[![](images/Dressed-like-a-Princess.jpg)](images/Dressed-like-a-Princess.jpg)
 
 Dressed like a Princess
 
-[![](images/Tomie-by-candlelight.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Tomie-by-candlelight.jpg)
+[![](images/Tomie-by-candlelight.jpg)](images/Tomie-by-candlelight.jpg)
+[![](images/Tomie-by-candlelight.jpg)](images/Tomie-by-candlelight.jpg)
 
 Tomie by candlelight
 

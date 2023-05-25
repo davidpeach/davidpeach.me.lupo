@@ -13,7 +13,8 @@ tags:
 coverImage: "kano-made-in-the-manor-cover.jpg"
 ---
 
-[![](images/kano-made-in-the-manor-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/kano-made-in-the-manor-cover.jpg)
+[![](images/kano-made-in-the-manor-cover.jpg)](images/kano-made-in-the-manor-cover.jpg)
+[![](images/kano-made-in-the-manor-cover.jpg)](images/kano-made-in-the-manor-cover.jpg)
 
 When it comes to UK rap music, few are revered in quite the same way as Kano is. Present in the Grime scene from the early days, he has had five studio albums to date. Made in the Manor is his latest and stands up, hands down, as one of the best rap albums I've heard.
 
@@ -31,7 +32,8 @@ Some manner of respite comes with the next song, ‘T-shirt Weather in the Manor
 
 ‘New Banger’ and ‘Three Wheel Ups’ bring that in-your-face energy back in spades with some great featured rappers. Giggs and Wiley both feature on ‘Three Wheel Ups’ and do an excellent job of supporting Kano. Even D Double E can be heard in parts doing his signature “ooooh”.
 
-[![Kano and Giggs in the Three Wheel Ups video](images/Kano-and-Giggs-in-the-Three-Wheel-Ups-video.jpg)](https://davidpeach.co.uk/wp-content/uploads/2017/12/Kano-and-Giggs-in-the-Three-Wheel-Ups-video.jpg)
+[![Kano and Giggs in the Three Wheel Ups video](images/Kano-and-Giggs-in-the-Three-Wheel-Ups-video.jpg)](images/Kano-and-Giggs-in-the-Three-Wheel-Ups-video.jpg)
+[![Kano and Giggs in the Three Wheel Ups video](images/Kano-and-Giggs-in-the-Three-Wheel-Ups-video.jpg)](images/Kano-and-Giggs-in-the-Three-Wheel-Ups-video.jpg)
 
 Kano and Giggs in the Three Wheel Ups video
 
@@ -41,7 +43,8 @@ Kano and Giggs in the Three Wheel Ups video
 
 There were two songs that stood out to me for just how personal and confessional they sounded. ‘Little Sis’ and ‘Strangers’ feel like personal monologues directed to a sister and brother respectively. Although these songs initially didn’t grab me as his big tunes did, I have since come to enjoy them both in a whole different way.
 
-[![Kano](images/Kano.jpg)](https://davidpeach.co.uk/wp-content/uploads/2017/12/Kano.jpg)
+[![Kano](images/Kano.jpg)](images/Kano.jpg)
+[![Kano](images/Kano.jpg)](images/Kano.jpg)
 
 Kano - full name Kane Robinson
 

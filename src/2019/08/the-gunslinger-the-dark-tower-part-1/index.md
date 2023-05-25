@@ -11,7 +11,8 @@ tags:
 coverImage: "the-gunslinger-book-cover.jpg"
 ---
 
-[![](images/the-gunslinger-book-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/the-gunslinger-book-cover.jpg)
+[![](images/the-gunslinger-book-cover.jpg)](images/the-gunslinger-book-cover.jpg)
+[![](images/the-gunslinger-book-cover.jpg)](images/the-gunslinger-book-cover.jpg)
 
 Some thoughts of mine after finishing the first book of Stephen King's epic series 'The Dark Tower'.
 

@@ -10,7 +10,8 @@ tags:
   - "horror"
 ---
 
-[![](images/friday-the-13th-part-3-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/friday-the-13th-part-3-cover.jpg)
+[![](images/friday-the-13th-part-3-cover.jpg)](images/friday-the-13th-part-3-cover.jpg)
+[![](images/friday-the-13th-part-3-cover.jpg)](images/friday-the-13th-part-3-cover.jpg)
 
 Friday the 13 part 3 was a lot of fun.  
 

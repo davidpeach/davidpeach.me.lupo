@@ -9,4 +9,5 @@ tags:
 coverImage: "Listening-in-scaled-1.jpg"
 ---
 
-[![](images/Listening-in-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Listening-in-scaled-1.jpg)
+[![](images/Listening-in-scaled-1.jpg)](images/Listening-in-scaled-1.jpg)
+[![](images/Listening-in-scaled-1.jpg)](images/Listening-in-scaled-1.jpg)

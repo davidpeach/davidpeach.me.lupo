@@ -7,7 +7,8 @@ tags:
   - "try-again-tuesday"
 ---
 
-[![](images/Snowy-wilderness-take-2-scaled-1.jpg)](http://davidpeach.co.uk/wp-content/uploads/2020/10/Snowy-wilderness-take-2-scaled-1.jpg)
+[![](images/Snowy-wilderness-take-2-scaled-1.jpg)](images/Snowy-wilderness-take-2-scaled-1.jpg)
+[![](images/Snowy-wilderness-take-2-scaled-1.jpg)](images/Snowy-wilderness-take-2-scaled-1.jpg)
 
 Aloy looks out on the snowy wilderness
 

@@ -13,7 +13,8 @@ tags:
 coverImage: "Basement-Tomie-part-3-cover.jpg"
 ---
 
-[![](images/Basement-Tomie-part-3-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Basement-Tomie-part-3-cover.jpg)
+[![](images/Basement-Tomie-part-3-cover.jpg)](images/Basement-Tomie-part-3-cover.jpg)
+[![](images/Basement-Tomie-part-3-cover.jpg)](images/Basement-Tomie-part-3-cover.jpg)
 
 > You know he tried to kill me? I've a hunch it was your idea, though.
 > 
@@ -29,23 +30,28 @@ As the story continues we see how the flesh spirit of Tomie fights to return - b
 
 ## Main Characters
 
-[![](images/Tomie-2.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Tomie-2.jpg)
+[![](images/Tomie-2.jpg)](images/Tomie-2.jpg)
+[![](images/Tomie-2.jpg)](images/Tomie-2.jpg)
 
 Tomie
 
-[![](images/Yukiko.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Yukiko.jpg)
+[![](images/Yukiko.jpg)](images/Yukiko.jpg)
+[![](images/Yukiko.jpg)](images/Yukiko.jpg)
 
 Yukiko
 
-[![](images/Fumihito-Sato.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Fumihito-Sato.jpg)
+[![](images/Fumihito-Sato.jpg)](images/Fumihito-Sato.jpg)
+[![](images/Fumihito-Sato.jpg)](images/Fumihito-Sato.jpg)
 
 Fumihito Sato
 
-[![](images/Dr-Tamura.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Dr-Tamura.jpg)
+[![](images/Dr-Tamura.jpg)](images/Dr-Tamura.jpg)
+[![](images/Dr-Tamura.jpg)](images/Dr-Tamura.jpg)
 
 Dr Tamura
 
-[![](images/Hospital-Director-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Hospital-Director-1.jpg)
+[![](images/Hospital-Director-1.jpg)](images/Hospital-Director-1.jpg)
+[![](images/Hospital-Director-1.jpg)](images/Hospital-Director-1.jpg)
 
 Hospital Director
 
@@ -57,15 +63,18 @@ And remember Yukiko from the previous story? Her continuation in this is pretty 
 
 What I found perhaps most interesting in this part of the Tomie series, was yet another aspect of her character that was revealed. Although all of the replicas originate from the same flesh, there seems to be some animosity between each of them. Like rival sisters each wanting to be the favourite. Except each will stop at nothing to physically rid the others from existence. Each and every Tomie wants to be the centre of attention, and will share that limelight with no-one - not even with herself.
 
-[![](images/Strange-specimins.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Strange-specimins.jpg)
+[![](images/Strange-specimins.jpg)](images/Strange-specimins.jpg)
+[![](images/Strange-specimins.jpg)](images/Strange-specimins.jpg)
 
 Strange specimins
 
-[![](images/Tomie...-regenerated.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Tomie...-regenerated.jpg)
+[![](images/Tomie...-regenerated.jpg)](images/Tomie...-regenerated.jpg)
+[![](images/Tomie...-regenerated.jpg)](images/Tomie...-regenerated.jpg)
 
 Tomie... regenerated
 
-[![](images/Tomie-tries-to-burn-her-own.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Tomie-tries-to-burn-her-own.jpg)
+[![](images/Tomie-tries-to-burn-her-own.jpg)](images/Tomie-tries-to-burn-her-own.jpg)
+[![](images/Tomie-tries-to-burn-her-own.jpg)](images/Tomie-tries-to-burn-her-own.jpg)
 
 Tomie tries to burn her own
 

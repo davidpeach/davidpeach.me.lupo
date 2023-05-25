@@ -11,4 +11,5 @@ tags:
 
 This is my album of obsession this week. Grimes' Visions.
 
-[![](images/Grimes-Visions-album.jpeg)](http://davidpeach.co.uk/wp-content/uploads/2021/02/Grimes-Visions-album.jpeg)
+[![](images/Grimes-Visions-album.jpeg)](images/Grimes-Visions-album.jpeg)
+[![](images/Grimes-Visions-album.jpeg)](images/Grimes-Visions-album.jpeg)

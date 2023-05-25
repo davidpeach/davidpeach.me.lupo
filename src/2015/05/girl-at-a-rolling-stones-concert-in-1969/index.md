@@ -9,6 +9,7 @@ tags:
 coverImage: "Girl-at-a-Rolling-Stones-concert-in-1969.jpg"
 ---
 
-[![](images/Girl-at-a-Rolling-Stones-concert-in-1969.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Girl-at-a-Rolling-Stones-concert-in-1969.jpg)
+[![](images/Girl-at-a-Rolling-Stones-concert-in-1969.jpg)](images/Girl-at-a-Rolling-Stones-concert-in-1969.jpg)
+[![](images/Girl-at-a-Rolling-Stones-concert-in-1969.jpg)](images/Girl-at-a-Rolling-Stones-concert-in-1969.jpg)
 
 Girl at a Rolling Stones concert in 1969.

@@ -56,7 +56,8 @@ Days Gone does a great job at actually telling an unfolding story where differen
 
 ## The World
 
-[![](images/35-Miles-per-hour.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/35-Miles-per-hour.jpg)
+[![](images/35-Miles-per-hour.jpg)](images/35-Miles-per-hour.jpg)
+[![](images/35-Miles-per-hour.jpg)](images/35-Miles-per-hour.jpg)
 
 The World of Days Gone is fucking stunning. That's the only way I can put across my complete love for this world. The weather effects look incredible -- especially in the heavy rain and blizzards.
 
@@ -74,7 +75,8 @@ The world of Days Gone is brutal and unforgiving, and I love it.
 
 ## Freakers and Hordes
 
-[![](images/Deacon-smiles-with-a-section-of-a-horde-behind-him1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Deacon-smiles-with-a-section-of-a-horde-behind-him1.jpg)
+[![](images/Deacon-smiles-with-a-section-of-a-horde-behind-him1.jpg)](images/Deacon-smiles-with-a-section-of-a-horde-behind-him1.jpg)
+[![](images/Deacon-smiles-with-a-section-of-a-horde-behind-him1.jpg)](images/Deacon-smiles-with-a-section-of-a-horde-behind-him1.jpg)
 
 Freakers are the "zombies" of Days Gone, except more fierce, fast and agile than traditional zombies. Although one on one isn't too much of a challenge -- in fact the AI can be very easy to get around at times -- as soon as you pull more than a few freakers, things can escalate... very quickly.
 

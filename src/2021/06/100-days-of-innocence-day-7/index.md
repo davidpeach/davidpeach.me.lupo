@@ -11,7 +11,8 @@ tags:
   - "ps4"
 ---
 
-[![](images/E4_aCZmWYAEfMko-scaled-1.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/E4_aCZmWYAEfMko-scaled-1.jpeg)
+[![](images/E4_aCZmWYAEfMko-scaled-1.jpeg)](images/E4_aCZmWYAEfMko-scaled-1.jpeg)
+[![](images/E4_aCZmWYAEfMko-scaled-1.jpeg)](images/E4_aCZmWYAEfMko-scaled-1.jpeg)
 
 [![](images/E4_aFLIWEAgT4nM-scaled-1.jpeg)](https://davidpeach.me/wp-content/uploads/2021/07/E4_aFLIWEAgT4nM-scaled-1.jpeg)
 

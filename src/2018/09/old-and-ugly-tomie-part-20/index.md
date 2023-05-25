@@ -14,7 +14,8 @@ tags:
 coverImage: "Old-and-Ugly-Tomie-part-20-cover.jpg"
 ---
 
-[![](images/Old-and-Ugly-Tomie-part-20-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Old-and-Ugly-Tomie-part-20-cover.jpg)
+[![](images/Old-and-Ugly-Tomie-part-20-cover.jpg)](images/Old-and-Ugly-Tomie-part-20-cover.jpg)
+[![](images/Old-and-Ugly-Tomie-part-20-cover.jpg)](images/Old-and-Ugly-Tomie-part-20-cover.jpg)
 
 > This was the only way to keep Tomie from multiplying. Don't worry. She won't die in there.
 > 

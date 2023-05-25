@@ -12,7 +12,8 @@ tags:
 coverImage: "Tropic-Of-Cancer-A-Desert-Opera-cover.jpg"
 ---
 
-[![](images/Tropic-Of-Cancer-A-Desert-Opera-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2016/09/Tropic-Of-Cancer-A-Desert-Opera-cover.jpg)
+[![](images/Tropic-Of-Cancer-A-Desert-Opera-cover.jpg)](images/Tropic-Of-Cancer-A-Desert-Opera-cover.jpg)
+[![](images/Tropic-Of-Cancer-A-Desert-Opera-cover.jpg)](images/Tropic-Of-Cancer-A-Desert-Opera-cover.jpg)
 
 Like people who remember where they were when JFK was killed, or Princess Diana, I remember exactly where and when I first heard [Hazy (A Desert Opera) by Roslyn Moore](https://soundcloud.com/roslyn-moore/sets/hazy-a-desert-opera).
 
@@ -38,7 +39,8 @@ Each song on Hazy (A Desert Opera) is completely unique to me. No one song bleed
 
 When presented with a new artist I often can't help but draw initial comparisons to other artists I like. But if I grow to like that new artist the comparison soon goes away. Before the end of Malibu the comparison was gone - I was officially a fan of Roslyn Moore.
 
-[![](images/Roslyn-Moore-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Roslyn-Moore-1.jpg)
+[![](images/Roslyn-Moore-1.jpg)](images/Roslyn-Moore-1.jpg)
+[![](images/Roslyn-Moore-1.jpg)](images/Roslyn-Moore-1.jpg)
 
 The next song, "The Burbs", is where I fell in love with the album. While writing this post, I focused in on the words of this song and found I could vividly picture the song's story in my mind's eye. I couldn't help but see the scenes play out in a Twin Peaks-esque town. A picture perfect idealistic town with a dark underbelly of taboo hidden just beneath the surface.
 

@@ -11,7 +11,8 @@ tags:
   - "shiver-collection"
 ---
 
-[![](images/Hanging-Blimp-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2018/05/Hanging-Blimp-cover.jpg)
+[![](images/Hanging-Blimp-cover.jpg)](images/Hanging-Blimp-cover.jpg)
+[![](images/Hanging-Blimp-cover.jpg)](images/Hanging-Blimp-cover.jpg)
 
 > Her face was hanging up in the sky, right above that tree there.
 > 

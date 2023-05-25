@@ -14,7 +14,8 @@ tags:
 coverImage: "Moromi-Tomie-part-15-cover.jpg"
 ---
 
-[![](images/Moromi-Tomie-part-15-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Moromi-Tomie-part-15-cover.jpg)
+[![](images/Moromi-Tomie-part-15-cover.jpg)](images/Moromi-Tomie-part-15-cover.jpg)
+[![](images/Moromi-Tomie-part-15-cover.jpg)](images/Moromi-Tomie-part-15-cover.jpg)
 
 > It... reminds me of Tomie's voice. I mean, it... sounds just like her.
 > 

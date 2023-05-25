@@ -11,6 +11,7 @@ tags:
 coverImage: "Kena_-Bridge-of-Spirits_20220418012550_-scaled.jpeg"
 ---
 
-[![](images/Kena_-Bridge-of-Spirits_20220418012550_-scaled.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Kena_-Bridge-of-Spirits_20220418012550_-scaled.jpeg)
+[![](images/Kena_-Bridge-of-Spirits_20220418012550_-scaled.jpeg)](images/Kena_-Bridge-of-Spirits_20220418012550_-scaled.jpeg)
+[![](images/Kena_-Bridge-of-Spirits_20220418012550_-scaled.jpeg)](images/Kena_-Bridge-of-Spirits_20220418012550_-scaled.jpeg)
 
 Kena: Bridge of Spirits\_20220418012550

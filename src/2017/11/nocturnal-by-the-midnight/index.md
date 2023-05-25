@@ -11,7 +11,8 @@ tags:
   - "the-midnight"
 ---
 
-[![](images/nocturnal-album-by-the-midnight.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/nocturnal-album-by-the-midnight.jpg)
+[![](images/nocturnal-album-by-the-midnight.jpg)](images/nocturnal-album-by-the-midnight.jpg)
+[![](images/nocturnal-album-by-the-midnight.jpg)](images/nocturnal-album-by-the-midnight.jpg)
 
 [The Midnight](http://www.themidnightofficial.com/) are a two-piece synthwave band consisting of songwriter Tyler Lyle and producer Tim McEwan. They are from the American deep south and Denmark respectively. However, they now both live in Los Angeles and make some of the coolest music of the past few years.
 

@@ -11,7 +11,8 @@ tags:
 coverImage: "Original-Japanese-poster-of-A-Clockwork-Orange.jpeg"
 ---
 
-[![](images/Original-Japanese-poster-of-A-Clockwork-Orange.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Original-Japanese-poster-of-A-Clockwork-Orange.jpeg)
+[![](images/Original-Japanese-poster-of-A-Clockwork-Orange.jpeg)](images/Original-Japanese-poster-of-A-Clockwork-Orange.jpeg)
+[![](images/Original-Japanese-poster-of-A-Clockwork-Orange.jpeg)](images/Original-Japanese-poster-of-A-Clockwork-Orange.jpeg)
 
 The original artwork for the Japanese poster of Stanley Kubrick’s A Clockwork Orange.
 

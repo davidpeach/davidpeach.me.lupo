@@ -11,7 +11,8 @@ tags:
 coverImage: "Envy-horror-manga-short-by-Paul-Rikky-Talbot.jpg"
 ---
 
-[![](images/Envy-horror-manga-short-by-Paul-Rikky-Talbot.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Envy-horror-manga-short-by-Paul-Rikky-Talbot.jpg)
+[![](images/Envy-horror-manga-short-by-Paul-Rikky-Talbot.jpg)](images/Envy-horror-manga-short-by-Paul-Rikky-Talbot.jpg)
+[![](images/Envy-horror-manga-short-by-Paul-Rikky-Talbot.jpg)](images/Envy-horror-manga-short-by-Paul-Rikky-Talbot.jpg)
 
 Envy horror manga short by Paul Rikky Talbot
 

@@ -9,6 +9,7 @@ tags:
   - "star-wars"
 ---
 
-[![](images/Darth-Wader.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Darth-Wader.jpg)
+[![](images/Darth-Wader.jpg)](images/Darth-Wader.jpg)
+[![](images/Darth-Wader.jpg)](images/Darth-Wader.jpg)
 
 Darth Wader. Yes! Punning on the canal.

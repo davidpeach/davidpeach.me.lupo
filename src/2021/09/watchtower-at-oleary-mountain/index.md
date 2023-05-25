@@ -12,4 +12,5 @@ tags:
 coverImage: "Watchtower.jpeg"
 ---
 
-[![](images/Watchtower.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/Watchtower.jpeg)
+[![](images/Watchtower.jpeg)](images/Watchtower.jpeg)
+[![](images/Watchtower.jpeg)](images/Watchtower.jpeg)

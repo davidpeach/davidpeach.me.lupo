@@ -9,4 +9,5 @@ tags:
 coverImage: "Joel-and-Ellie-scaled-1.jpg"
 ---
 
-[![](images/Joel-and-Ellie-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Joel-and-Ellie-scaled-1.jpg)
+[![](images/Joel-and-Ellie-scaled-1.jpg)](images/Joel-and-Ellie-scaled-1.jpg)
+[![](images/Joel-and-Ellie-scaled-1.jpg)](images/Joel-and-Ellie-scaled-1.jpg)

@@ -13,4 +13,5 @@ tags:
 coverImage: "Medicinal-Valleys-Blush.jpg"
 ---
 
-[![](images/Medicinal-Valleys-Blush.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/Medicinal-Valleys-Blush.jpg)
+[![](images/Medicinal-Valleys-Blush.jpg)](images/Medicinal-Valleys-Blush.jpg)
+[![](images/Medicinal-Valleys-Blush.jpg)](images/Medicinal-Valleys-Blush.jpg)

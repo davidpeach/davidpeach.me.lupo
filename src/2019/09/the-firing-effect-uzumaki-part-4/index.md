@@ -14,7 +14,8 @@ tags:
 coverImage: "The-Firing-Effect-Uzumaki-part-4.jpg"
 ---
 
-[![](images/The-Firing-Effect-Uzumaki-part-4.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/The-Firing-Effect-Uzumaki-part-4.jpg)
+[![](images/The-Firing-Effect-Uzumaki-part-4.jpg)](images/The-Firing-Effect-Uzumaki-part-4.jpg)
+[![](images/The-Firing-Effect-Uzumaki-part-4.jpg)](images/The-Firing-Effect-Uzumaki-part-4.jpg)
 
 In The Firing Effect, Kirie's father is producing some very strange, twisted pottery. This isn't surprising when we find out where he gets his clay from ...
 
@@ -26,23 +27,28 @@ Kirie's father, the pottery maker, has been producing some very strange pieces r
 
 After some investigation it is discovered that the father has recently been getting his clay from the neighbouring pond of water — Dragonfly Pond. This is the very same pond that seems to have been absorbing the smoke and the ashes of the dead on the day of their cremation. It looks like the spiral has found its next victim.
 
-[![](images/Kirie-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Kirie-1.jpg)
+[![](images/Kirie-1.jpg)](images/Kirie-1.jpg)
+[![](images/Kirie-1.jpg)](images/Kirie-1.jpg)
 
 Kirie
 
-[![](images/Mr-Goshima.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Mr-Goshima.jpg)
+[![](images/Mr-Goshima.jpg)](images/Mr-Goshima.jpg)
+[![](images/Mr-Goshima.jpg)](images/Mr-Goshima.jpg)
 
 Mr Goshima
 
-[![](images/Mrs-Goshima.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Mrs-Goshima.jpg)
+[![](images/Mrs-Goshima.jpg)](images/Mrs-Goshima.jpg)
+[![](images/Mrs-Goshima.jpg)](images/Mrs-Goshima.jpg)
 
 Mrs Goshima
 
-[![](images/Mitsuo.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Mitsuo.jpg)
+[![](images/Mitsuo.jpg)](images/Mitsuo.jpg)
+[![](images/Mitsuo.jpg)](images/Mitsuo.jpg)
 
 Mitsuo
 
-[![](images/Shuichi.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Shuichi.jpg)
+[![](images/Shuichi.jpg)](images/Shuichi.jpg)
+[![](images/Shuichi.jpg)](images/Shuichi.jpg)
 
 Shuichi
 
@@ -54,7 +60,8 @@ Just when we thought we'd heard the last of Shuichi's parents, it seems they wer
 
 With Dragonfly Pond seemingly sucking in the dust and smoke of the town's cremations into its centre, it seems that the spiral is never really done with its victims. This made me think — perhaps Kurouzu-cho is a form of purgatory for the people who live there.
 
-[![](images/Shuichi-knows-that-Dragonfly-Pond-is-infected-with-spirals.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Shuichi-knows-that-Dragonfly-Pond-is-infected-with-spirals.jpg)
+[![](images/Shuichi-knows-that-Dragonfly-Pond-is-infected-with-spirals.jpg)](images/Shuichi-knows-that-Dragonfly-Pond-is-infected-with-spirals.jpg)
+[![](images/Shuichi-knows-that-Dragonfly-Pond-is-infected-with-spirals.jpg)](images/Shuichi-knows-that-Dragonfly-Pond-is-infected-with-spirals.jpg)
 
 Shuichi knows that Dragonfly Pond is infected with spirals
 
@@ -68,15 +75,18 @@ Although he hasn't been a central character for the last couple of chapters, Shu
 
 When it is later revealed that the father's clay is being dredged out of Dragonfly Pond, Shuichi instinctively responds by stating that the pond is infested with spirals. He seems to have a sixth sense when it comes to this evil pattern, as demonstrated in [the opening chapter](https://junjiitomanga.com/the-spiral-obsession-part-1-uzumaki-part-1/). If this _is_ some kind of purgatory for the folks in Kurouzu-cho, perhaps Shuichi is the one at its centre? Perhaps he is the key to unravelling this mystery?
 
-[![](images/Mr-Goshima-getting-his-clay-from-Dragonfly-Pond.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Mr-Goshima-getting-his-clay-from-Dragonfly-Pond.jpg)
+[![](images/Mr-Goshima-getting-his-clay-from-Dragonfly-Pond.jpg)](images/Mr-Goshima-getting-his-clay-from-Dragonfly-Pond.jpg)
+[![](images/Mr-Goshima-getting-his-clay-from-Dragonfly-Pond.jpg)](images/Mr-Goshima-getting-his-clay-from-Dragonfly-Pond.jpg)
 
 Mr Goshima getting his clay from Dragonfly Pond
 
-[![](images/Kirie-investigating-into-her-fathers-kiln-barn.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Kirie-investigating-into-her-fathers-kiln-barn.jpg)
+[![](images/Kirie-investigating-into-her-fathers-kiln-barn.jpg)](images/Kirie-investigating-into-her-fathers-kiln-barn.jpg)
+[![](images/Kirie-investigating-into-her-fathers-kiln-barn.jpg)](images/Kirie-investigating-into-her-fathers-kiln-barn.jpg)
 
 Kirie investigating into her fathers kiln barn
 
-[![](images/Shuichi-and-his-spiral-plate.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Shuichi-and-his-spiral-plate.jpg)
+[![](images/Shuichi-and-his-spiral-plate.jpg)](images/Shuichi-and-his-spiral-plate.jpg)
+[![](images/Shuichi-and-his-spiral-plate.jpg)](images/Shuichi-and-his-spiral-plate.jpg)
 
 Shuichi and his spiral plate
 
@@ -88,7 +98,8 @@ I started to feel Kurouzu-cho was a kind of twisted second home for me after rea
 
 One thing that stood out to me in The Firing Effect was the complete lack of violence. Despite the disturbing images that certain characters see inside the kiln, they are only really shown to us as ghostly apparitions and shadows.
 
-[![](images/Faces-appear-in-the-twisted-pottery.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Faces-appear-in-the-twisted-pottery.jpg)
+[![](images/Faces-appear-in-the-twisted-pottery.jpg)](images/Faces-appear-in-the-twisted-pottery.jpg)
+[![](images/Faces-appear-in-the-twisted-pottery.jpg)](images/Faces-appear-in-the-twisted-pottery.jpg)
 
 Faces appear in the twisted pottery
 

@@ -11,7 +11,8 @@ tags:
 coverImage: "london-grammar-truth-is-a-beautiful-thing-cover.jpeg"
 ---
 
-[![](images/london-grammar-truth-is-a-beautiful-thing-cover.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/london-grammar-truth-is-a-beautiful-thing-cover.jpeg)
+[![](images/london-grammar-truth-is-a-beautiful-thing-cover.jpeg)](images/london-grammar-truth-is-a-beautiful-thing-cover.jpeg)
+[![](images/london-grammar-truth-is-a-beautiful-thing-cover.jpeg)](images/london-grammar-truth-is-a-beautiful-thing-cover.jpeg)
 
 London Grammar's latest album, 'Truth is a beautiful thing' is an absolutely stunning journey of emotion and sweeping scores. I enjoyed their debut too, but this album has just completely got its hooks in me.
 

@@ -11,7 +11,8 @@ tags:
 coverImage: "kiefer-sutherland-down-in-a-hole-cover.jpg"
 ---
 
-[![](images/kiefer-sutherland-down-in-a-hole-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2016/09/kiefer-sutherland-down-in-a-hole-cover.jpg)
+[![](images/kiefer-sutherland-down-in-a-hole-cover.jpg)](images/kiefer-sutherland-down-in-a-hole-cover.jpg)
+[![](images/kiefer-sutherland-down-in-a-hole-cover.jpg)](images/kiefer-sutherland-down-in-a-hole-cover.jpg)
 
 I don't normally keep an eye on country music album releases, but when I heard that Kiefer Sutherland had an upcoming album, I got excited to say the least.
 

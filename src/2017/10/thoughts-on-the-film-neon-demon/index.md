@@ -9,7 +9,8 @@ tags:
   - "reviews"
 ---
 
-[![](images/Neon-Demon-poster-by-Glitchway.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Neon-Demon-poster-by-Glitchway.jpg)
+[![](images/Neon-Demon-poster-by-Glitchway.jpg)](images/Neon-Demon-poster-by-Glitchway.jpg)
+[![](images/Neon-Demon-poster-by-Glitchway.jpg)](images/Neon-Demon-poster-by-Glitchway.jpg)
 
 With its gorgeous visuals and pulsing soundtrack, Neon Demon is a film that I won’t be forgetting in a hurry. The majority of the story felt to me like it was floating in and out of the conscious mind, with an increasing level of abstract as it went on.
 
@@ -19,7 +20,8 @@ The Neon Demon follows fresh-faced, 16-year-old model Jesse, played by Elle Fann
 
 By the film's final scenes I found myself slack-jawed, not quite believing what I was seeing; you could say it left me slightly haunted.
 
-[![](images/neon-demon-elle-fanning.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/neon-demon-elle-fanning.jpg)
+[![](images/neon-demon-elle-fanning.jpg)](images/neon-demon-elle-fanning.jpg)
+[![](images/neon-demon-elle-fanning.jpg)](images/neon-demon-elle-fanning.jpg)
 
 Elle Fanning in Neon Demon
 
@@ -29,7 +31,8 @@ The fact that this film has such an easy to follow story, allowed me to get comp
 
 The film reminded me quite a bit of italian giallo films - those ones that are really unsettling to watch - like “Suspiria” or “Cat O’ Nine Tails”. Just something about them isn’t quite right - some kind of horror that is sitting just beneath the film's surface. The music only served to enforce this for me and felt somewhere between Giallo and Synthwave - a great combination.
 
-[![](images/The-Neon-Demon-043.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-Neon-Demon-043.jpg)
+[![](images/The-Neon-Demon-043.jpg)](images/The-Neon-Demon-043.jpg)
+[![](images/The-Neon-Demon-043.jpg)](images/The-Neon-Demon-043.jpg)
 
 Bathroom scene in Neon Demon
 

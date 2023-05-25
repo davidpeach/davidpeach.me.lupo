@@ -11,7 +11,8 @@ tags:
 coverImage: "scarlett-taylor.jpg"
 ---
 
-[![](images/scarlett-taylor.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/scarlett-taylor.jpg)
+[![](images/scarlett-taylor.jpg)](images/scarlett-taylor.jpg)
+[![](images/scarlett-taylor.jpg)](images/scarlett-taylor.jpg)
 
 I get really excited when I find a new artist, whose music I can obsess over. I discovered Scarlett Taylor's music on Soundcloud as part of a playlist. Specifically it was the song "[Fucked Up](https://soundcloud.com/scarlett-taylor-4/fucked-up)" that grabbed me.
 

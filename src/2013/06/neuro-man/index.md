@@ -9,7 +9,8 @@ tags:
 coverImage: "20130606_073424-scaled.jpg"
 ---
 
-[![](images/20130606_073424-scaled.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/20130606_073424-scaled.jpg)
+[![](images/20130606_073424-scaled.jpg)](images/20130606_073424-scaled.jpg)
+[![](images/20130606_073424-scaled.jpg)](images/20130606_073424-scaled.jpg)
 
 Neuro-man
 

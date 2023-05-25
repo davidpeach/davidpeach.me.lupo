@@ -14,7 +14,8 @@ tags:
 coverImage: "Passing-Demon-Tomie-part-18-cover.jpg"
 ---
 
-[![](images/Passing-Demon-Tomie-part-18-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Passing-Demon-Tomie-part-18-cover.jpg)
+[![](images/Passing-Demon-Tomie-part-18-cover.jpg)](images/Passing-Demon-Tomie-part-18-cover.jpg)
+[![](images/Passing-Demon-Tomie-part-18-cover.jpg)](images/Passing-Demon-Tomie-part-18-cover.jpg)
 
 > What an uppity fake you are. Mark my words, you'll pay for it.
 > 

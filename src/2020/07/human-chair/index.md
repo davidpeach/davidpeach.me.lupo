@@ -14,7 +14,8 @@ tags:
 coverImage: "Human-Chair-by-Junji-Ito.jpg"
 ---
 
-[![](images/Human-Chair-by-Junji-Ito.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Human-Chair-by-Junji-Ito.jpg)
+[![](images/Human-Chair-by-Junji-Ito.jpg)](images/Human-Chair-by-Junji-Ito.jpg)
+[![](images/Human-Chair-by-Junji-Ito.jpg)](images/Human-Chair-by-Junji-Ito.jpg)
 
 > ...but I have a feeling that there really was a man living in the chair... and he leaves the chair every night...
 > 

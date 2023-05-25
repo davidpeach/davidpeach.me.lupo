@@ -14,7 +14,8 @@ tags:
 coverImage: "Photo-Tomie-part-4-cover.jpg"
 ---
 
-[![](images/Photo-Tomie-part-4-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Photo-Tomie-part-4-cover.jpg)
+[![](images/Photo-Tomie-part-4-cover.jpg)](images/Photo-Tomie-part-4-cover.jpg)
+[![](images/Photo-Tomie-part-4-cover.jpg)](images/Photo-Tomie-part-4-cover.jpg)
 
 > Before I moved here, I lived in spain for a while. I was born in France, though.
 > 
@@ -32,23 +33,28 @@ As an aside, it is interesting how Tomie Photo begins. We see her in the opening
 
 ## Main Characters
 
-[![](images/Tomie-3.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Tomie-3.jpg)
+[![](images/Tomie-3.jpg)](images/Tomie-3.jpg)
+[![](images/Tomie-3.jpg)](images/Tomie-3.jpg)
 
 Tomie
 
-[![](images/Tsukiko.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Tsukiko.jpg)
+[![](images/Tsukiko.jpg)](images/Tsukiko.jpg)
+[![](images/Tsukiko.jpg)](images/Tsukiko.jpg)
 
 Tsukiko
 
-[![](images/Yamazaki.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Yamazaki.jpg)
+[![](images/Yamazaki.jpg)](images/Yamazaki.jpg)
+[![](images/Yamazaki.jpg)](images/Yamazaki.jpg)
 
 Yamazaki
 
-[![](images/Kimata.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Kimata.jpg)
+[![](images/Kimata.jpg)](images/Kimata.jpg)
+[![](images/Kimata.jpg)](images/Kimata.jpg)
 
 Kimata
 
-[![](images/Taichi.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Taichi.jpg)
+[![](images/Taichi.jpg)](images/Taichi.jpg)
+[![](images/Taichi.jpg)](images/Taichi.jpg)
 
 Taichi
 
@@ -64,19 +70,23 @@ But no matter where you place Tomie, Tsukiko is a bit of a bad girl herself. Ess
 
 This kind of exploration of character is one of the many aspects of Junji Ito's work, specifically in this series, that make me love his stuff. Nothing is simply good and bad; black and white; light and dark. There is an unsettling shade that weaves it's way into most things throughout these stories. But don't get me wrong, there are some purely innocent people who get caught in Tomie's path along the way. But we'll come to those in due time.
 
-[![](images/Tomie-arrives-at-a-strangers-house.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Tomie-arrives-at-a-strangers-house.jpg)
+[![](images/Tomie-arrives-at-a-strangers-house.jpg)](images/Tomie-arrives-at-a-strangers-house.jpg)
+[![](images/Tomie-arrives-at-a-strangers-house.jpg)](images/Tomie-arrives-at-a-strangers-house.jpg)
 
 Tomie arrives at a strangers house
 
-[![](images/The-Ethics-comittee-are-on-the-move.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/The-Ethics-comittee-are-on-the-move.jpg)
+[![](images/The-Ethics-comittee-are-on-the-move.jpg)](images/The-Ethics-comittee-are-on-the-move.jpg)
+[![](images/The-Ethics-comittee-are-on-the-move.jpg)](images/The-Ethics-comittee-are-on-the-move.jpg)
 
 The Ethics committee are on the move
 
-[![](images/Tomie-having-her-photo-taken.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Tomie-having-her-photo-taken.jpg)
+[![](images/Tomie-having-her-photo-taken.jpg)](images/Tomie-having-her-photo-taken.jpg)
+[![](images/Tomie-having-her-photo-taken.jpg)](images/Tomie-having-her-photo-taken.jpg)
 
 Tomie having her photo taken
 
-[![](images/Tomie-seems-to-admire-Tsukikos-photos.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Tomie-seems-to-admire-Tsukikos-photos.jpg)
+[![](images/Tomie-seems-to-admire-Tsukikos-photos.jpg)](images/Tomie-seems-to-admire-Tsukikos-photos.jpg)
+[![](images/Tomie-seems-to-admire-Tsukikos-photos.jpg)](images/Tomie-seems-to-admire-Tsukikos-photos.jpg)
 
 Tomie seems to admire Tsukikos photos
 

@@ -10,6 +10,7 @@ tags:
 coverImage: "OG-Ronald-McDonald.jpeg"
 ---
 
-[![](images/OG-Ronald-McDonald.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/OG-Ronald-McDonald.jpeg)
+[![](images/OG-Ronald-McDonald.jpeg)](images/OG-Ronald-McDonald.jpeg)
+[![](images/OG-Ronald-McDonald.jpeg)](images/OG-Ronald-McDonald.jpeg)
 
 The original Ronald McDonald was just plain demonic-looking. How could you possibly feel safe in an establishment where this greats you at the door?

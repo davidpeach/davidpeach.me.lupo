@@ -10,4 +10,5 @@ tags:
 
 Giraffes have the same amount of bones in their necks as humans.
 
-[![](images/GIraffe.jpeg)](http://davidpeach.co.uk/wp-content/uploads/2021/02/GIraffe.jpeg)
+[![](images/GIraffe.jpeg)](images/GIraffe.jpeg)
+[![](images/GIraffe.jpeg)](images/GIraffe.jpeg)

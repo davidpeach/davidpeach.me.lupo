@@ -14,7 +14,8 @@ tags:
 coverImage: "Hair-Tomie-part-11-cover.jpg"
 ---
 
-[![](images/Hair-Tomie-part-11-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Hair-Tomie-part-11-cover.jpg)
+[![](images/Hair-Tomie-part-11-cover.jpg)](images/Hair-Tomie-part-11-cover.jpg)
+[![](images/Hair-Tomie-part-11-cover.jpg)](images/Hair-Tomie-part-11-cover.jpg)
 
 > Tomie came to me more and more often. I sat in my room, dwelling, transfixed by her beauty. I felt no desire to go anywhere.
 > 
@@ -30,23 +31,28 @@ As time goes on, they both start having strange dreams - dreams of a beautiful y
 
 ## Main Characters
 
-[![](images/Tomie-6.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Tomie-6.jpg)
+[![](images/Tomie-6.jpg)](images/Tomie-6.jpg)
+[![](images/Tomie-6.jpg)](images/Tomie-6.jpg)
 
 Tomie
 
-[![](images/Miki.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Miki.jpg)
+[![](images/Miki.jpg)](images/Miki.jpg)
+[![](images/Miki.jpg)](images/Miki.jpg)
 
 Miki
 
-[![](images/Chie.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Chie.jpg)
+[![](images/Chie.jpg)](images/Chie.jpg)
+[![](images/Chie.jpg)](images/Chie.jpg)
 
 Chie
 
-[![](images/Chies-father.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Chies-father.jpg)
+[![](images/Chies-father.jpg)](images/Chies-father.jpg)
+[![](images/Chies-father.jpg)](images/Chies-father.jpg)
 
 Chie's Father
 
-[![](images/Chies-Mother.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Chies-Mother.jpg)
+[![](images/Chies-Mother.jpg)](images/Chies-Mother.jpg)
+[![](images/Chies-Mother.jpg)](images/Chies-Mother.jpg)
 
 Chie's Mother
 
@@ -66,15 +72,18 @@ The more I think about it too, the more I can't necessarily blame Tomie for what
 
 What I found interesting, and even refreshing, with this chapter, was how Tomie herself doesn't actually appear in the story in physical form. Instead, it is only through the hallucinations that both girls witness that she appears.
 
-[![](images/Chie-finds-the-box-of-hair.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Chie-finds-the-box-of-hair.jpg)
+[![](images/Chie-finds-the-box-of-hair.jpg)](images/Chie-finds-the-box-of-hair.jpg)
+[![](images/Chie-finds-the-box-of-hair.jpg)](images/Chie-finds-the-box-of-hair.jpg)
 
 Chie finds the box of hair
 
-[![](images/The-hair-attaches-itself.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-hair-attaches-itself.jpg)
+[![](images/The-hair-attaches-itself.jpg)](images/The-hair-attaches-itself.jpg)
+[![](images/The-hair-attaches-itself.jpg)](images/The-hair-attaches-itself.jpg)
 
 A hair attaches itself
 
-[![](images/Chie-gets-visions-of-Tomie.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Chie-gets-visions-of-Tomie.jpg)
+[![](images/Chie-gets-visions-of-Tomie.jpg)](images/Chie-gets-visions-of-Tomie.jpg)
+[![](images/Chie-gets-visions-of-Tomie.jpg)](images/Chie-gets-visions-of-Tomie.jpg)
 
 Chie gets visions of Tomie
 

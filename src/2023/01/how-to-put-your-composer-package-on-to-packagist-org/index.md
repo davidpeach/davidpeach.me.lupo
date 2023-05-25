@@ -22,7 +22,8 @@ Go to "create a new release" and fill in the form.
 
 Here is an example of the form from a recent project of mine:
 
-[![](images/Screenshot-from-2021-05-23-08-06-11.png)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Screenshot-from-2021-05-23-08-06-11.png)
+[![](images/Screenshot-from-2021-05-23-08-06-11.png)](images/Screenshot-from-2021-05-23-08-06-11.png)
+[![](images/Screenshot-from-2021-05-23-08-06-11.png)](images/Screenshot-from-2021-05-23-08-06-11.png)
 
 ## On packagist
 
@@ -30,13 +31,15 @@ Setup your packagist account with access tokens etc.
 
 Go to submit package, paste in the URL to your package's repository and click "check".
 
-[![](images/Screenshot-from-2021-05-23-08-23-52.png)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Screenshot-from-2021-05-23-08-23-52.png)
+[![](images/Screenshot-from-2021-05-23-08-23-52.png)](images/Screenshot-from-2021-05-23-08-23-52.png)
+[![](images/Screenshot-from-2021-05-23-08-23-52.png)](images/Screenshot-from-2021-05-23-08-23-52.png)
 
 Packagist submit package screen -- with the check button
 
 When you click "check", it will go off and attempt to find the package at that URL.
 
-[![](images/Screenshot-from-2021-05-23-08-25-35.png)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Screenshot-from-2021-05-23-08-25-35.png)
+[![](images/Screenshot-from-2021-05-23-08-25-35.png)](images/Screenshot-from-2021-05-23-08-25-35.png)
+[![](images/Screenshot-from-2021-05-23-08-25-35.png)](images/Screenshot-from-2021-05-23-08-25-35.png)
 
 Packagist submit package screen -- package found at URL and ready to submit
 

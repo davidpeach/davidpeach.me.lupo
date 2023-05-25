@@ -12,4 +12,5 @@ tags:
 coverImage: "Abandoned-Kitchen-scaled-1.jpg"
 ---
 
-[![](images/Abandoned-Kitchen-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/Abandoned-Kitchen-scaled-1.jpg)
+[![](images/Abandoned-Kitchen-scaled-1.jpg)](images/Abandoned-Kitchen-scaled-1.jpg)
+[![](images/Abandoned-Kitchen-scaled-1.jpg)](images/Abandoned-Kitchen-scaled-1.jpg)

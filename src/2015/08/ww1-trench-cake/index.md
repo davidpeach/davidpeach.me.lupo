@@ -11,6 +11,7 @@ tags:
 coverImage: "Trench-Chocolate-Cake.jpg"
 ---
 
-[![](images/Trench-Chocolate-Cake.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Trench-Chocolate-Cake.jpg)
+[![](images/Trench-Chocolate-Cake.jpg)](images/Trench-Chocolate-Cake.jpg)
+[![](images/Trench-Chocolate-Cake.jpg)](images/Trench-Chocolate-Cake.jpg)
 
 WW1 Trench Cake

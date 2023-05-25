@@ -30,7 +30,8 @@ tags:
 
 Doggerland was the connecting area of land that connected britannia to the continent that, by around 6,500BCE, was completely underwater:
 
-[![](images/Doggerland-and-Doggerbank.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Doggerland-and-Doggerbank.jpg)
+[![](images/Doggerland-and-Doggerbank.jpg)](images/Doggerland-and-Doggerbank.jpg)
+[![](images/Doggerland-and-Doggerbank.jpg)](images/Doggerland-and-Doggerbank.jpg)
 
 Map showing the location of Doggerland and Doggerbank
 

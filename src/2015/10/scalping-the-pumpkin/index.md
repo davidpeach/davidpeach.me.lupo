@@ -8,4 +8,5 @@ tags:
   - "pumpkins"
 ---
 
-[![](images/Scalping-the-pumpkin.jpg)](http://davidpeach.co.uk/wp-content/uploads/2021/02/Scalping-the-pumpkin.jpg)
+[![](images/Scalping-the-pumpkin.jpg)](images/Scalping-the-pumpkin.jpg)
+[![](images/Scalping-the-pumpkin.jpg)](images/Scalping-the-pumpkin.jpg)

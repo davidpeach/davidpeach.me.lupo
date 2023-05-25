@@ -14,7 +14,8 @@ tags:
 coverImage: "Assassins-Tomie-part-10-cover.jpg"
 ---
 
-[![](images/Assassins-Tomie-part-10-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Assassins-Tomie-part-10-cover.jpg)
+[![](images/Assassins-Tomie-part-10-cover.jpg)](images/Assassins-Tomie-part-10-cover.jpg)
+[![](images/Assassins-Tomie-part-10-cover.jpg)](images/Assassins-Tomie-part-10-cover.jpg)
 
 > Now, listen. Go back to your apartment and snuff out this demon.
 > 
@@ -30,15 +31,18 @@ As the story moves forward we find that more would-be assassins lurk around the 
 
 ## Main Characters
 
-[![](images/Tomie-7.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Tomie-7.jpg)
+[![](images/Tomie-7.jpg)](images/Tomie-7.jpg)
+[![](images/Tomie-7.jpg)](images/Tomie-7.jpg)
 
 Tomie
 
-[![](images/Tetsuo.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Tetsuo.jpg)
+[![](images/Tetsuo.jpg)](images/Tetsuo.jpg)
+[![](images/Tetsuo.jpg)](images/Tetsuo.jpg)
 
 Tetsuo
 
-[![](images/An-Assassin.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/An-Assassin.jpg)
+[![](images/An-Assassin.jpg)](images/An-Assassin.jpg)
+[![](images/An-Assassin.jpg)](images/An-Assassin.jpg)
 
 An Assassin
 
@@ -58,19 +62,23 @@ We are again subjected to Tomie's complete disregard of other people's thoughts,
 
 It is chapters such as this one that make it hard to like Tomie. I mean, I always enjoy her for the character that she is; there have been moments in the past where I couldn't help but like her a little bit. However, this chapter was not one of those moments for me.
 
-[![](images/Tetsuo-takes-care-of-injured-Tomie.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Tetsuo-takes-care-of-injured-Tomie.jpg)
+[![](images/Tetsuo-takes-care-of-injured-Tomie.jpg)](images/Tetsuo-takes-care-of-injured-Tomie.jpg)
+[![](images/Tetsuo-takes-care-of-injured-Tomie.jpg)](images/Tetsuo-takes-care-of-injured-Tomie.jpg)
 
 Tetsuo takes care of injured Tomie
 
-[![](images/Tetsuo-buries-Tomie.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Tetsuo-buries-Tomie.jpg)
+[![](images/Tetsuo-buries-Tomie.jpg)](images/Tetsuo-buries-Tomie.jpg)
+[![](images/Tetsuo-buries-Tomie.jpg)](images/Tetsuo-buries-Tomie.jpg)
 
 Tetsuo buries Tomie
 
-[![](images/Driven-to-kill.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Driven-to-kill.jpg)
+[![](images/Driven-to-kill.jpg)](images/Driven-to-kill.jpg)
+[![](images/Driven-to-kill.jpg)](images/Driven-to-kill.jpg)
 
 Driven to kill
 
-[![](images/Tomie.-again.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Tomie.-again.jpg)
+[![](images/Tomie.-again.jpg)](images/Tomie.-again.jpg)
+[![](images/Tomie.-again.jpg)](images/Tomie.-again.jpg)
 
 Tomie... again
 

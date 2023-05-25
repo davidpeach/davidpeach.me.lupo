@@ -11,7 +11,8 @@ tags:
 coverImage: "The-house-on-the-strand-cover.jpg"
 ---
 
-[![](images/The-house-on-the-strand-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/The-house-on-the-strand-cover.jpg)
+[![](images/The-house-on-the-strand-cover.jpg)](images/The-house-on-the-strand-cover.jpg)
+[![](images/The-house-on-the-strand-cover.jpg)](images/The-house-on-the-strand-cover.jpg)
 
 The House on the Strand cover
 

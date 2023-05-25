@@ -11,6 +11,7 @@ tags:
 coverImage: "Deacon-and-Iron-Mike.jpg"
 ---
 
-[![](images/Deacon-and-Iron-Mike.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Deacon-and-Iron-Mike.jpg)
+[![](images/Deacon-and-Iron-Mike.jpg)](images/Deacon-and-Iron-Mike.jpg)
+[![](images/Deacon-and-Iron-Mike.jpg)](images/Deacon-and-Iron-Mike.jpg)
 
 Deacon and Iron Mike

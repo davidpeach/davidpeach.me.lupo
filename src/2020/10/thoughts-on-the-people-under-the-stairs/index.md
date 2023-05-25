@@ -9,7 +9,8 @@ tags:
 coverImage: "the-people-under-the-stairs-poster.jpg"
 ---
 
-[![](images/the-people-under-the-stairs-poster-692x1024.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/the-people-under-the-stairs-poster.jpg)
+[![](images/the-people-under-the-stairs-poster-692x1024.jpg)](images/the-people-under-the-stairs-poster.jpg)
+[![](images/the-people-under-the-stairs-poster-692x1024.jpg)](images/the-people-under-the-stairs-poster.jpg)
 
 I finally faced my childhood trauma by watching The people under the stairs in full. I saw sections of it as a child and remember only the image of children running from something in the wall cavities of a old creepy house.
 

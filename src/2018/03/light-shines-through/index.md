@@ -12,4 +12,5 @@ tags:
 coverImage: "Light-shines-through-scaled-1.jpg"
 ---
 
-[![](images/Light-shines-through-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/Light-shines-through-scaled-1.jpg)
+[![](images/Light-shines-through-scaled-1.jpg)](images/Light-shines-through-scaled-1.jpg)
+[![](images/Light-shines-through-scaled-1.jpg)](images/Light-shines-through-scaled-1.jpg)

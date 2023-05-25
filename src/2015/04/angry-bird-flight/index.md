@@ -10,7 +10,8 @@ tags:
 coverImage: "Angry-bird-flight.jpeg"
 ---
 
-[![](images/Angry-bird-flight.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Angry-bird-flight.jpeg)
+[![](images/Angry-bird-flight.jpeg)](images/Angry-bird-flight.jpeg)
+[![](images/Angry-bird-flight.jpeg)](images/Angry-bird-flight.jpeg)
 
 Angry bird in flight
 

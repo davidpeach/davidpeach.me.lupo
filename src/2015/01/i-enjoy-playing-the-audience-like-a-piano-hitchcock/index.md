@@ -9,6 +9,7 @@ tags:
   - "quotes"
 ---
 
-[![](images/Hitchcock.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Hitchcock.jpeg)
+[![](images/Hitchcock.jpeg)](images/Hitchcock.jpeg)
+[![](images/Hitchcock.jpeg)](images/Hitchcock.jpeg)
 
 Image found on Twitter: [here](https://twitter.com/NeoText_Films/status/555234045588938753).

@@ -12,4 +12,5 @@ tags:
 coverImage: "Skull-shaped-pencil-drawing-of-Dead-by-Daylight-characters.jpg"
 ---
 
-[![](images/Skull-shaped-pencil-drawing-of-Dead-by-Daylight-characters.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Skull-shaped-pencil-drawing-of-Dead-by-Daylight-characters.jpg)
+[![](images/Skull-shaped-pencil-drawing-of-Dead-by-Daylight-characters.jpg)](images/Skull-shaped-pencil-drawing-of-Dead-by-Daylight-characters.jpg)
+[![](images/Skull-shaped-pencil-drawing-of-Dead-by-Daylight-characters.jpg)](images/Skull-shaped-pencil-drawing-of-Dead-by-Daylight-characters.jpg)

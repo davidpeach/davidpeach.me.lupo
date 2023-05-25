@@ -13,7 +13,8 @@ tags:
 coverImage: "braver-than-we-are-album-cover.jpg"
 ---
 
-[![](images/braver-than-we-are-album-cover-1024x1020.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/braver-than-we-are-album-cover.jpg)
+[![](images/braver-than-we-are-album-cover-1024x1020.jpg)](images/braver-than-we-are-album-cover.jpg)
+[![](images/braver-than-we-are-album-cover-1024x1020.jpg)](images/braver-than-we-are-album-cover.jpg)
 
 I am a huge fan of both [Meat Loaf](http://meatloaf.net/) and [Jim Steinman](http://www.jimsteinman.com/). Their music, whether separate or in collaboration, has a special place in my heart. From the Bat albums to Welcome to the Neighbourhood; from Bad Attitude to Blind before I stop. Although the Steinman-penned albums are in a league of their own, I still enjoy Meat Loaf in his own right throughout his career.
 
@@ -27,7 +28,8 @@ I now present my thoughts on the album.
 
 Meat Loaf has had full collaboration with Jim Steinman on four of his thirteen albums to date. The first, and most famous was Bat out of Hell from 1977. The album 'Deadringer' following in 1981 and is so underrated if you ask me. Then came Bat out of Hell 2 in 1993, which is an album that got me through my years at high school.
 
-[![](images/meat-loaf-1-1024x566.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/meat-loaf-1.jpg)
+[![](images/meat-loaf-1-1024x566.jpg)](images/meat-loaf-1.jpg)
+[![](images/meat-loaf-1-1024x566.jpg)](images/meat-loaf-1.jpg)
 
 Meat Loaf promoting Braver than we are
 
@@ -45,7 +47,8 @@ What I find really great about Steinman’s music is how it has stood the test o
 
 ## Stand out songs
 
-[![](images/0_Songwriters-Hall-Of-Fame-43rd-Annual-Induction-And-Awards-Show-1024x538.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/0_Songwriters-Hall-Of-Fame-43rd-Annual-Induction-And-Awards-Show.jpg)
+[![](images/0_Songwriters-Hall-Of-Fame-43rd-Annual-Induction-And-Awards-Show-1024x538.jpg)](images/0_Songwriters-Hall-Of-Fame-43rd-Annual-Induction-And-Awards-Show.jpg)
+[![](images/0_Songwriters-Hall-Of-Fame-43rd-Annual-Induction-And-Awards-Show-1024x538.jpg)](images/0_Songwriters-Hall-Of-Fame-43rd-Annual-Induction-And-Awards-Show.jpg)
 
 Jim Steinman and Meat Loaf in recent years
 
@@ -61,7 +64,8 @@ Braver than we are closes on the gloriously upbeat, rock n roll belter, ‘Train
 
 Any fans of the grandiose lyrics and arrangements of Jim Steinman will not be disappointed with this album. Anyone expecting Meat to hit the same high notes as he did in his early days, take heed - he isn’t afraid to embrace his deeper voice in this album, and neither should you.
 
-[![](images/jim-steinman-and-karla-deVito-and-ellen-foley.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/jim-steinman-and-karla-deVito-and-ellen-foley.jpg)
+[![](images/jim-steinman-and-karla-deVito-and-ellen-foley.jpg)](images/jim-steinman-and-karla-deVito-and-ellen-foley.jpg)
+[![](images/jim-steinman-and-karla-deVito-and-ellen-foley.jpg)](images/jim-steinman-and-karla-deVito-and-ellen-foley.jpg)
 
 Jim Steinman with Karla deVito and Ellen Foley
 

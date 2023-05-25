@@ -10,4 +10,5 @@ tags:
 coverImage: "500-on-red-scaled-1.jpeg"
 ---
 
-[![](images/500-on-red-scaled-1.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/500-on-red-scaled-1.jpeg)
+[![](images/500-on-red-scaled-1.jpeg)](images/500-on-red-scaled-1.jpeg)
+[![](images/500-on-red-scaled-1.jpeg)](images/500-on-red-scaled-1.jpeg)

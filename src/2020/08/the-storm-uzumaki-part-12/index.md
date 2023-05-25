@@ -14,7 +14,8 @@ tags:
 coverImage: "Uzumaki-The-Storm-cover.jpg"
 ---
 
-[![](images/Uzumaki-The-Storm-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Uzumaki-The-Storm-cover.jpg)
+[![](images/Uzumaki-The-Storm-cover.jpg)](images/Uzumaki-The-Storm-cover.jpg)
+[![](images/Uzumaki-The-Storm-cover.jpg)](images/Uzumaki-The-Storm-cover.jpg)
 
 > Didn't you hear the wind last night? The voice of the storm was calling your name!
 
@@ -26,11 +27,13 @@ All through the night the storm seems to be calling out to Kirie, which confirme
 
 He warns her that the eye of the storm, the typhoon's central point, is directly overhead and is watching her! What follows is a violent chase through the streets of Kurouzu Cho as they attempt to escape the storm's focused eye.
 
-[![](images/Kirie-in-The-Storm.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Kirie-in-The-Storm.jpg)
+[![](images/Kirie-in-The-Storm.jpg)](images/Kirie-in-The-Storm.jpg)
+[![](images/Kirie-in-The-Storm.jpg)](images/Kirie-in-The-Storm.jpg)
 
 Kirie
 
-[![](images/Shuichi-in-The-Storm.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Shuichi-in-The-Storm.jpg)
+[![](images/Shuichi-in-The-Storm.jpg)](images/Shuichi-in-The-Storm.jpg)
+[![](images/Shuichi-in-The-Storm.jpg)](images/Shuichi-in-The-Storm.jpg)
 
 Shuichi
 
@@ -44,7 +47,8 @@ Throughout recent chapters of the Uzumaki Collection, the power that the spiral 
 
 And at the centre of it all seems to be Dragonfly Pond.
 
-[![](images/The-storm-causes-lots-of-destruction.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-storm-causes-lots-of-destruction.jpg)
+[![](images/The-storm-causes-lots-of-destruction.jpg)](images/The-storm-causes-lots-of-destruction.jpg)
+[![](images/The-storm-causes-lots-of-destruction.jpg)](images/The-storm-causes-lots-of-destruction.jpg)
 
 The storm causes lots of destruction
 
@@ -58,7 +62,8 @@ Part of my own theory about Kirie is to do with the location of her family home.
 
 It just feels like too much of a coincidence for her to live next to this pond and then go on to be targeted by the spiral.
 
-[![](images/The-wind-cries-Kirie.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-wind-cries-Kirie.jpg)
+[![](images/The-wind-cries-Kirie.jpg)](images/The-wind-cries-Kirie.jpg)
+[![](images/The-wind-cries-Kirie.jpg)](images/The-wind-cries-Kirie.jpg)
 
 The wind cries Kirie
 
@@ -70,7 +75,8 @@ With The Storm specifically, I wanted to draw special attention to the amount of
 
 In many of the panels in this chapter you really can see the time and effort put into every frame. Into creating the believable, frantic journey that these two friends must endure. You can feel the biting storm; the unforgiving wind; and the utmost sense of urgency as they try to escape the eye of the storm.
 
-[![](images/Shuichi-helps-Kirie-in-the-Storm.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Shuichi-helps-Kirie-in-the-Storm.jpg)
+[![](images/Shuichi-helps-Kirie-in-the-Storm.jpg)](images/Shuichi-helps-Kirie-in-the-Storm.jpg)
+[![](images/Shuichi-helps-Kirie-in-the-Storm.jpg)](images/Shuichi-helps-Kirie-in-the-Storm.jpg)
 
 Shuichi helps Kirie in the Storm
 

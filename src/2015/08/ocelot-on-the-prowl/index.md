@@ -9,4 +9,5 @@ tags:
   - "ocelot"
 ---
 
-[![](images/Ocelot-on-the-prowl.jpeg)](http://davidpeach.co.uk/wp-content/uploads/2021/02/Ocelot-on-the-prowl.jpeg)
+[![](images/Ocelot-on-the-prowl.jpeg)](images/Ocelot-on-the-prowl.jpeg)
+[![](images/Ocelot-on-the-prowl.jpeg)](images/Ocelot-on-the-prowl.jpeg)

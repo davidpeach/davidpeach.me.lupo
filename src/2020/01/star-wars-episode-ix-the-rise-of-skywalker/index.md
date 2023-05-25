@@ -19,6 +19,7 @@ The one thing that really did take me out of it though is the kiss between Rei a
 
 But on the whole I really enjoyed it. I'll probably watch it again whilst it's on at the cinema.
 
-[![](images/Kylo-Ren-and-Rei-in-The-Rise-of-Skywalker.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Kylo-Ren-and-Rei-in-The-Rise-of-Skywalker.jpg)
+[![](images/Kylo-Ren-and-Rei-in-The-Rise-of-Skywalker.jpg)](images/Kylo-Ren-and-Rei-in-The-Rise-of-Skywalker.jpg)
+[![](images/Kylo-Ren-and-Rei-in-The-Rise-of-Skywalker.jpg)](images/Kylo-Ren-and-Rei-in-The-Rise-of-Skywalker.jpg)
 
 As an aside, I don't get why there is always a group of people who lose their shit when something in the Star Wars universe doesn't go how they thought or wished it would. People who presumably consider themselves "true" fans or "die-hard" fans. To those haters I'd just like to say either get over your sense of entitlement or just watch a different film.

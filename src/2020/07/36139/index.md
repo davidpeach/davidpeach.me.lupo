@@ -12,4 +12,5 @@ tags:
 
 Watching Deep Red.
 
-[![](images/Screenshot_20200720-230732_Prime-Video.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Screenshot_20200720-230732_Prime-Video.jpg)
+[![](images/Screenshot_20200720-230732_Prime-Video.jpg)](images/Screenshot_20200720-230732_Prime-Video.jpg)
+[![](images/Screenshot_20200720-230732_Prime-Video.jpg)](images/Screenshot_20200720-230732_Prime-Video.jpg)

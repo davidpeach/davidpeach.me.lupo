@@ -18,7 +18,8 @@ coverImage: "bad-electric.jpg"
 > 
 > A\_QUARTER\_AFTER\_MIDNIGHT by BAD ELECTRIC
 
-[![](images/bad-electric.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/bad-electric.jpg)
+[![](images/bad-electric.jpg)](images/bad-electric.jpg)
+[![](images/bad-electric.jpg)](images/bad-electric.jpg)
 
 The LUX E.P. by Bad Electric was my first taste of their music with the opening song, "TON\_UP", grabbing my interest immediately. It has a super catchy and deep synth bass line that I just couldn't help but love. The vocals too are fantastic. The guy's voice is very reminiscent of Edwyn Collins mixed with a little bit of Lou Reed and David Bowie.
 

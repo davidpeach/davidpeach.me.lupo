@@ -11,6 +11,7 @@ tags:
 coverImage: "Fire-Engine.jpg"
 ---
 
-[![](images/Fire-Engine.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Fire-Engine.jpg)
+[![](images/Fire-Engine.jpg)](images/Fire-Engine.jpg)
+[![](images/Fire-Engine.jpg)](images/Fire-Engine.jpg)
 
 Fire Engine!

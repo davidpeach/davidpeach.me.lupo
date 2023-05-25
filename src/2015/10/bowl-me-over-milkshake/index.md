@@ -8,4 +8,5 @@ tags:
   - "star-city"
 ---
 
-[![](images/Bowl-me-over-milkshake.jpg)](http://davidpeach.co.uk/wp-content/uploads/2021/02/Bowl-me-over-milkshake.jpg)
+[![](images/Bowl-me-over-milkshake.jpg)](images/Bowl-me-over-milkshake.jpg)
+[![](images/Bowl-me-over-milkshake.jpg)](images/Bowl-me-over-milkshake.jpg)

@@ -11,7 +11,8 @@ tags:
   - "shiver-collection"
 ---
 
-[![](images/Used-Record-manga-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2018/03/Used-Record-manga-cover.jpg)
+[![](images/Used-Record-manga-cover.jpg)](images/Used-Record-manga-cover.jpg)
+[![](images/Used-Record-manga-cover.jpg)](images/Used-Record-manga-cover.jpg)
 
 > I've never heard anything like it before. The girl's voice sounds detached, but there's a strange intonation somehow...
 > 

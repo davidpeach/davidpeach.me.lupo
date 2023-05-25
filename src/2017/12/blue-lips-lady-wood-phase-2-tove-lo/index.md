@@ -12,7 +12,8 @@ tags:
 coverImage: "tove-lo-blue-lips-cover.jpg"
 ---
 
-[![](images/tove-lo-blue-lips-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/tove-lo-blue-lips-cover.jpg)
+[![](images/tove-lo-blue-lips-cover.jpg)](images/tove-lo-blue-lips-cover.jpg)
+[![](images/tove-lo-blue-lips-cover.jpg)](images/tove-lo-blue-lips-cover.jpg)
 
 [Lady Wood](https://davidpeach.co.uk/2016/11/lady-wood-by-tove-lo/) was one of my favourite albums from last year and still gets regular plays in my headphones. I was excited to say the least when I heard about Tove Lo's follow-up Blue Lips \[Lady Wood Phase 2\].
 

@@ -7,6 +7,7 @@ tags:
   - "vertical-shots"
 ---
 
-[![](images/Supercell-scaled-1.jpg)](http://davidpeach.co.uk/wp-content/uploads/2020/11/Supercell-scaled-1.jpg)
+[![](images/Supercell-scaled-1.jpg)](images/Supercell-scaled-1.jpg)
+[![](images/Supercell-scaled-1.jpg)](images/Supercell-scaled-1.jpg)
 
 Supercell

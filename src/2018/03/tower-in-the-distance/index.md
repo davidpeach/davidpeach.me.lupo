@@ -12,4 +12,5 @@ tags:
 coverImage: "Tower-in-the-distance-scaled-1.jpg"
 ---
 
-[![](images/Tower-in-the-distance-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/Tower-in-the-distance-scaled-1.jpg)
+[![](images/Tower-in-the-distance-scaled-1.jpg)](images/Tower-in-the-distance-scaled-1.jpg)
+[![](images/Tower-in-the-distance-scaled-1.jpg)](images/Tower-in-the-distance-scaled-1.jpg)

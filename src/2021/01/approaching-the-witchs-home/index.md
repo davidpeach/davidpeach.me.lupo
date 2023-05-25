@@ -9,4 +9,5 @@ tags:
   - "ps4"
 ---
 
-[![](images/God-of-War_20210119193128-scaled-1.jpg)](http://davidpeach.co.uk/wp-content/uploads/2021/01/God-of-War_20210119193128-scaled-1.jpg)
+[![](images/God-of-War_20210119193128-scaled-1.jpg)](images/God-of-War_20210119193128-scaled-1.jpg)
+[![](images/God-of-War_20210119193128-scaled-1.jpg)](images/God-of-War_20210119193128-scaled-1.jpg)

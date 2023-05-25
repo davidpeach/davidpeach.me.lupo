@@ -14,7 +14,8 @@ tags:
 coverImage: "Fashion-Model-Cursed-Frame-by-Junji-Ito.jpg"
 ---
 
-[![](images/Fashion-Model-Cursed-Frame-by-Junji-Ito.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Fashion-Model-Cursed-Frame-by-Junji-Ito.jpg)
+[![](images/Fashion-Model-Cursed-Frame-by-Junji-Ito.jpg)](images/Fashion-Model-Cursed-Frame-by-Junji-Ito.jpg)
+[![](images/Fashion-Model-Cursed-Frame-by-Junji-Ito.jpg)](images/Fashion-Model-Cursed-Frame-by-Junji-Ito.jpg)
 
 > Ever since I was little, I've been afraid of having my picture taken. Or more precisely, of my body being fragmented by photos.
 > 

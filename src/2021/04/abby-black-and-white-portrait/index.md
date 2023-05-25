@@ -13,4 +13,5 @@ tags:
 coverImage: "Abby-black-and-white-portrait-edited.jpeg"
 ---
 
-[![](images/Abby-black-and-white-portrait-edited.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/Abby-black-and-white-portrait-edited.jpeg)
+[![](images/Abby-black-and-white-portrait-edited.jpeg)](images/Abby-black-and-white-portrait-edited.jpeg)
+[![](images/Abby-black-and-white-portrait-edited.jpeg)](images/Abby-black-and-white-portrait-edited.jpeg)

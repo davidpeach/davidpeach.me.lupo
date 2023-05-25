@@ -21,7 +21,8 @@ I can't offer any in-depth analysis or deeply philosophical film essays on this,
 
 From it's opening shot across Manhattan, **this film felt very much like a Hitchcock film to me**. Which was an instant hit for me. However, this isn't a Hitchcock film - it was in fact made by Roman Polanski. In fact, it was the first film of Polanski's that I have seen, that I remember.
 
-[![](images/Appartment-building-from-Rosemarys-Baby.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Appartment-building-from-Rosemarys-Baby.jpg)
+[![](images/Appartment-building-from-Rosemarys-Baby.jpg)](images/Appartment-building-from-Rosemarys-Baby.jpg)
+[![](images/Appartment-building-from-Rosemarys-Baby.jpg)](images/Appartment-building-from-Rosemarys-Baby.jpg)
 
 ## Sustained terror and paranoia
 
@@ -33,23 +34,28 @@ Even in their very first scenes, I could tell that certain characters were dodgy
 
 Ruth Gordon and Sidney Blackmer were great as Minnie and Roman Castevet. They have a certain friendliness and over-familiarity that I couldn't help get the heeby jeebies from.
 
-[![](images/Rosemary-receives-a-gift.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Rosemary-receives-a-gift.jpg)
+[![](images/Rosemary-receives-a-gift.jpg)](images/Rosemary-receives-a-gift.jpg)
+[![](images/Rosemary-receives-a-gift.jpg)](images/Rosemary-receives-a-gift.jpg)
 
 Rosemary receives a gift
 
-[![](images/Rosemary-in-the-phone-box.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Rosemary-in-the-phone-box.jpg)
+[![](images/Rosemary-in-the-phone-box.jpg)](images/Rosemary-in-the-phone-box.jpg)
+[![](images/Rosemary-in-the-phone-box.jpg)](images/Rosemary-in-the-phone-box.jpg)
 
 Rosemary in the phone box
 
-[![](images/Minnie-Castevet.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Minnie-Castevet.jpg)
+[![](images/Minnie-Castevet.jpg)](images/Minnie-Castevet.jpg)
+[![](images/Minnie-Castevet.jpg)](images/Minnie-Castevet.jpg)
 
 Minnie Castevet is at the door
 
-[![](images/Rosemary-wakes-after-baby-night.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Rosemary-wakes-after-baby-night.jpg)
+[![](images/Rosemary-wakes-after-baby-night.jpg)](images/Rosemary-wakes-after-baby-night.jpg)
+[![](images/Rosemary-wakes-after-baby-night.jpg)](images/Rosemary-wakes-after-baby-night.jpg)
 
 Rosemary wakes after "baby night" with cuts
 
-[![](images/Rosemary-Roman-and-Hutch.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Rosemary-Roman-and-Hutch.jpg)
+[![](images/Rosemary-Roman-and-Hutch.jpg)](images/Rosemary-Roman-and-Hutch.jpg)
+[![](images/Rosemary-Roman-and-Hutch.jpg)](images/Rosemary-Roman-and-Hutch.jpg)
 
 Rosemary Roman and Hutch
 
@@ -61,19 +67,23 @@ The people that are around Rosemary seem to be always brightly coloured too. It'
 
 On looking back, it really did feel that the film was easing me into a false sense of security.
 
-[![](images/Ruth-Gordon-as-Minnie-Castevet.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Ruth-Gordon-as-Minnie-Castevet.jpg)
+[![](images/Ruth-Gordon-as-Minnie-Castevet.jpg)](images/Ruth-Gordon-as-Minnie-Castevet.jpg)
+[![](images/Ruth-Gordon-as-Minnie-Castevet.jpg)](images/Ruth-Gordon-as-Minnie-Castevet.jpg)
 
 Minnie Castevet
 
-[![](images/Sidney-Blackmer-as-Roman-Castevet.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Sidney-Blackmer-as-Roman-Castevet.jpg)
+[![](images/Sidney-Blackmer-as-Roman-Castevet.jpg)](images/Sidney-Blackmer-as-Roman-Castevet.jpg)
+[![](images/Sidney-Blackmer-as-Roman-Castevet.jpg)](images/Sidney-Blackmer-as-Roman-Castevet.jpg)
 
 Roman Castevet
 
-[![](images/Guy-Woodhouse.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Guy-Woodhouse.jpg)
+[![](images/Guy-Woodhouse.jpg)](images/Guy-Woodhouse.jpg)
+[![](images/Guy-Woodhouse.jpg)](images/Guy-Woodhouse.jpg)
 
 Guy Woodhouse -- Rosemary's husband
 
-[![](images/Rosemary-clutching-at-her-tummy.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Rosemary-clutching-at-her-tummy.jpg)
+[![](images/Rosemary-clutching-at-her-tummy.jpg)](images/Rosemary-clutching-at-her-tummy.jpg)
+[![](images/Rosemary-clutching-at-her-tummy.jpg)](images/Rosemary-clutching-at-her-tummy.jpg)
 
 Rosemary Woodhouse
 
@@ -83,7 +93,8 @@ As so many people have said before me, this really is a horror classic. It stand
 
 I'd urge you, if you haven't already, to give this film a watch. Don't leave it as long as I have. It has scenes that I'm still thinking about now -- days after I actually saw it. And I don't doubt that I'll be thinking about them again in the future.
 
-[![](images/Fathers-eyes.gif)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Fathers-eyes.gif)
+[![](images/Fathers-eyes.gif)](images/Fathers-eyes.gif)
+[![](images/Fathers-eyes.gif)](images/Fathers-eyes.gif)
 
 ## External Articles
 

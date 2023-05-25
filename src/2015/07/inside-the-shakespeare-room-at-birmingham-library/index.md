@@ -9,4 +9,5 @@ tags:
   - "buildings"
 ---
 
-[![](images/Inside-the-Shakespeare-room-at-Birmingham-Library-758x1024.jpg)](http://davidpeach.co.uk/wp-content/uploads/2021/02/Inside-the-Shakespeare-room-at-Birmingham-Library.jpg)
+[![](images/Inside-the-Shakespeare-room-at-Birmingham-Library-758x1024.jpg)](images/Inside-the-Shakespeare-room-at-Birmingham-Library.jpg)
+[![](images/Inside-the-Shakespeare-room-at-Birmingham-Library-758x1024.jpg)](images/Inside-the-Shakespeare-room-at-Birmingham-Library.jpg)

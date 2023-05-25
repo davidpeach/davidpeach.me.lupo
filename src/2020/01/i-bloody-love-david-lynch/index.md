@@ -5,7 +5,8 @@ categories:
   - "notes"
 ---
 
-[![](images/Screenshot_20200121-000218_Netflix.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Screenshot_20200121-000218_Netflix.jpg)
+[![](images/Screenshot_20200121-000218_Netflix.jpg)](images/Screenshot_20200121-000218_Netflix.jpg)
+[![](images/Screenshot_20200121-000218_Netflix.jpg)](images/Screenshot_20200121-000218_Netflix.jpg)
 
 What did Jack do? on Netflix
 

@@ -9,4 +9,5 @@ tags:
 
 Just over 3 miles in 33 minutes.
 
-[![](images/Fazeley-Junction-1024x758.jpg)](http://davidpeach.co.uk/wp-content/uploads/2021/02/Fazeley-Junction.jpg)
+[![](images/Fazeley-Junction-1024x758.jpg)](images/Fazeley-Junction.jpg)
+[![](images/Fazeley-Junction-1024x758.jpg)](images/Fazeley-Junction.jpg)

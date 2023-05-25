@@ -9,4 +9,5 @@ tags:
 coverImage: "The-Last-of-Us™-Remastered_20191013172148-scaled.jpg"
 ---
 
-[![](images/The-Last-of-Us™-Remastered_20191013172148-scaled.jpg)](https://davidpeach.co.uk/wp-content/uploads/2019/10/The-Last-of-Us™-Remastered_20191013172148-scaled.jpg)
+[![](images/The-Last-of-Us™-Remastered_20191013172148-scaled.jpg)](images/The-Last-of-Us™-Remastered_20191013172148-scaled.jpg)
+[![](images/The-Last-of-Us™-Remastered_20191013172148-scaled.jpg)](images/The-Last-of-Us™-Remastered_20191013172148-scaled.jpg)

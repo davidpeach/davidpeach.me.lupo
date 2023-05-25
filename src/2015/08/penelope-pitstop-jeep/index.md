@@ -11,4 +11,5 @@ tags:
 coverImage: "Penelope-Pitstop-jeep.jpg"
 ---
 
-[![](images/Penelope-Pitstop-jeep-1024x758.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Penelope-Pitstop-jeep.jpg)
+[![](images/Penelope-Pitstop-jeep-1024x758.jpg)](images/Penelope-Pitstop-jeep.jpg)
+[![](images/Penelope-Pitstop-jeep-1024x758.jpg)](images/Penelope-Pitstop-jeep.jpg)

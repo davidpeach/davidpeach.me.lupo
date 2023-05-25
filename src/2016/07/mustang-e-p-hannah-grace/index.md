@@ -11,7 +11,8 @@ tags:
 coverImage: "hannah-grace-mustang-ep-cover.jpg"
 ---
 
-[![](images/hannah-grace-mustang-ep-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/hannah-grace-mustang-ep-cover.jpg)
+[![](images/hannah-grace-mustang-ep-cover.jpg)](images/hannah-grace-mustang-ep-cover.jpg)
+[![](images/hannah-grace-mustang-ep-cover.jpg)](images/hannah-grace-mustang-ep-cover.jpg)
 
 This E.p. just exploded into my ears in a way that reminded me of later-era White Stripes. The opening song is hugely-energetic that doesn't let up for a second. It's labelled as "pop" on my music subscription but I don't think that does this E.P. justice. It's got a chugging, powerful groove that would strangle the life from most modern "pop".
 

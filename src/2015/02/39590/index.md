@@ -9,6 +9,7 @@ tags:
   - "cute"
 ---
 
-[![](images/balls-of-fluff.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/balls-of-fluff.jpg)
+[![](images/balls-of-fluff.jpg)](images/balls-of-fluff.jpg)
+[![](images/balls-of-fluff.jpg)](images/balls-of-fluff.jpg)
 
 found on twitter: [here](https://twitter.com/Chrysta_Bell/status/568018437680660481).

@@ -14,7 +14,8 @@ tags:
 coverImage: "Top-Model-Tomie-part-19-cover.jpg"
 ---
 
-[![](images/Top-Model-Tomie-part-19-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Top-Model-Tomie-part-19-cover.jpg)
+[![](images/Top-Model-Tomie-part-19-cover.jpg)](images/Top-Model-Tomie-part-19-cover.jpg)
+[![](images/Top-Model-Tomie-part-19-cover.jpg)](images/Top-Model-Tomie-part-19-cover.jpg)
 
 > Ah ha ha ha. At least you've a sense of humor. But compared to my beauty, you're not even on the scale.
 > 

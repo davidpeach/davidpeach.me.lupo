@@ -12,7 +12,8 @@ tags:
 coverImage: "Kuriko-The-Bully.jpg"
 ---
 
-[![](images/Kuriko-The-Bully.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Kuriko-The-Bully.jpg)
+[![](images/Kuriko-The-Bully.jpg)](images/Kuriko-The-Bully.jpg)
+[![](images/Kuriko-The-Bully.jpg)](images/Kuriko-The-Bully.jpg)
 
 The Bully is one of those rare Junji Ito mangas that features no physical horror or gore. Instead, it's horror is depicted through the bullying inflicted by the central character, Kuriko.
 
@@ -28,31 +29,38 @@ As the story of The Bully moves into it's second half, it shows us how those ear
 
 ## Main Characters
 
-[![](images/Kuriko.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Kuriko.jpg)
+[![](images/Kuriko.jpg)](images/Kuriko.jpg)
+[![](images/Kuriko.jpg)](images/Kuriko.jpg)
 
 Kuriko
 
-[![](images/Young-Kuriko.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Young-Kuriko.jpg)
+[![](images/Young-Kuriko.jpg)](images/Young-Kuriko.jpg)
+[![](images/Young-Kuriko.jpg)](images/Young-Kuriko.jpg)
 
 Young Kuriko
 
-[![](images/Nao.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Nao.jpg)
+[![](images/Nao.jpg)](images/Nao.jpg)
+[![](images/Nao.jpg)](images/Nao.jpg)
 
 Nao
 
-[![](images/Young-Nao.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Young-Nao.jpg)
+[![](images/Young-Nao.jpg)](images/Young-Nao.jpg)
+[![](images/Young-Nao.jpg)](images/Young-Nao.jpg)
 
 Young Nao
 
-[![](images/Yutaro.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Yutaro.jpg)
+[![](images/Yutaro.jpg)](images/Yutaro.jpg)
+[![](images/Yutaro.jpg)](images/Yutaro.jpg)
 
 Yutaro
 
-[![](images/Young-Yutaro.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Young-Yutaro.jpg)
+[![](images/Young-Yutaro.jpg)](images/Young-Yutaro.jpg)
+[![](images/Young-Yutaro.jpg)](images/Young-Yutaro.jpg)
 
 Young Yutaro
 
-[![](images/Hiroshi.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Hiroshi.jpg)
+[![](images/Hiroshi.jpg)](images/Hiroshi.jpg)
+[![](images/Hiroshi.jpg)](images/Hiroshi.jpg)
 
 Hiroshi
 
@@ -66,7 +74,8 @@ How Ito manages to bring to the page the horrors of being bullied is impressive.
 
 Although...
 
-[![](images/Kuriko-is-a-bully-to-Nao.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Kuriko-is-a-bully-to-Nao.jpg)
+[![](images/Kuriko-is-a-bully-to-Nao.jpg)](images/Kuriko-is-a-bully-to-Nao.jpg)
+[![](images/Kuriko-is-a-bully-to-Nao.jpg)](images/Kuriko-is-a-bully-to-Nao.jpg)
 
 Kuriko is a bully to Nao
 
@@ -78,7 +87,8 @@ Because of this, I found myself never really hating her, save for the dog scene 
 
 Of course in the story's closing panels we do get to see her character transform into what she was perhaps destined to be. That closing panel of The Bully is one of the most frightening I have come across. Ito has always had a good eye for a great closing image that can haunt you, but this takes the prize.
 
-[![](images/Kuriko-and-Nao-meet-again.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Kuriko-and-Nao-meet-again.jpg)
+[![](images/Kuriko-and-Nao-meet-again.jpg)](images/Kuriko-and-Nao-meet-again.jpg)
+[![](images/Kuriko-and-Nao-meet-again.jpg)](images/Kuriko-and-Nao-meet-again.jpg)
 
 Kuriko and Nao meet again
 
@@ -92,15 +102,18 @@ But the story's big reveal doesn't show this violent nature being passed on to h
 
 Not only do we know what she was capable of as a child, but we know she is now a fully grown woman with the added strength that brings. And we know she is mentally unstable — mistaking her young son for the once-young Nao. But what we don't know, is what ends up happened to her new victim. With it ending with a walk to the park, perhaps the real horror will live on in our minds trying to imagine what will happen next.
 
-[![](images/Kuriko-and-Yutaro.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Kuriko-and-Yutaro.jpg)
+[![](images/Kuriko-and-Yutaro.jpg)](images/Kuriko-and-Yutaro.jpg)
+[![](images/Kuriko-and-Yutaro.jpg)](images/Kuriko-and-Yutaro.jpg)
 
 Kuriko and Yutaro
 
-[![](images/Kuriko-beats-Nao.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Kuriko-beats-Nao.jpg)
+[![](images/Kuriko-beats-Nao.jpg)](images/Kuriko-beats-Nao.jpg)
+[![](images/Kuriko-beats-Nao.jpg)](images/Kuriko-beats-Nao.jpg)
 
 Kuriko beats Nao
 
-[![](images/Kuriko-The-Bully.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Kuriko-The-Bully.jpg)
+[![](images/Kuriko-The-Bully.jpg)](images/Kuriko-The-Bully.jpg)
+[![](images/Kuriko-The-Bully.jpg)](images/Kuriko-The-Bully.jpg)
 
 Kuriko - The Bully
 

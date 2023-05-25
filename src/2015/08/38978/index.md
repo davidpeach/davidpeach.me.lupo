@@ -15,4 +15,5 @@ coverImage: "Hateful-Eight-poster.jpeg"
 
 The Hateful Eight poster. I really can't wait for this one.
 
-[![](images/Hateful-Eight-poster.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Hateful-Eight-poster.jpeg)
+[![](images/Hateful-Eight-poster.jpeg)](images/Hateful-Eight-poster.jpeg)
+[![](images/Hateful-Eight-poster.jpeg)](images/Hateful-Eight-poster.jpeg)

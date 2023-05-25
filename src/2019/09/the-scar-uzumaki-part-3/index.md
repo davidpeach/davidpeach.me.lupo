@@ -25,19 +25,23 @@ Azami has a very strange power over the boys in the school — they all seem to 
 
 However, whereas Tomie's power came from something dark within her, Azami's seems to originate from the crescent-moon-shaped scar on her forehead. Of course, kids being kids, there are all sorts of rumours going around about Azami and her strange power, but the truth may just end up being the most terrifying thing imaginable.
 
-[![](images/Azami-Kurotani.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Azami-Kurotani.jpg)
+[![](images/Azami-Kurotani.jpg)](images/Azami-Kurotani.jpg)
+[![](images/Azami-Kurotani.jpg)](images/Azami-Kurotani.jpg)
 
 Azami Kurotani
 
-[![](images/Kirie-Goshima.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Kirie-Goshima.jpg)
+[![](images/Kirie-Goshima.jpg)](images/Kirie-Goshima.jpg)
+[![](images/Kirie-Goshima.jpg)](images/Kirie-Goshima.jpg)
 
 Kirie Goshima
 
-[![](images/Shuichi-Sato.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Shuichi-Sato.jpg)
+[![](images/Shuichi-Sato.jpg)](images/Shuichi-Sato.jpg)
+[![](images/Shuichi-Sato.jpg)](images/Shuichi-Sato.jpg)
 
 Shuichi Sato
 
-[![](images/Okada.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Okada.jpg)
+[![](images/Okada.jpg)](images/Okada.jpg)
+[![](images/Okada.jpg)](images/Okada.jpg)
 
 Okada
 
@@ -51,7 +55,8 @@ The first two chapters of Uzumaki dealt with the spirals around the people that 
 
 What is left unanswered is perhaps most interesting here. Only after her accident as a young girl did the boys start noticing her — after she obtained that scar. But she had presumably lived with that scar for many years since — it was only when she'd met Shuichi, and he had noticed that scar, that it started to become a full spiral. Maybe the spiral was lying dormant inside her all of this time, waiting for Shuichi to meet her? Or maybe it had always been growing from a slight cut, to a moon shape and continuing on into the spiral? Perhaps the timing with meeting Shuichi was just bad luck for him.
 
-[![](images/A-whirlwind-whizzes-past-Azami-and-Kirie.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/A-whirlwind-whizzes-past-Azami-and-Kirie.jpg)
+[![](images/A-whirlwind-whizzes-past-Azami-and-Kirie.jpg)](images/A-whirlwind-whizzes-past-Azami-and-Kirie.jpg)
+[![](images/A-whirlwind-whizzes-past-Azami-and-Kirie.jpg)](images/A-whirlwind-whizzes-past-Azami-and-Kirie.jpg)
 
 A whirlwind whizzes past Azami and Kirie
 
@@ -67,15 +72,18 @@ However, with Azami, I got the impression that she wasn't an evil person. I felt
 
 This is now three central people to become cursed by the spiral that have a connection to Shuichi. His Father; his Mother; and now Azami. Maybe he has a connection to the spiral that we are yet to discover?
 
-[![](images/Azami-was-one-of-those-pretty-reserved-girls.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Azami-was-one-of-those-pretty-reserved-girls.jpg)
+[![](images/Azami-was-one-of-those-pretty-reserved-girls.jpg)](images/Azami-was-one-of-those-pretty-reserved-girls.jpg)
+[![](images/Azami-was-one-of-those-pretty-reserved-girls.jpg)](images/Azami-was-one-of-those-pretty-reserved-girls.jpg)
 
 Azami was one of those pretty reserved girls
 
-[![](images/Shuichi-can-feel-the-spiral-is-close-with-Azami.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Shuichi-can-feel-the-spiral-is-close-with-Azami.jpg)
+[![](images/Shuichi-can-feel-the-spiral-is-close-with-Azami.jpg)](images/Shuichi-can-feel-the-spiral-is-close-with-Azami.jpg)
+[![](images/Shuichi-can-feel-the-spiral-is-close-with-Azami.jpg)](images/Shuichi-can-feel-the-spiral-is-close-with-Azami.jpg)
 
 Shuichi can feel the spiral is close with Azami
 
-[![](images/Azamis-spiral-scar-gets-out-of-hand.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Azamis-spiral-scar-gets-out-of-hand.jpg)
+[![](images/Azamis-spiral-scar-gets-out-of-hand.jpg)](images/Azamis-spiral-scar-gets-out-of-hand.jpg)
+[![](images/Azamis-spiral-scar-gets-out-of-hand.jpg)](images/Azamis-spiral-scar-gets-out-of-hand.jpg)
 
 Azami's spiral scar gets out of hand
 

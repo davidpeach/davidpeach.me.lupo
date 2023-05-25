@@ -9,7 +9,8 @@ tags:
 coverImage: "image_editor_output_image-267459749-16769332122608645070139652758266.jpg"
 ---
 
-[![](images/image_editor_output_image-267459749-16769332122608645070139652758266.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/image_editor_output_image-267459749-16769332122608645070139652758266.jpg)
+[![](images/image_editor_output_image-267459749-16769332122608645070139652758266.jpg)](images/image_editor_output_image-267459749-16769332122608645070139652758266.jpg)
+[![](images/image_editor_output_image-267459749-16769332122608645070139652758266.jpg)](images/image_editor_output_image-267459749-16769332122608645070139652758266.jpg)
 
 Another incredible episode of The Last of Us.
 

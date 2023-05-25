@@ -9,4 +9,5 @@ tags:
   - "otters"
 ---
 
-[![](images/Otter-standing-up-like-a-cute-little-thing.jpeg)](http://davidpeach.co.uk/wp-content/uploads/2021/02/Otter-standing-up-like-a-cute-little-thing.jpeg)
+[![](images/Otter-standing-up-like-a-cute-little-thing.jpeg)](images/Otter-standing-up-like-a-cute-little-thing.jpeg)
+[![](images/Otter-standing-up-like-a-cute-little-thing.jpeg)](images/Otter-standing-up-like-a-cute-little-thing.jpeg)

@@ -14,7 +14,8 @@ tags:
 coverImage: "Love-As-Scripted-by-Junji-Ito-cover.jpg"
 ---
 
-[![](images/Love-As-Scripted-by-Junji-Ito-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Love-As-Scripted-by-Junji-Ito-cover.jpg)
+[![](images/Love-As-Scripted-by-Junji-Ito-cover.jpg)](images/Love-As-Scripted-by-Junji-Ito-cover.jpg)
+[![](images/Love-As-Scripted-by-Junji-Ito-cover.jpg)](images/Love-As-Scripted-by-Junji-Ito-cover.jpg)
 
 > I started to see past the script and its limitations, and I began imagining I was chatting with him for real.
 > 
@@ -26,11 +27,13 @@ We join the story in the throws of an argument between a couple. Their names are
 
 But Kaori, after having apparently been warned about him before, lashes out with a large kitchen knife. Then just as that knife is coming down towards him, we flashback to some time before they were together.
 
-[![](images/Kaori.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Kaori.jpg)
+[![](images/Kaori.jpg)](images/Kaori.jpg)
+[![](images/Kaori.jpg)](images/Kaori.jpg)
 
 Kaori
 
-[![](images/Takahashi.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Takahashi.jpg)
+[![](images/Takahashi.jpg)](images/Takahashi.jpg)
+[![](images/Takahashi.jpg)](images/Takahashi.jpg)
 
 Takahashi
 
@@ -46,7 +49,8 @@ Despite her actions, I found myself feeling sorry for Kaori — indeed all girls
 
 And that is the key thing I wanted to explore here — the interpretation. Although I don't condone how he seemed to mess these girls about, I couldn't help but dig a little deeper into some of his possible motivations.
 
-[![](images/Kaori-does-a-terrible-thing.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Kaori-does-a-terrible-thing.jpg)
+[![](images/Kaori-does-a-terrible-thing.jpg)](images/Kaori-does-a-terrible-thing.jpg)
+[![](images/Kaori-does-a-terrible-thing.jpg)](images/Kaori-does-a-terrible-thing.jpg)
 
 Kaori does a terrible thing
 
@@ -64,7 +68,8 @@ But then he could always just be a complete bastard with zero regard for others'
 
 The real sadness in Love as Scripted, at least for me, was the conclusion of Kaori's story. It's a shame how her love, and anger, for Takahashi drove her to stab him. She pretty much seals her future with that fateful blow. It is also a shame how she realises just how much she loves him through the medium of the video that set the attack off.
 
-[![](images/Kaori-isnt-impressed-with-Takahashis-video.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Kaori-isnt-impressed-with-Takahashis-video.jpg)
+[![](images/Kaori-isnt-impressed-with-Takahashis-video.jpg)](images/Kaori-isnt-impressed-with-Takahashis-video.jpg)
+[![](images/Kaori-isnt-impressed-with-Takahashis-video.jpg)](images/Kaori-isnt-impressed-with-Takahashis-video.jpg)
 
 Kaori isnt impressed with Takahashis video
 
@@ -78,11 +83,13 @@ But ultimately it will never be able to love her either.
 
 Although this is one of Junji Ito's shorter stories, I found Love As Scripted to have lots of charm. Despite it being a sad, more psychological piece than others, I found myself enjoying what I was looking for between the pages.
 
-[![](images/Takahashi-gives-Kaori-a-video-tape.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Takahashi-gives-Kaori-a-video-tape.jpg)
+[![](images/Takahashi-gives-Kaori-a-video-tape.jpg)](images/Takahashi-gives-Kaori-a-video-tape.jpg)
+[![](images/Takahashi-gives-Kaori-a-video-tape.jpg)](images/Takahashi-gives-Kaori-a-video-tape.jpg)
 
 Takahashi gives Kaori a video tape
 
-[![](images/The-video-tape.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/The-video-tape.jpg)
+[![](images/The-video-tape.jpg)](images/The-video-tape.jpg)
+[![](images/The-video-tape.jpg)](images/The-video-tape.jpg)
 
 The Video Tape
 

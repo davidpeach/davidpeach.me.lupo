@@ -12,7 +12,8 @@ tags:
 coverImage: "final-fantasy-vii-remake-ps4-box.jpg"
 ---
 
-[![](images/final-fantasy-vii-remake-ps4-box.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/final-fantasy-vii-remake-ps4-box.jpg)
+[![](images/final-fantasy-vii-remake-ps4-box.jpg)](images/final-fantasy-vii-remake-ps4-box.jpg)
+[![](images/final-fantasy-vii-remake-ps4-box.jpg)](images/final-fantasy-vii-remake-ps4-box.jpg)
 
 > Y'all have to look at the big picture here. Nothing worth fighting for was ever won without sacrifice.
 > 
@@ -46,7 +47,8 @@ You never heard the voices of the characters in the original Final Fantasy 7, so
 
 But once I heard Barret's deep voice bouncing off of Cloud's indifference in the remake, I knew the developers had captured these characters perfectly. Maybe it's just my imagination, but Barret sounded exactly how he had in my mind -- cloud not so much, but the way in which their relationship develops was as nicely done as I recall.
 
-[![](images/FINAL-FANTASY-VII-REMAKE_20210503105854.png)](https://davidpeach.co.uk/wp-content/uploads/2023/05/FINAL-FANTASY-VII-REMAKE_20210503105854.png)
+[![](images/FINAL-FANTASY-VII-REMAKE_20210503105854.png)](images/FINAL-FANTASY-VII-REMAKE_20210503105854.png)
+[![](images/FINAL-FANTASY-VII-REMAKE_20210503105854.png)](images/FINAL-FANTASY-VII-REMAKE_20210503105854.png)
 
 Tifa had that same hard edge as I'd remembered, along with the slight vulnerability. I didn't often control other characters during enemy battles, but Tifa was one I would sometimes -- punching an enemy before using a whirling uppercut was so cool.
 

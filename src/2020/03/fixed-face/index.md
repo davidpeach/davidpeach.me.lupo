@@ -13,7 +13,8 @@ tags:
 coverImage: "Fixed-Face.jpg"
 ---
 
-[![](images/Fixed-Face.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Fixed-Face.jpg)
+[![](images/Fixed-Face.jpg)](images/Fixed-Face.jpg)
+[![](images/Fixed-Face.jpg)](images/Fixed-Face.jpg)
 
 > This is a facility made specifically to capture the features on the lower portion of the face.
 > 
@@ -33,11 +34,13 @@ The location of the dental room is an area of the hospital not often covered by 
 
 She has no idea about the fate of her doctor. And has no way to get herself out of the place in which she is trapped. What will happen to the lady? Will she _ever_ get out? And if so, at what cost will she manage to break free?
 
-[![](images/Doctor-Otake.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Doctor-Otake.jpg)
+[![](images/Doctor-Otake.jpg)](images/Doctor-Otake.jpg)
+[![](images/Doctor-Otake.jpg)](images/Doctor-Otake.jpg)
 
 Doctor Otake
 
-[![](images/Yagawa.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Yagawa.jpg)
+[![](images/Yagawa.jpg)](images/Yagawa.jpg)
+[![](images/Yagawa.jpg)](images/Yagawa.jpg)
 
 Yagawa
 
@@ -51,7 +54,8 @@ We have a power over her that somehow reinforces Yagawa's increasing anxiety. As
 
 What I found interesting too, was that there are no malevolent forces in operation here. There are no evil spirits, forces of nature, or a bad doctor trying to trick her. It is a situation of pure bad luck -- for both Yagawa _and_ her doctor. A situation that Yagawa must then try to escape from.
 
-[![](images/Yagawa-tries-to-get-out.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Yagawa-tries-to-get-out.jpg)
+[![](images/Yagawa-tries-to-get-out.jpg)](images/Yagawa-tries-to-get-out.jpg)
+[![](images/Yagawa-tries-to-get-out.jpg)](images/Yagawa-tries-to-get-out.jpg)
 
 ## It reminded me of Tomie: Babysitter and Amigara Fault
 
@@ -63,11 +67,13 @@ Another similarity I felt in this story was of The [Enigma of Amigara Fault](htt
 
 That idea of being trapped and seemingly under the control of some outside force closing in on you is scary. And I think that similar theme was used well here in Fixed Face too -- albeit without the human-shaped holes.
 
-[![](images/Doctor-Otake-falls-down-dead.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Doctor-Otake-falls-down-dead.jpg)
+[![](images/Doctor-Otake-falls-down-dead.jpg)](images/Doctor-Otake-falls-down-dead.jpg)
+[![](images/Doctor-Otake-falls-down-dead.jpg)](images/Doctor-Otake-falls-down-dead.jpg)
 
 Doctor Otake falls down dead
 
-[![](images/Yagawa-starts-freaking-out.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Yagawa-starts-freaking-out.jpg)
+[![](images/Yagawa-starts-freaking-out.jpg)](images/Yagawa-starts-freaking-out.jpg)
+[![](images/Yagawa-starts-freaking-out.jpg)](images/Yagawa-starts-freaking-out.jpg)
 
 Yagawa starts freaking out
 

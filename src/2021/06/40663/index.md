@@ -11,7 +11,8 @@ tags:
   - "resident-evil-3-remake"
 ---
 
-[![](images/dead-by-daylight-resident-evil-chapter.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/dead-by-daylight-resident-evil-chapter.jpg)
+[![](images/dead-by-daylight-resident-evil-chapter.jpg)](images/dead-by-daylight-resident-evil-chapter.jpg)
+[![](images/dead-by-daylight-resident-evil-chapter.jpg)](images/dead-by-daylight-resident-evil-chapter.jpg)
 
 Dead by Daylight -- Resident Evil chapter
 

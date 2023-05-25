@@ -14,7 +14,8 @@ tags:
 coverImage: "The-Lighthouse-film-poster.jpg"
 ---
 
-[![](images/The-Lighthouse-film-poster.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/The-Lighthouse-film-poster.jpg)
+[![](images/The-Lighthouse-film-poster.jpg)](images/The-Lighthouse-film-poster.jpg)
+[![](images/The-Lighthouse-film-poster.jpg)](images/The-Lighthouse-film-poster.jpg)
 
 The Lighthouse is a slow-burn descent into madness expertly portrayed by Robert Pattinson and Willem Dafoe.
 
@@ -36,7 +37,8 @@ They often argue and disagree, usually with Defoe coming out on top, but at time
 
 The film's climax is one that I will be thinking about for days to come, I think. It has no hard explanation, at least not that I could tell. What it does have is a heart-pumping ending that leaves itself open to interpretation -- complete with metaphor and Greek mythological imagery.
 
-[![](images/Defoe-and-Pattinson-in-The-Lighthouse.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Defoe-and-Pattinson-in-The-Lighthouse.jpg)
+[![](images/Defoe-and-Pattinson-in-The-Lighthouse.jpg)](images/Defoe-and-Pattinson-in-The-Lighthouse.jpg)
+[![](images/Defoe-and-Pattinson-in-The-Lighthouse.jpg)](images/Defoe-and-Pattinson-in-The-Lighthouse.jpg)
 
 ## Pattinson and Defoe
 
@@ -48,7 +50,8 @@ Willem Dafoe's Shakespearean, powerful monologues were absolutely hypnotic to wa
 
 I'd only heard about Robert Pattinson through knowing about his starring roles in the Twilight films, so that had coloured my perception of him if I'm honest (despite having never seen them). But all I can say is "wow", based on his role in The Lighthouse. His descent into madness and the odd visions that he witnesses in the desolate, rocky surroundings, are pieces of cinema I wont forget in a hurry.
 
-[![](images/WIllem-Defoe-gives-an-incredible-monologue.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/WIllem-Defoe-gives-an-incredible-monologue.jpg)
+[![](images/WIllem-Defoe-gives-an-incredible-monologue.jpg)](images/WIllem-Defoe-gives-an-incredible-monologue.jpg)
+[![](images/WIllem-Defoe-gives-an-incredible-monologue.jpg)](images/WIllem-Defoe-gives-an-incredible-monologue.jpg)
 
 ## Superstition and suspense
 
@@ -60,7 +63,8 @@ And as for that score, it was intense, atmospheric and downright terrifying at t
 
 It was just a shame that some dick in the row in front of me kept piping up to his mate with short sentences after some of the film's big moments.
 
-[![](images/Spirits-of-sailors-past.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Spirits-of-sailors-past.jpg)
+[![](images/Spirits-of-sailors-past.jpg)](images/Spirits-of-sailors-past.jpg)
+[![](images/Spirits-of-sailors-past.jpg)](images/Spirits-of-sailors-past.jpg)
 
 ## In Conclusion
 

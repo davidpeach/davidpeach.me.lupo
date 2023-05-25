@@ -11,4 +11,5 @@ tags:
 
 So apparently the new Bond film, #Spectre, is slightly shorter than your average Bond film...
 
-[![](images/Spectre-is-a-bit-short.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Spectre-is-a-bit-short.jpeg)
+[![](images/Spectre-is-a-bit-short.jpeg)](images/Spectre-is-a-bit-short.jpeg)
+[![](images/Spectre-is-a-bit-short.jpeg)](images/Spectre-is-a-bit-short.jpeg)

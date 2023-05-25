@@ -19,7 +19,8 @@ The opening credits consisted only of the still image of the dog with the severe
 
 I don't know why I kept getting the vibes of a black comedy in this film. Perhaps it is the super over-the-top depictions of killing and the fact that the killer pretended to be a duck whilst murdering people.
 
-[![](images/Scream.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Scream.jpg)
+[![](images/Scream.jpg)](images/Scream.jpg)
+[![](images/Scream.jpg)](images/Scream.jpg)
 
 Screaming
 
@@ -45,23 +46,28 @@ The way in which he uses colour alone is incredible -- most notably a scene with
 
 I loved this section so much that I have included five none-spoiler screenshots of it here:
 
-[![](images/Eva-heads-back-to-her-dressing-room.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Eva-heads-back-to-her-dressing-room.jpg)
+[![](images/Eva-heads-back-to-her-dressing-room.jpg)](images/Eva-heads-back-to-her-dressing-room.jpg)
+[![](images/Eva-heads-back-to-her-dressing-room.jpg)](images/Eva-heads-back-to-her-dressing-room.jpg)
 
 Eva heads back to her dressing room
 
-[![](images/Eva-shuts-the-door-behind-her.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Eva-shuts-the-door-behind-her.jpg)
+[![](images/Eva-shuts-the-door-behind-her.jpg)](images/Eva-shuts-the-door-behind-her.jpg)
+[![](images/Eva-shuts-the-door-behind-her.jpg)](images/Eva-shuts-the-door-behind-her.jpg)
 
 Eva shuts the door behind her
 
-[![](images/Eva-in-her-dressing-room.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Eva-in-her-dressing-room.jpg)
+[![](images/Eva-in-her-dressing-room.jpg)](images/Eva-in-her-dressing-room.jpg)
+[![](images/Eva-in-her-dressing-room.jpg)](images/Eva-in-her-dressing-room.jpg)
 
 Eva in her dressing room
 
-[![](images/Taking-the-fake-lashes-off.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Taking-the-fake-lashes-off.jpg)
+[![](images/Taking-the-fake-lashes-off.jpg)](images/Taking-the-fake-lashes-off.jpg)
+[![](images/Taking-the-fake-lashes-off.jpg)](images/Taking-the-fake-lashes-off.jpg)
 
 Taking the fake lashes off
 
-[![](images/Broken-glass.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Broken-glass.jpg)
+[![](images/Broken-glass.jpg)](images/Broken-glass.jpg)
+[![](images/Broken-glass.jpg)](images/Broken-glass.jpg)
 
 Broken glass
 
@@ -73,7 +79,8 @@ Some of the scenes in New York Ripper reminded me heavily of a more modern film 
 
 This scene from Fay's train ride had some great set pieces in it too. The train itself and shortly after, the cinema:
 
-[![](images/Fay-rides-the-train.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Fay-rides-the-train.jpg)
+[![](images/Fay-rides-the-train.jpg)](images/Fay-rides-the-train.jpg)
+[![](images/Fay-rides-the-train.jpg)](images/Fay-rides-the-train.jpg)
 
 Fay rides the train
 
@@ -87,14 +94,17 @@ Despite my constant mention of violence and sex in this film, it does have a goo
 
 And although it shares so many Giallo characteristics, it is uniquely memorable in so many ways.
 
-[![](images/Jane-Lodge-is-a-very-sexual-woman.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Jane-Lodge-is-a-very-sexual-woman.jpg)
+[![](images/Jane-Lodge-is-a-very-sexual-woman.jpg)](images/Jane-Lodge-is-a-very-sexual-woman.jpg)
+[![](images/Jane-Lodge-is-a-very-sexual-woman.jpg)](images/Jane-Lodge-is-a-very-sexual-woman.jpg)
 
 Jane Lodge is a very sexual woman
 
-[![](images/The-ripper-takes-their-first-victim.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-ripper-takes-their-first-victim.jpg)
+[![](images/The-ripper-takes-their-first-victim.jpg)](images/The-ripper-takes-their-first-victim.jpg)
+[![](images/The-ripper-takes-their-first-victim.jpg)](images/The-ripper-takes-their-first-victim.jpg)
 
 The ripper takes their first victim
 
-[![](images/At-the-end-of-the-corridor.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/At-the-end-of-the-corridor.jpg)
+[![](images/At-the-end-of-the-corridor.jpg)](images/At-the-end-of-the-corridor.jpg)
+[![](images/At-the-end-of-the-corridor.jpg)](images/At-the-end-of-the-corridor.jpg)
 
 At the end of the corridor

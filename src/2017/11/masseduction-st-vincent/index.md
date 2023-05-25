@@ -11,7 +11,8 @@ tags:
 coverImage: "st-vincent-masseduction-cover.jpg"
 ---
 
-[![](images/st-vincent-masseduction-cover-1024x1024.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/st-vincent-masseduction-cover.jpg)
+[![](images/st-vincent-masseduction-cover-1024x1024.jpg)](images/st-vincent-masseduction-cover.jpg)
+[![](images/st-vincent-masseduction-cover-1024x1024.jpg)](images/st-vincent-masseduction-cover.jpg)
 
 Masseduction is the fifth album by alternative pop artist St Vincent - real name Annie Clark. It's a showcase for her varied approaches to creating great music and never fails to deliver the goods.
 

@@ -12,4 +12,5 @@ tags:
 coverImage: "Remember-what-youve-learnt-scaled-1.jpg"
 ---
 
-[![](images/Remember-what-youve-learnt-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/Remember-what-youve-learnt-scaled-1.jpg)
+[![](images/Remember-what-youve-learnt-scaled-1.jpg)](images/Remember-what-youve-learnt-scaled-1.jpg)
+[![](images/Remember-what-youve-learnt-scaled-1.jpg)](images/Remember-what-youve-learnt-scaled-1.jpg)

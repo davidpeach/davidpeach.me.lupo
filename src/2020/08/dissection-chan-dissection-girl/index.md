@@ -13,7 +13,8 @@ tags:
 coverImage: "Dissection-Chan-cover.jpg"
 ---
 
-[![](images/Dissection-Chan-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Dissection-Chan-cover.jpg)
+[![](images/Dissection-Chan-cover.jpg)](images/Dissection-Chan-cover.jpg)
+[![](images/Dissection-Chan-cover.jpg)](images/Dissection-Chan-cover.jpg)
 
 > Well, this is where you come to be dissected, right? I want to be dissected!
 > 
@@ -27,11 +28,13 @@ However, there is one group who conversely find a fresh-faced young woman. Fresh
 
 She soon runs out of the theatre laughing to herself. The students are left in shock. All except one, who is sure he recognises the woman from his past. This trainee doctor's name is Tatsuro Kamata. But just how does Tatsuro know this woman? And where will she appear again?
 
-[![](images/Tatsuro-Kamata.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Tatsuro-Kamata.jpg)
+[![](images/Tatsuro-Kamata.jpg)](images/Tatsuro-Kamata.jpg)
+[![](images/Tatsuro-Kamata.jpg)](images/Tatsuro-Kamata.jpg)
 
 Tatsuro Kamata
 
-[![](images/Ruriko-Tamiya.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Ruriko-Tamiya.jpg)
+[![](images/Ruriko-Tamiya.jpg)](images/Ruriko-Tamiya.jpg)
+[![](images/Ruriko-Tamiya.jpg)](images/Ruriko-Tamiya.jpg)
 
 Ruriko Tamiya
 
@@ -45,7 +48,8 @@ In Dissection Chan, the title character Ruriko Tamiya journeys along that same p
 
 But what Ito does, very imaginatively, is take those psychopathic tendencies and turn them inwards. Ruriko becomes obsessed with wanting to be dissected herself.
 
-[![](images/Peek-a-boo-Ruriko-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Peek-a-boo-Ruriko-1.jpg)
+[![](images/Peek-a-boo-Ruriko-1.jpg)](images/Peek-a-boo-Ruriko-1.jpg)
+[![](images/Peek-a-boo-Ruriko-1.jpg)](images/Peek-a-boo-Ruriko-1.jpg)
 
 Peek-a-boo Ruriko
 
@@ -57,7 +61,8 @@ I have also discovered this idea in other stories by Junji Ito. The one that spr
 
 Just like the people that are drawn to their own holes in the wall, despite it meaning certain doom, so to is Ruriko drawn to her own doom. Being dissected, if not already dead, would definitely kill you, and she is very aware of this. But maybe the very same "Death Drive" exists in her, making the last few panels of this story inevitable.
 
-[![](images/The-eyes-of-Ruriko.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-eyes-of-Ruriko.jpg)
+[![](images/The-eyes-of-Ruriko.jpg)](images/The-eyes-of-Ruriko.jpg)
+[![](images/The-eyes-of-Ruriko.jpg)](images/The-eyes-of-Ruriko.jpg)
 
 ## The sickness inside
 
@@ -77,7 +82,8 @@ Not only is this woman obsessed with dissection, but in her later years she beco
 
 Junji Ito isn't one to shy away from such sexual scenarios. I remember another character of his from [Wooden Spirit](https://junjiitomanga.com/wooden-spirit/), who was depicted as being sexually attracted to the old historical home in the story. Crazy stuff.
 
-[![](images/Ruriko-on-the-operating-table.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Ruriko-on-the-operating-table.jpg)
+[![](images/Ruriko-on-the-operating-table.jpg)](images/Ruriko-on-the-operating-table.jpg)
+[![](images/Ruriko-on-the-operating-table.jpg)](images/Ruriko-on-the-operating-table.jpg)
 
 ## In Summary
 

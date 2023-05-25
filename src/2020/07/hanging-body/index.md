@@ -10,6 +10,7 @@ tags:
 coverImage: "Hanging-Body.jpg"
 ---
 
-[![](images/Hanging-Body.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Hanging-Body.jpg)
+[![](images/Hanging-Body.jpg)](images/Hanging-Body.jpg)
+[![](images/Hanging-Body.jpg)](images/Hanging-Body.jpg)
 
 Hanging Body

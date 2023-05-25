@@ -9,4 +9,5 @@ tags:
 coverImage: "butterfly.jpeg"
 ---
 
-[![](images/butterfly.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/butterfly.jpeg)
+[![](images/butterfly.jpeg)](images/butterfly.jpeg)
+[![](images/butterfly.jpeg)](images/butterfly.jpeg)

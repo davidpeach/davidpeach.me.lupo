@@ -23,15 +23,18 @@ Flashing back to some days earlier in this couples life, it is revealed that Tom
 
 And it worked.
 
-[![](images/The-Fortune-Teller.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-Fortune-Teller.jpg)
+[![](images/The-Fortune-Teller.jpg)](images/The-Fortune-Teller.jpg)
+[![](images/The-Fortune-Teller.jpg)](images/The-Fortune-Teller.jpg)
 
 The Fortune Teller
 
-[![](images/Tomio.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Tomio.jpg)
+[![](images/Tomio.jpg)](images/Tomio.jpg)
+[![](images/Tomio.jpg)](images/Tomio.jpg)
 
 Tomio
 
-[![](images/Madoka.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Madoka.jpg)
+[![](images/Madoka.jpg)](images/Madoka.jpg)
+[![](images/Madoka.jpg)](images/Madoka.jpg)
 
 Madoka
 
@@ -45,7 +48,8 @@ Ito has a talent for bringing strong women to the forefront of his stories, perh
 
 The first is the fortune teller, who manages to captivate Tomio into having an affair without any real effort on her part. Perhaps it was magic but nonetheless she had that power over him. She is an imposing figure over the story and is definitely someone not to be messed with.
 
-[![](images/The-Fortune-Teller-reveals-her-true-intentions.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-Fortune-Teller-reveals-her-true-intentions.jpg)
+[![](images/The-Fortune-Teller-reveals-her-true-intentions.jpg)](images/The-Fortune-Teller-reveals-her-true-intentions.jpg)
+[![](images/The-Fortune-Teller-reveals-her-true-intentions.jpg)](images/The-Fortune-Teller-reveals-her-true-intentions.jpg)
 
 The Fortune Teller reveals her true intentions
 
@@ -59,15 +63,18 @@ I found that the fortune teller and the affair with her was a great metaphor for
 
 I don't for one second think that what he ends up going through can reconcile how he treated Madoka, but perhaps having his head almost removed is a little bit too far a punishment. Perhaps.
 
-[![](images/The-Fortune-Teller-draws-the-Death-card.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-Fortune-Teller-draws-the-Death-card.jpg)
+[![](images/The-Fortune-Teller-draws-the-Death-card.jpg)](images/The-Fortune-Teller-draws-the-Death-card.jpg)
+[![](images/The-Fortune-Teller-draws-the-Death-card.jpg)](images/The-Fortune-Teller-draws-the-Death-card.jpg)
 
 The Fortune Teller draws the Death card
 
-[![](images/Tomio-struggles-to-keep-calm.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Tomio-struggles-to-keep-calm.jpg)
+[![](images/Tomio-struggles-to-keep-calm.jpg)](images/Tomio-struggles-to-keep-calm.jpg)
+[![](images/Tomio-struggles-to-keep-calm.jpg)](images/Tomio-struggles-to-keep-calm.jpg)
 
 Tomio struggles to keep calm
 
-[![](images/Children-of-the-flames.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Children-of-the-flames.jpg)
+[![](images/Children-of-the-flames.jpg)](images/Children-of-the-flames.jpg)
+[![](images/Children-of-the-flames.jpg)](images/Children-of-the-flames.jpg)
 
 Children of the flames
 

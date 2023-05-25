@@ -14,7 +14,8 @@ Charlie boy is about a couple, Graham and Sarah, who come into possession of an
 
 ## What is Charlie Boy about?
 
-[![](images/close-up-of-charlie-boy.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/close-up-of-charlie-boy.jpg)
+[![](images/close-up-of-charlie-boy.jpg)](images/close-up-of-charlie-boy.jpg)
+[![](images/close-up-of-charlie-boy.jpg)](images/close-up-of-charlie-boy.jpg)
 
 Close up of Charlie Boy
 
@@ -26,7 +27,8 @@ The episode had some juicy deaths in its 51 minutes including a man getting thro
 
 Charlie Boy had some potential to be a great episode but unfortunately fell a bit short for me. One big thing that let it down was the soundtrack. At times the music felt like it belonged somewhere between [Confessions of a Window Cleaner](https://en.wikipedia.org/wiki/Confessions_of_a_Window_Cleaner) and [Foxy Brown](https://en.wikipedia.org/wiki/Foxy_Brown_(film)). It's a shame because the idea itself was a sound one that fits with the rest of the series well. It just seemed to be poorly executed by people who had no real vision of what Hammer Horror is.
 
-[![](images/graham-and-sarah-examine-charlie-boy.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/graham-and-sarah-examine-charlie-boy.jpg)
+[![](images/graham-and-sarah-examine-charlie-boy.jpg)](images/graham-and-sarah-examine-charlie-boy.jpg)
+[![](images/graham-and-sarah-examine-charlie-boy.jpg)](images/graham-and-sarah-examine-charlie-boy.jpg)
 
 Graham and Sarah examine Charlie Boy
 

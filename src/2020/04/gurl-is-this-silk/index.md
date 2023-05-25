@@ -9,7 +9,8 @@ tags:
 coverImage: "Gurl-is-this-silk.jpg"
 ---
 
-[![](images/Gurl-is-this-silk.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Gurl-is-this-silk.jpg)
+[![](images/Gurl-is-this-silk.jpg)](images/Gurl-is-this-silk.jpg)
+[![](images/Gurl-is-this-silk.jpg)](images/Gurl-is-this-silk.jpg)
 
 Gurl is this silk?
 

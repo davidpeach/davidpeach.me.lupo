@@ -13,4 +13,5 @@ tags:
 coverImage: "Silhouette.png"
 ---
 
-[![](images/Silhouette.png)](https://davidpeach.co.uk/wp-content/uploads/2023/01/Silhouette.png)
+[![](images/Silhouette.png)](images/Silhouette.png)
+[![](images/Silhouette.png)](images/Silhouette.png)

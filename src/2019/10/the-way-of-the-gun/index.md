@@ -12,4 +12,5 @@ tags:
 coverImage: "The-way-of-the-gun-scaled-1.jpg"
 ---
 
-[![](images/The-way-of-the-gun-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/The-way-of-the-gun-scaled-1.jpg)
+[![](images/The-way-of-the-gun-scaled-1.jpg)](images/The-way-of-the-gun-scaled-1.jpg)
+[![](images/The-way-of-the-gun-scaled-1.jpg)](images/The-way-of-the-gun-scaled-1.jpg)

@@ -7,7 +7,8 @@ tags:
   - "try-again-tuesday"
 ---
 
-[![](images/Balance-retake-scaled-1.jpg)](http://davidpeach.co.uk/wp-content/uploads/2020/10/Balance-retake-scaled-1.jpg)
+[![](images/Balance-retake-scaled-1.jpg)](images/Balance-retake-scaled-1.jpg)
+[![](images/Balance-retake-scaled-1.jpg)](images/Balance-retake-scaled-1.jpg)
 
 Balance
 

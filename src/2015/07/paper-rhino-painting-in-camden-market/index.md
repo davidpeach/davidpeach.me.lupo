@@ -11,4 +11,5 @@ tags:
 coverImage: "Paper-Rhino-painting-in-Camden-Market-scaled-1.jpeg"
 ---
 
-[![](images/Paper-Rhino-painting-in-Camden-Market-scaled-1.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Paper-Rhino-painting-in-Camden-Market-scaled-1.jpeg)
+[![](images/Paper-Rhino-painting-in-Camden-Market-scaled-1.jpeg)](images/Paper-Rhino-painting-in-Camden-Market-scaled-1.jpeg)
+[![](images/Paper-Rhino-painting-in-Camden-Market-scaled-1.jpeg)](images/Paper-Rhino-painting-in-Camden-Market-scaled-1.jpeg)

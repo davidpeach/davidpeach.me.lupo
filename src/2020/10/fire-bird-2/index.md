@@ -5,6 +5,7 @@ categories:
   - "horizon-zero-dawn"
 ---
 
-[![](images/Fire-bird-1024x576.jpg)](http://davidpeach.co.uk/wp-content/uploads/2020/11/Fire-bird-scaled-1.jpg)
+[![](images/Fire-bird-1024x576.jpg)](images/Fire-bird-scaled-1.jpg)
+[![](images/Fire-bird-1024x576.jpg)](images/Fire-bird-scaled-1.jpg)
 
 Fire bird

@@ -13,7 +13,8 @@ tags:
 coverImage: "Mosquitoes-Uzumaki-part-10.jpg"
 ---
 
-[![](images/Mosquitoes-Uzumaki-part-10.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Mosquitoes-Uzumaki-part-10.jpg)
+[![](images/Mosquitoes-Uzumaki-part-10.jpg)](images/Mosquitoes-Uzumaki-part-10.jpg)
+[![](images/Mosquitoes-Uzumaki-part-10.jpg)](images/Mosquitoes-Uzumaki-part-10.jpg)
 
 > They needed raw blood for their babies!
 > 
@@ -27,19 +28,23 @@ Kirie and her friend discover the body of a pregnant woman in the hospital groun
 
 As the story moves forward, more strange and horrific things begin to occur within the walls of the hospital. But what will Kirie and her Keiko do when they find themselves at the centre of a hellish nightmare?
 
-[![](images/Kirie-Goshima1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Kirie-Goshima1.jpg)
+[![](images/Kirie-Goshima1.jpg)](images/Kirie-Goshima1.jpg)
+[![](images/Kirie-Goshima1.jpg)](images/Kirie-Goshima1.jpg)
 
 Kirie
 
-[![](images/Kiries-friend.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Kiries-friend.jpg)
+[![](images/Kiries-friend.jpg)](images/Kiries-friend.jpg)
+[![](images/Kiries-friend.jpg)](images/Kiries-friend.jpg)
 
 Kirie's Friend
 
-[![](images/Keiko.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Keiko.jpg)
+[![](images/Keiko.jpg)](images/Keiko.jpg)
+[![](images/Keiko.jpg)](images/Keiko.jpg)
 
 Keiko
 
-[![](images/Shuichi1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Shuichi1.jpg)
+[![](images/Shuichi1.jpg)](images/Shuichi1.jpg)
+[![](images/Shuichi1.jpg)](images/Shuichi1.jpg)
 
 Shuichi
 
@@ -51,7 +56,8 @@ The blood sucking women throughout the second half of the story are not controll
 
 And that is the stroke of genius that sits at the heart of this chapter: "What if people took on the same behaviours as mosquitoes?". And in Junji Ito's own unique way, he has explored that question with gusto. Here you have pregnant women drilling holes in people to drink their blood, in order to feed the unborn babies inside of them.
 
-[![](images/The-women-are-demonic-looking.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-women-are-demonic-looking.jpg)
+[![](images/The-women-are-demonic-looking.jpg)](images/The-women-are-demonic-looking.jpg)
+[![](images/The-women-are-demonic-looking.jpg)](images/The-women-are-demonic-looking.jpg)
 
 The women are demonic looking
 
@@ -63,15 +69,20 @@ As mentioned above, the similarities with vampires was a comparison that I could
 
 Despite them being mindful of what they are doing and how they are doing it, the horde of evil ladies drew big parallels with scenes I'd seen from zombie films. Such as the group pursuing as one demonic pack; the people who come out to investigate and get caught and devoured. But perhaps my favourite part was when Kirie manages to escape the horde and lock herself back in her own room, only to be locked inside with something already lurking in there.
 
-[![](images/Kirie-and-her-friend-find-a-mosquito-column.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Kirie-and-her-friend-find-a-mosquito-column.jpg)
+[![](images/Kirie-and-her-friend-find-a-mosquito-column.jpg)](images/Kirie-and-her-friend-find-a-mosquito-column.jpg)
+[![](images/Kirie-and-her-friend-find-a-mosquito-column.jpg)](images/Kirie-and-her-friend-find-a-mosquito-column.jpg)
 
-[![](images/Shuichi-comes-to-visit.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Shuichi-comes-to-visit.jpg)
+[![](images/Shuichi-comes-to-visit.jpg)](images/Shuichi-comes-to-visit.jpg)
+[![](images/Shuichi-comes-to-visit.jpg)](images/Shuichi-comes-to-visit.jpg)
 
-[![](images/The-shadowy-group-in-the-hospital.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-shadowy-group-in-the-hospital.jpg)
+[![](images/The-shadowy-group-in-the-hospital.jpg)](images/The-shadowy-group-in-the-hospital.jpg)
+[![](images/The-shadowy-group-in-the-hospital.jpg)](images/The-shadowy-group-in-the-hospital.jpg)
 
-[![](images/The-women-carry-strange-tools-with-them.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-women-carry-strange-tools-with-them.jpg)
+[![](images/The-women-carry-strange-tools-with-them.jpg)](images/The-women-carry-strange-tools-with-them.jpg)
+[![](images/The-women-carry-strange-tools-with-them.jpg)](images/The-women-carry-strange-tools-with-them.jpg)
 
-[![](images/Mosquito-bites-found-on-the-victims.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Mosquito-bites-found-on-the-victims.jpg)
+[![](images/Mosquito-bites-found-on-the-victims.jpg)](images/Mosquito-bites-found-on-the-victims.jpg)
+[![](images/Mosquito-bites-found-on-the-victims.jpg)](images/Mosquito-bites-found-on-the-victims.jpg)
 
 ## In Conclusion
 

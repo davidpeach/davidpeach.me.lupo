@@ -12,7 +12,8 @@ tags:
 coverImage: "3ep-by-scarlett-taylor.jpg"
 ---
 
-[![](images/3ep-by-scarlett-taylor.jpg)](https://davidpeach.co.uk/wp-content/uploads/2017/06/3ep-by-scarlett-taylor.jpg)
+[![](images/3ep-by-scarlett-taylor.jpg)](images/3ep-by-scarlett-taylor.jpg)
+[![](images/3ep-by-scarlett-taylor.jpg)](images/3ep-by-scarlett-taylor.jpg)
 
 One of my favourite meloncholic artists, [Scarlett Taylor](/2016/09/interview-scarlett-taylor/), is back with her latest E.P. ‘3’.
 

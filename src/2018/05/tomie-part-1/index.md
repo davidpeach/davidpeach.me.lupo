@@ -9,7 +9,8 @@ tags:
 coverImage: "Tomie-part-1-cover.jpg"
 ---
 
-[![](images/Tomie-part-1-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Tomie-part-1-cover.jpg)
+[![](images/Tomie-part-1-cover.jpg)](images/Tomie-part-1-cover.jpg)
+[![](images/Tomie-part-1-cover.jpg)](images/Tomie-part-1-cover.jpg)
 
 > My friend Tomie is dead. Pieces of her body were found scattered everywhere.
 > 
@@ -21,15 +22,18 @@ Secondly, it is the first manga story that Junji Ito completed - while he was st
 
 ## Main Characters
 
-[![](images/Tomie.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Tomie.jpg)
+[![](images/Tomie.jpg)](images/Tomie.jpg)
+[![](images/Tomie.jpg)](images/Tomie.jpg)
 
 Tomie
 
-[![](images/Reiko.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Reiko.jpg)
+[![](images/Reiko.jpg)](images/Reiko.jpg)
+[![](images/Reiko.jpg)](images/Reiko.jpg)
 
 Reiko
 
-[![](images/Mr-Takagi.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Mr-Takagi.jpg)
+[![](images/Mr-Takagi.jpg)](images/Mr-Takagi.jpg)
+[![](images/Mr-Takagi.jpg)](images/Mr-Takagi.jpg)
 
 Mr Takagi
 
@@ -47,15 +51,18 @@ Junji Ito is now regarded as a titan within the horror manga community - in all 
 
 What you have to remember is that this is his first published story. It feels akin to the debut albums of great bands - like Nirvana's 'Bleach', or The White Stripes' eponymous debut. Yes, it's rough around the edges and not indicative of the quality that comes later, but it is the honest, unfiltered core from which his talent would come to grow.
 
-[![](images/Tomie-has-a-fall.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Tomie-has-a-fall.jpg)
+[![](images/Tomie-has-a-fall.jpg)](images/Tomie-has-a-fall.jpg)
+[![](images/Tomie-has-a-fall.jpg)](images/Tomie-has-a-fall.jpg)
 
 Tomie has a fall
 
-[![](images/The-boys-of-the-class.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/The-boys-of-the-class.jpg)
+[![](images/The-boys-of-the-class.jpg)](images/The-boys-of-the-class.jpg)
+[![](images/The-boys-of-the-class.jpg)](images/The-boys-of-the-class.jpg)
 
 The boys of the class
 
-[![](images/Tomie-walks-back-in.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Tomie-walks-back-in.jpg)
+[![](images/Tomie-walks-back-in.jpg)](images/Tomie-walks-back-in.jpg)
+[![](images/Tomie-walks-back-in.jpg)](images/Tomie-walks-back-in.jpg)
 
 Tomie walks back in
 

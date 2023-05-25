@@ -14,7 +14,8 @@ tags:
 coverImage: "Frankenstein-by-Junji-Ito.jpeg"
 ---
 
-[![](images/Frankenstein-by-Junji-Ito-692x1024.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Frankenstein-by-Junji-Ito.jpeg)
+[![](images/Frankenstein-by-Junji-Ito-692x1024.jpeg)](images/Frankenstein-by-Junji-Ito.jpeg)
+[![](images/Frankenstein-by-Junji-Ito-692x1024.jpeg)](images/Frankenstein-by-Junji-Ito.jpeg)
 
 > You seek for knowledge and wisdom as I once did... it is only natural for a man to pursue knowledge. Until a few years ago, I burned with the same ambition as you.
 > 

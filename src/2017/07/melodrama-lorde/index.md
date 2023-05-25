@@ -11,7 +11,8 @@ tags:
 coverImage: "lorde-melodrama-album-cover.jpg"
 ---
 
-[![](images/lorde-melodrama-album-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/lorde-melodrama-album-cover.jpg)
+[![](images/lorde-melodrama-album-cover.jpg)](images/lorde-melodrama-album-cover.jpg)
+[![](images/lorde-melodrama-album-cover.jpg)](images/lorde-melodrama-album-cover.jpg)
 
 Melodrama by Lorde is an album I have been waiting for with baited breath, being one of my favourite artists over the past ten years.
 

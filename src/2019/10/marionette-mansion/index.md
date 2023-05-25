@@ -13,7 +13,8 @@ tags:
 coverImage: "Marionette-Mansion.jpeg"
 ---
 
-[![](images/Marionette-Mansion.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Marionette-Mansion.jpeg)
+[![](images/Marionette-Mansion.jpeg)](images/Marionette-Mansion.jpeg)
+[![](images/Marionette-Mansion.jpeg)](images/Marionette-Mansion.jpeg)
 
 > That's right. Just let yourself go limp. Turn yourself over to the puppeteers.
 > 
@@ -27,7 +28,8 @@ Whilst staying in one particular town, he befriends a girl before having to move
 
 Years later, after his older brother had left and the father had passed away, Haruhiko and his young sister Natsumi are living a simple life together. No more travelling from town to town. Everything is fine, when all of a sudden he bumps into the girl he had befriended all those years earlier. With them now both adults and seemingly settled in their lives, they start to grow closer. But this is a Junji Ito story, and you know that their story doesn't just end there.
 
-[![](images/Kinuko-and-Haruhiko-renew-their-friendship.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Kinuko-and-Haruhiko-renew-their-friendship.jpg)
+[![](images/Kinuko-and-Haruhiko-renew-their-friendship.jpg)](images/Kinuko-and-Haruhiko-renew-their-friendship.jpg)
+[![](images/Kinuko-and-Haruhiko-renew-their-friendship.jpg)](images/Kinuko-and-Haruhiko-renew-their-friendship.jpg)
 
 Kinuko and Haruhiko renew their friendship
 
@@ -39,31 +41,38 @@ To Haruhiko's and Natsumi's surprise, the door is answered by none other than Je
 
 But how will Haruhiko adjust to not only getting back in touch with his brother, but also getting used to their very unconventional way of living? And how is he going to keep his little sister safe from the danger that is sure to be near?
 
-[![](images/Haruhiko.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Haruhiko.jpg)
+[![](images/Haruhiko.jpg)](images/Haruhiko.jpg)
+[![](images/Haruhiko.jpg)](images/Haruhiko.jpg)
 
 Haruhiko
 
-[![](images/Natsumi.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Natsumi.jpg)
+[![](images/Natsumi.jpg)](images/Natsumi.jpg)
+[![](images/Natsumi.jpg)](images/Natsumi.jpg)
 
 Natsumi
 
-[![](images/Kinuko-Hadaka.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Kinuko-Hadaka.jpg)
+[![](images/Kinuko-Hadaka.jpg)](images/Kinuko-Hadaka.jpg)
+[![](images/Kinuko-Hadaka.jpg)](images/Kinuko-Hadaka.jpg)
 
 Kinuko
 
-[![](images/Jean-Pierre.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Jean-Pierre.jpg)
+[![](images/Jean-Pierre.jpg)](images/Jean-Pierre.jpg)
+[![](images/Jean-Pierre.jpg)](images/Jean-Pierre.jpg)
 
 Jean-Pierre
 
-[![](images/Yukihiko.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Yukihiko.jpg)
+[![](images/Yukihiko.jpg)](images/Yukihiko.jpg)
+[![](images/Yukihiko.jpg)](images/Yukihiko.jpg)
 
 Yukihiko
 
-[![](images/Sumire.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Sumire.jpg)
+[![](images/Sumire.jpg)](images/Sumire.jpg)
+[![](images/Sumire.jpg)](images/Sumire.jpg)
 
 Sumire
 
-[![](images/Ayao.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Ayao.jpg)
+[![](images/Ayao.jpg)](images/Ayao.jpg)
+[![](images/Ayao.jpg)](images/Ayao.jpg)
 
 Ayao
 
@@ -83,7 +92,8 @@ After reading this in the [Shiver Collection](/tag/shiver-collection/), I also r
 
 Despite Ito's explanation of the story's genesis, I still can't help but try to find extra meanings. I thought that the "family on strings" was an interesting metaphor for not being in control of one's own life. From the start the siblings had no choice but to travel with the family and their puppet shows. Then later the older brother, although the first to leave the family, still relys on his strings being pulled for him.
 
-[![](images/The-Wooden-Ballerinas.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-Wooden-Ballerinas.jpg)
+[![](images/The-Wooden-Ballerinas.jpg)](images/The-Wooden-Ballerinas.jpg)
+[![](images/The-Wooden-Ballerinas.jpg)](images/The-Wooden-Ballerinas.jpg)
 
 The Wooden Ballerinas
 
@@ -91,19 +101,23 @@ The welcoming of Haruhiko and Natsumi into the house presented a danger to their
 
 I think of Marionette Mansion as a tale about fighting the urge to have everything in life done for you. To fight against handing over responsibilities to others for the sake of living an "easy" life. And to always strive to be your own person — not imitating or relying on others for your own sense of self.
 
-[![](images/Haruhiko-and-Kinuko-as-children.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Haruhiko-and-Kinuko-as-children.jpg)
+[![](images/Haruhiko-and-Kinuko-as-children.jpg)](images/Haruhiko-and-Kinuko-as-children.jpg)
+[![](images/Haruhiko-and-Kinuko-as-children.jpg)](images/Haruhiko-and-Kinuko-as-children.jpg)
 
 Haruhiko and Kinuko as children
 
-[![](images/Haruhiko-and-the-Wooden-Ballerinas.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Haruhiko-and-the-Wooden-Ballerinas.jpg)
+[![](images/Haruhiko-and-the-Wooden-Ballerinas.jpg)](images/Haruhiko-and-the-Wooden-Ballerinas.jpg)
+[![](images/Haruhiko-and-the-Wooden-Ballerinas.jpg)](images/Haruhiko-and-the-Wooden-Ballerinas.jpg)
 
 Haruhiko and the Wooden Ballerinas
 
-[![](images/Haruhiko-notices-the-grids-in-his-brothers-ceiling.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Haruhiko-notices-the-grids-in-his-brothers-ceiling.jpg)
+[![](images/Haruhiko-notices-the-grids-in-his-brothers-ceiling.jpg)](images/Haruhiko-notices-the-grids-in-his-brothers-ceiling.jpg)
+[![](images/Haruhiko-notices-the-grids-in-his-brothers-ceiling.jpg)](images/Haruhiko-notices-the-grids-in-his-brothers-ceiling.jpg)
 
 Haruhiko notices the grids in his brothers ceiling
 
-[![](images/The-eyes-of-a-Puppeteer.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-eyes-of-a-Puppeteer.jpg)
+[![](images/The-eyes-of-a-Puppeteer.jpg)](images/The-eyes-of-a-Puppeteer.jpg)
+[![](images/The-eyes-of-a-Puppeteer.jpg)](images/The-eyes-of-a-Puppeteer.jpg)
 
 The eyes of a Puppeteer
 

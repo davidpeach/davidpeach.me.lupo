@@ -10,7 +10,8 @@ tags:
 coverImage: "bad-electric.jpg"
 ---
 
-[![](images/bad-electric.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/bad-electric.jpg)
+[![](images/bad-electric.jpg)](images/bad-electric.jpg)
+[![](images/bad-electric.jpg)](images/bad-electric.jpg)
 
 One of my favourite synth artists of recent times is [Bad Electric](https://badelectric.bandcamp.com/releases). His E.P. LUX, which [I wrote about previously](https://davidpeach.co.uk/2016/12/21/lux-e-p-by-bad-electric/), is still in my regular circulation.
 

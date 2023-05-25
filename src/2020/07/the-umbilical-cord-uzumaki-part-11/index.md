@@ -9,7 +9,8 @@ tags:
   - "uzumaki"
 ---
 
-[![](images/Umbilical-Cord-Uzumaki-part-11-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Umbilical-Cord-Uzumaki-part-11-cover.jpg)
+[![](images/Umbilical-Cord-Uzumaki-part-11-cover.jpg)](images/Umbilical-Cord-Uzumaki-part-11-cover.jpg)
+[![](images/Umbilical-Cord-Uzumaki-part-11-cover.jpg)](images/Umbilical-Cord-Uzumaki-part-11-cover.jpg)
 
 > So it's been born. I wonder what it looks like. A baby gorged with human blood...
 > 
@@ -21,7 +22,8 @@ As it turns out, the baby's are born and are all perfectly normal -- the cutest 
 
 Of course, Kirie is alone in her suspicions and is still doubted about the events of the hospital massacre. But by the time this chapter reaches its own bloody conclusion, you can bet that there will be no room to doubt Kirie on the events that unfold.
 
-[![](images/Keiko-drinking-blood-from-blood-packet.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Keiko-drinking-blood-from-blood-packet.jpg)
+[![](images/Keiko-drinking-blood-from-blood-packet.jpg)](images/Keiko-drinking-blood-from-blood-packet.jpg)
+[![](images/Keiko-drinking-blood-from-blood-packet.jpg)](images/Keiko-drinking-blood-from-blood-packet.jpg)
 
 Some spoilers below
 
@@ -41,7 +43,8 @@ I love how Ito took this and had us witness these babies literally wanting to re
 
 This led me to imagine this omnipresent spiral presence, the [Uzumaki](https://junjiitomanga.com/tag/uzumaki/), in control of all of this -- the spiral patterns in the regrown placentas no doubt being used to hypnotise him into carrying out this force's will.
 
-[![](images/Newly-born-babies-in-a-row.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Newly-born-babies-in-a-row.jpg)
+[![](images/Newly-born-babies-in-a-row.jpg)](images/Newly-born-babies-in-a-row.jpg)
+[![](images/Newly-born-babies-in-a-row.jpg)](images/Newly-born-babies-in-a-row.jpg)
 
 Newly born babies in a row
 

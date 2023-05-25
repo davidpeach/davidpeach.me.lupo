@@ -11,7 +11,8 @@ tags:
 coverImage: "nicole-dollanganger-natural-born-losers-album-cover.jpg"
 ---
 
-[![](images/nicole-dollanganger-natural-born-losers-album-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/nicole-dollanganger-natural-born-losers-album-cover.jpg)
+[![](images/nicole-dollanganger-natural-born-losers-album-cover.jpg)](images/nicole-dollanganger-natural-born-losers-album-cover.jpg)
+[![](images/nicole-dollanganger-natural-born-losers-album-cover.jpg)](images/nicole-dollanganger-natural-born-losers-album-cover.jpg)
 
 This week's episode of "The Walking Dead" was quite an emotional one. One of the more likeable, newer characters got a good amount of screen time for some interesting character development. That was just before that person was shot in the back of the head with an arrow. When carrying her body back to the home base, the remaining characters were backed musically, by one of my favourite artists at the moment – "Nicole Dollanganger" with her song "Chapel".
 

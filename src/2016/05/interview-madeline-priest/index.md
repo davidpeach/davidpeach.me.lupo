@@ -10,7 +10,8 @@ tags:
 coverImage: "madeline-priest.jpg"
 ---
 
-[![](images/madeline-priest.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/madeline-priest.jpg)
+[![](images/madeline-priest.jpg)](images/madeline-priest.jpg)
+[![](images/madeline-priest.jpg)](images/madeline-priest.jpg)
 
 One of my favourite bands at the moment is Florida-based duo "[Priest](http://priestofficial.com/)", whose album [I previously wrote about here](https://davidpeach.co.uk/2015/12/23/priest-by-priest/). I have recently had the awesome pleasure of being able to interview Madeline from "Priest" about herself, what inspires her and some of her interests.
 

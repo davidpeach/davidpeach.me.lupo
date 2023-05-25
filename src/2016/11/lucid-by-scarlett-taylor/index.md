@@ -11,7 +11,8 @@ tags:
 coverImage: "lucid-by-scarlett-taylor.jpg"
 ---
 
-[![](images/lucid-by-scarlett-taylor-1024x1024.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/lucid-by-scarlett-taylor.jpg)
+[![](images/lucid-by-scarlett-taylor-1024x1024.jpg)](images/lucid-by-scarlett-taylor.jpg)
+[![](images/lucid-by-scarlett-taylor-1024x1024.jpg)](images/lucid-by-scarlett-taylor.jpg)
 
 Lucid by Scarlett Taylor is a very strong footing from which her career seems to be growing well from. Her unique, almost-derelict sounding aesthetic is something to be enjoyed, with Scarlett never afraid to lay her voice bare against these haunting soundscapes. "Monster Movie" from this debut album is a perfect example of this.
 

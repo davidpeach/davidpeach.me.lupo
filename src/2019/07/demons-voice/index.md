@@ -13,7 +13,8 @@ tags:
 coverImage: "demons-voice-by-junji-ito.png"
 ---
 
-[![](images/demons-voice-by-junji-ito-663x1024.png)](https://davidpeach.co.uk/wp-content/uploads/2023/05/demons-voice-by-junji-ito.png)
+[![](images/demons-voice-by-junji-ito-663x1024.png)](images/demons-voice-by-junji-ito.png)
+[![](images/demons-voice-by-junji-ito-663x1024.png)](images/demons-voice-by-junji-ito.png)
 
 > Maybe it's not a siren at all... maybe it's the cry of a demon.
 > 
@@ -31,15 +32,18 @@ The crew, it seems, have started hallucinating - all except for Koji. The obviou
 
 ## Characters
 
-[![](images/Koji.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Koji.jpg)
+[![](images/Koji.jpg)](images/Koji.jpg)
+[![](images/Koji.jpg)](images/Koji.jpg)
 
 Koji
 
-[![](images/Mr-Takada.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Mr-Takada.jpg)
+[![](images/Mr-Takada.jpg)](images/Mr-Takada.jpg)
+[![](images/Mr-Takada.jpg)](images/Mr-Takada.jpg)
 
 Mr Takada
 
-[![](images/The-Ships-Crew.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-Ships-Crew.jpg)
+[![](images/The-Ships-Crew.jpg)](images/The-Ships-Crew.jpg)
+[![](images/The-Ships-Crew.jpg)](images/The-Ships-Crew.jpg)
 
 The Ships Crew
 
@@ -53,19 +57,23 @@ I always find the stories that are set in a single location interesting. It's go
 
 The idea of a small group of people being out on the open seas together is already a thought that could bring fears of isolation and the worry of having nowhere to turn for privacy. But when you throw in the idea of pulling up a load of old decaying corpses from the ocean floor, suddenly the great big ocean doesn't feel so big any more.
 
-[![](images/More-voices-across-the-waves.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/More-voices-across-the-waves.jpg)
+[![](images/More-voices-across-the-waves.jpg)](images/More-voices-across-the-waves.jpg)
+[![](images/More-voices-across-the-waves.jpg)](images/More-voices-across-the-waves.jpg)
 
 More voices across the waves
 
-[![](images/A-strange-catch.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/A-strange-catch.jpg)
+[![](images/A-strange-catch.jpg)](images/A-strange-catch.jpg)
+[![](images/A-strange-catch.jpg)](images/A-strange-catch.jpg)
 
 A strange catch
 
-[![](images/A-very-strange-catch-indeed.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/A-very-strange-catch-indeed.jpg)
+[![](images/A-very-strange-catch-indeed.jpg)](images/A-very-strange-catch-indeed.jpg)
+[![](images/A-very-strange-catch-indeed.jpg)](images/A-very-strange-catch-indeed.jpg)
 
 A very strange catch indeed
 
-[![](images/The-Voices-on-the-ocean.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-Voices-on-the-ocean.jpg)
+[![](images/The-Voices-on-the-ocean.jpg)](images/The-Voices-on-the-ocean.jpg)
+[![](images/The-Voices-on-the-ocean.jpg)](images/The-Voices-on-the-ocean.jpg)
 
 The Voices on the ocean
 

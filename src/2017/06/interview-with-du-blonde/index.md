@@ -10,7 +10,8 @@ tags:
 coverImage: "DU-BLONDE.jpg"
 ---
 
-[![](images/DU-BLONDE.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/DU-BLONDE.jpg)
+[![](images/DU-BLONDE.jpg)](images/DU-BLONDE.jpg)
+[![](images/DU-BLONDE.jpg)](images/DU-BLONDE.jpg)
 
 Beth Jeans Houghton goes by the alias "[Du Blonde](http://www.dublonde.co.uk/)" and is not only an [awesome musician](https://davidpeach.co.uk/2017/06/20/welcome-back-to-milk-by-du-blonde/), but also works in [photography](http://www.dublonde.co.uk/photography); [comic books](http://www.dublonde.co.uk/comics) and [illustrations](http://www.dublonde.co.uk/artwork). I had the opportunity to ask her a bunch of questions about herself which she has kindly answered for us here.
 

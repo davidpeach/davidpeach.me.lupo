@@ -5,4 +5,5 @@ categories:
   - "control"
 ---
 
-[![](images/The-new-director-scaled-1.jpeg)](http://davidpeach.co.uk/wp-content/uploads/2020/12/The-new-director-scaled-1.jpeg)
+[![](images/The-new-director-scaled-1.jpeg)](images/The-new-director-scaled-1.jpeg)
+[![](images/The-new-director-scaled-1.jpeg)](images/The-new-director-scaled-1.jpeg)

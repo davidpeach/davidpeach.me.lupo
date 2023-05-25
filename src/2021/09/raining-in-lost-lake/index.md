@@ -11,4 +11,5 @@ tags:
 coverImage: "Raining-in-Lost-Lake.jpeg"
 ---
 
-[![](images/Raining-in-Lost-Lake.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/Raining-in-Lost-Lake.jpeg)
+[![](images/Raining-in-Lost-Lake.jpeg)](images/Raining-in-Lost-Lake.jpeg)
+[![](images/Raining-in-Lost-Lake.jpeg)](images/Raining-in-Lost-Lake.jpeg)

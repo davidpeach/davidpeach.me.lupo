@@ -14,6 +14,7 @@ tags:
 coverImage: "90s-Meg-doing-favours-for-Myers-in-the-Basement.jpg"
 ---
 
-[![](images/90s-Meg-doing-favours-for-Myers-in-the-Basement.jpg)](https://davidpeach.co.uk/wp-content/uploads/2019/06/90s-Meg-doing-favours-for-Myers-in-the-Basement.jpg)
+[![](images/90s-Meg-doing-favours-for-Myers-in-the-Basement.jpg)](images/90s-Meg-doing-favours-for-Myers-in-the-Basement.jpg)
+[![](images/90s-Meg-doing-favours-for-Myers-in-the-Basement.jpg)](images/90s-Meg-doing-favours-for-Myers-in-the-Basement.jpg)
 
 Meg doing favours for Micheal Myers.

@@ -12,4 +12,5 @@ tags:
 coverImage: "RESIDENT-EVIL-2_20190413165854.jpg"
 ---
 
-[![](images/RESIDENT-EVIL-2_20190413165854.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/RESIDENT-EVIL-2_20190413165854.jpg)
+[![](images/RESIDENT-EVIL-2_20190413165854.jpg)](images/RESIDENT-EVIL-2_20190413165854.jpg)
+[![](images/RESIDENT-EVIL-2_20190413165854.jpg)](images/RESIDENT-EVIL-2_20190413165854.jpg)

@@ -9,6 +9,7 @@ tags:
 coverImage: "CXu9YUeWkAQHx-I-scaled.jpg"
 ---
 
-[![](images/CXu9YUeWkAQHx-I-scaled.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/CXu9YUeWkAQHx-I-scaled.jpg)
+[![](images/CXu9YUeWkAQHx-I-scaled.jpg)](images/CXu9YUeWkAQHx-I-scaled.jpg)
+[![](images/CXu9YUeWkAQHx-I-scaled.jpg)](images/CXu9YUeWkAQHx-I-scaled.jpg)
 
 Fruit A-list at the American-style diner in Star City.

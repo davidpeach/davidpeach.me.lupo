@@ -12,7 +12,8 @@ tags:
 coverImage: "Who-ya-gonna-cull-Not-our-Badgers-scaled-1.jpeg"
 ---
 
-[![](images/Who-ya-gonna-cull-Not-our-Badgers-scaled-1.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Who-ya-gonna-cull-Not-our-Badgers-scaled-1.jpeg)
+[![](images/Who-ya-gonna-cull-Not-our-Badgers-scaled-1.jpeg)](images/Who-ya-gonna-cull-Not-our-Badgers-scaled-1.jpeg)
+[![](images/Who-ya-gonna-cull-Not-our-Badgers-scaled-1.jpeg)](images/Who-ya-gonna-cull-Not-our-Badgers-scaled-1.jpeg)
 
 Who ya gonna cull? Not our Badgers!
 

@@ -12,4 +12,5 @@ tags:
 coverImage: "Cloverdale-plants.jpeg"
 ---
 
-[![](images/Cloverdale-plants.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/Cloverdale-plants.jpeg)
+[![](images/Cloverdale-plants.jpeg)](images/Cloverdale-plants.jpeg)
+[![](images/Cloverdale-plants.jpeg)](images/Cloverdale-plants.jpeg)

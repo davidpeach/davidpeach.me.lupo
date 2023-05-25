@@ -13,7 +13,8 @@ tags:
 coverImage: "Shiver-by-Junji-Ito.jpg"
 ---
 
-[![](images/Shiver-by-Junji-Ito.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Shiver-by-Junji-Ito.jpg)
+[![](images/Shiver-by-Junji-Ito.jpg)](images/Shiver-by-Junji-Ito.jpg)
+[![](images/Shiver-by-Junji-Ito.jpg)](images/Shiver-by-Junji-Ito.jpg)
 
 In Shiver we join a young boy named Yuji. One day Yuji is sat in his room when he hears a scream from the house next door. The scream is coming from the young girl who lives there -- her name is Rina.
 

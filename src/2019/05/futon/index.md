@@ -13,7 +13,8 @@ tags:
 coverImage: "Futon-by-Junji-Ito.jpg"
 ---
 
-[![](images/Futon-by-Junji-Ito.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Futon-by-Junji-Ito.jpg)
+[![](images/Futon-by-Junji-Ito.jpg)](images/Futon-by-Junji-Ito.jpg)
+[![](images/Futon-by-Junji-Ito.jpg)](images/Futon-by-Junji-Ito.jpg)
 
 Futon is the first, and shortest, story in the Fragments of Horror Collection. It centers around a man who refuses to come out from under his blanket, for fear of the invisible spirits around him.
 

@@ -13,7 +13,8 @@ tags:
 coverImage: "heat-film-poster.jpg"
 ---
 
-[![](images/heat-film-poster-692x1024.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/heat-film-poster.jpg)
+[![](images/heat-film-poster-692x1024.jpg)](images/heat-film-poster.jpg)
+[![](images/heat-film-poster-692x1024.jpg)](images/heat-film-poster.jpg)
 
 Finally watched this film for the first time and I absolutely loved it to bits.
 
@@ -29,7 +30,8 @@ Deniro's character brought a certain intensity throughout for me -- his straight
 
 And Pacino does what he does best. His seemingly-random outbursts of animation were such a joy to see. I found myself laughing -- but out of shear enjoyment of his performance. He has a way about him that just captures my attention with ease.
 
-[![](images/peep-show-pretend-to-watch-heat.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/peep-show-pretend-to-watch-heat.jpg)
+[![](images/peep-show-pretend-to-watch-heat.jpg)](images/peep-show-pretend-to-watch-heat.jpg)
+[![](images/peep-show-pretend-to-watch-heat.jpg)](images/peep-show-pretend-to-watch-heat.jpg)
 
 Mark and Jezz in Peep Show pretend to watch Heat whilst at a theatre show
 
@@ -43,7 +45,8 @@ The scene was the infamous coffee shop scene in which Deniro and Pacino enjoy th
 
 When I finally got to the scene myself I saw where that admiration was coming from.
 
-[![](images/pacino-and-deniro-in-heat-1024x576.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/pacino-and-deniro-in-heat.jpeg)
+[![](images/pacino-and-deniro-in-heat-1024x576.jpeg)](images/pacino-and-deniro-in-heat.jpeg)
+[![](images/pacino-and-deniro-in-heat-1024x576.jpeg)](images/pacino-and-deniro-in-heat.jpeg)
 
 Al Pacino and Robert De Niro in Heat.
 

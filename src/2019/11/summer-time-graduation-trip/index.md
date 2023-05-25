@@ -13,7 +13,8 @@ tags:
 coverImage: "Summer-time-graduation-trip.jpg"
 ---
 
-[![](images/Summer-time-graduation-trip-810x1024.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Summer-time-graduation-trip.jpg)
+[![](images/Summer-time-graduation-trip-810x1024.jpg)](images/Summer-time-graduation-trip.jpg)
+[![](images/Summer-time-graduation-trip-810x1024.jpg)](images/Summer-time-graduation-trip.jpg)
 
 > Not a single person speaking... And during the whole time we were there, not a single person got up...
 > 
@@ -27,19 +28,23 @@ A woman recalls her time after her graduation thirty years ago. During that time
 
 On arriving at the inn, the pair decide to investigate the local facilities — first on their list was the bathhouse. As they descend the steps towards the bathhouse below, they notice how the stairwell seems to take far longer than it should do to get down. In fact, the further they go down, the darker the bottom seems. Then as they look back up the way they came, nothing but darkness there too.
 
-[![](images/The-main-character.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-main-character.jpg)
+[![](images/The-main-character.jpg)](images/The-main-character.jpg)
+[![](images/The-main-character.jpg)](images/The-main-character.jpg)
 
 The main character
 
-[![](images/Hezi.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Hezi.jpg)
+[![](images/Hezi.jpg)](images/Hezi.jpg)
+[![](images/Hezi.jpg)](images/Hezi.jpg)
 
 Hezi
 
-[![](images/The-Inn-Worker.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-Inn-Worker.jpg)
+[![](images/The-Inn-Worker.jpg)](images/The-Inn-Worker.jpg)
+[![](images/The-Inn-Worker.jpg)](images/The-Inn-Worker.jpg)
 
 The Inn Worker
 
-[![](images/The-lantern-lady.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-lantern-lady.jpg)
+[![](images/The-lantern-lady.jpg)](images/The-lantern-lady.jpg)
+[![](images/The-lantern-lady.jpg)](images/The-lantern-lady.jpg)
 
 The lantern lady
 
@@ -49,7 +54,8 @@ The main character then takes off her glasses before entering the large bath, se
 
 Suddenly, her friend Hezi taps her on the shoulder and urges her out of the water and to leave with her immediately. But what did Hezi, with her much more attuned eyesight, see in the bath's waters? What was it that the main character could not see? And just who was that mysterious figure in the stairwell?
 
-[![](images/Hezi-and-her-friend-arrive-at-the-inn.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Hezi-and-her-friend-arrive-at-the-inn.jpg)
+[![](images/Hezi-and-her-friend-arrive-at-the-inn.jpg)](images/Hezi-and-her-friend-arrive-at-the-inn.jpg)
+[![](images/Hezi-and-her-friend-arrive-at-the-inn.jpg)](images/Hezi-and-her-friend-arrive-at-the-inn.jpg)
 
 Hezi and her friend arrive at the inn
 
@@ -61,7 +67,8 @@ After reading some comments by others, I was introduced to the idea that this co
 
 But what's almost funny is, is the girl just stops the maid in her tracks and screams "Never mind, Ma'am! \[...\] If we continued to listen to her, it might turn out to be really scary, right?". In fact, the more I think about this story, the more I'm convinced that it is in fact a comedy. But it's only a comedy in the punchline, like a dry-witted comedian who you didn't realise was telling a joke until you find youself laughing at the end.
 
-[![](images/The-steps-seem-to-go-on-forever.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-steps-seem-to-go-on-forever.jpg)
+[![](images/The-steps-seem-to-go-on-forever.jpg)](images/The-steps-seem-to-go-on-forever.jpg)
+[![](images/The-steps-seem-to-go-on-forever.jpg)](images/The-steps-seem-to-go-on-forever.jpg)
 
 The steps seem to go on forever
 
@@ -75,7 +82,8 @@ And that lady on the stairs too. She seemed like an interesting chaarcter, carry
 
 Maybe it was all some lost potential for a longer tale? Or maybe it was further strokes of genius from Junji Ito, in letting us imagine for ourselves just what was happening at that inn.
 
-[![](images/The-bath-full-of-mysterious-people.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-bath-full-of-mysterious-people.jpg)
+[![](images/The-bath-full-of-mysterious-people.jpg)](images/The-bath-full-of-mysterious-people.jpg)
+[![](images/The-bath-full-of-mysterious-people.jpg)](images/The-bath-full-of-mysterious-people.jpg)
 
 The bath full of mysterious people
 

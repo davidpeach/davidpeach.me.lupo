@@ -45,7 +45,8 @@ So in essence he saved himself in that immediate moment, but at the expense of h
 
 Moriguchi's death was always inevitable.
 
-[![](images/A-shadow-looms-over-Moriguchi.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/A-shadow-looms-over-Moriguchi.jpg)
+[![](images/A-shadow-looms-over-Moriguchi.jpg)](images/A-shadow-looms-over-Moriguchi.jpg)
+[![](images/A-shadow-looms-over-Moriguchi.jpg)](images/A-shadow-looms-over-Moriguchi.jpg)
 
 A shadow looms over Moriguchi
 
@@ -65,11 +66,13 @@ Here's a thought -- what if she was some sort of angel, with the power of life a
 
 Perhaps she knew that when death decides it is our time, then it is indeed our time. But maybe she had the power to prolong that person's life, if only for a short while. But in doing so knew that the life in question was already chosen and must inevitably be claimed.
 
-[![](images/Moriguchis-fear-for-the-womans-return.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Moriguchis-fear-for-the-womans-return.jpg)
+[![](images/Moriguchis-fear-for-the-womans-return.jpg)](images/Moriguchis-fear-for-the-womans-return.jpg)
+[![](images/Moriguchis-fear-for-the-womans-return.jpg)](images/Moriguchis-fear-for-the-womans-return.jpg)
 
 Moriguchi's fear for the woman's return
 
-[![](images/The-strange-woman-has-empty-dead-eyes.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-strange-woman-has-empty-dead-eyes.jpg)
+[![](images/The-strange-woman-has-empty-dead-eyes.jpg)](images/The-strange-woman-has-empty-dead-eyes.jpg)
+[![](images/The-strange-woman-has-empty-dead-eyes.jpg)](images/The-strange-woman-has-empty-dead-eyes.jpg)
 
 The strange woman has empty dead eyes
 

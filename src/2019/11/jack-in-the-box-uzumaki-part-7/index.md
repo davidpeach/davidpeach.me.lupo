@@ -10,7 +10,8 @@ tags:
 coverImage: "Jack-in-the-Box-Uzumaki-part-7-cover.jpg"
 ---
 
-[![](images/Jack-in-the-Box-Uzumaki-part-7-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Jack-in-the-Box-Uzumaki-part-7-cover.jpg)
+[![](images/Jack-in-the-Box-Uzumaki-part-7-cover.jpg)](images/Jack-in-the-Box-Uzumaki-part-7-cover.jpg)
+[![](images/Jack-in-the-Box-Uzumaki-part-7-cover.jpg)](images/Jack-in-the-Box-Uzumaki-part-7-cover.jpg)
 
 > My love for you will **stop this car**!
 > 
@@ -28,19 +29,23 @@ After Mitsuru's funeral, Kirie is wracked with guilt over his untimely death. Bu
 
 One evening while talking through the grief with her boyfriend Shuichi, she gets a terrifying vision from the gift that Mitsuru had left her. She discovers that the present is a very apt one for it's sender — it is a Jack in the Box. The Jack in the Box seems to tell her that his death was indeed her fault. And not only that, but that Mitsuru will come back for her too.
 
-[![](images/Kirie-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Kirie-1.jpg)
+[![](images/Kirie-1.jpg)](images/Kirie-1.jpg)
+[![](images/Kirie-1.jpg)](images/Kirie-1.jpg)
 
 Kirie
 
-[![](images/Shiho.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Shiho.jpg)
+[![](images/Shiho.jpg)](images/Shiho.jpg)
+[![](images/Shiho.jpg)](images/Shiho.jpg)
 
 Shiho
 
-[![](images/Mitsuru.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Mitsuru.jpg)
+[![](images/Mitsuru.jpg)](images/Mitsuru.jpg)
+[![](images/Mitsuru.jpg)](images/Mitsuru.jpg)
 
 Mitsuru
 
-[![](images/Shuichi.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Shuichi.jpg)
+[![](images/Shuichi.jpg)](images/Shuichi.jpg)
+[![](images/Shuichi.jpg)](images/Shuichi.jpg)
 
 Shuichi
 
@@ -56,7 +61,8 @@ The spiral has had a very visual presence in the town so far. It has appeared in
 
 The way in which Ito ties the character of Mitsuru to that of a Jack in the Box was a stroke of genius. Especially when he later makes use of the spring from the car that killed him to make his complete transformation. Yes, the spiral is present in the springs throughout, but take the spiral obsession out of the equation and you still have a strong horror nightmare with an almost self-fulfilling prophecy.
 
-[![](images/Mitsuru-believes-his-love-for-Kirie-can-stop-a-speeding-car.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Mitsuru-believes-his-love-for-Kirie-can-stop-a-speeding-car.jpg)
+[![](images/Mitsuru-believes-his-love-for-Kirie-can-stop-a-speeding-car.jpg)](images/Mitsuru-believes-his-love-for-Kirie-can-stop-a-speeding-car.jpg)
+[![](images/Mitsuru-believes-his-love-for-Kirie-can-stop-a-speeding-car.jpg)](images/Mitsuru-believes-his-love-for-Kirie-can-stop-a-speeding-car.jpg)
 
 Mitsuru believes his love for Kirie can stop a speeding car
 
@@ -66,19 +72,23 @@ As I began writing up my thoughts on 'Jack in the Box', I began to notice how th
 
 Once the funeral is done with, Kirie's descent into guilt and the foreboding presence of the Jack in the box toy, wind up the chapter's final spring. It is wound up tightly and held with each step that her and Shuichi take through that graveyard. Until those final pages and the explosion of energy that shoots out towards them. The second spring is released and the two of them are directly in its path.
 
-[![](images/Mitsuru-jumps-out-on-Kirie-and-Shiho.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Mitsuru-jumps-out-on-Kirie-and-Shiho.jpg)
+[![](images/Mitsuru-jumps-out-on-Kirie-and-Shiho.jpg)](images/Mitsuru-jumps-out-on-Kirie-and-Shiho.jpg)
+[![](images/Mitsuru-jumps-out-on-Kirie-and-Shiho.jpg)](images/Mitsuru-jumps-out-on-Kirie-and-Shiho.jpg)
 
 Mitsuru jumps out on Kirie and Shiho
 
-[![](images/Kirie-opens-her-present-from-Mitsuru.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Kirie-opens-her-present-from-Mitsuru.jpg)
+[![](images/Kirie-opens-her-present-from-Mitsuru.jpg)](images/Kirie-opens-her-present-from-Mitsuru.jpg)
+[![](images/Kirie-opens-her-present-from-Mitsuru.jpg)](images/Kirie-opens-her-present-from-Mitsuru.jpg)
 
 Kirie opens her present from Mitsuru
 
-[![](images/Kirie-and-Shuichi-digging-for-answers.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Kirie-and-Shuichi-digging-for-answers.jpg)
+[![](images/Kirie-and-Shuichi-digging-for-answers.jpg)](images/Kirie-and-Shuichi-digging-for-answers.jpg)
+[![](images/Kirie-and-Shuichi-digging-for-answers.jpg)](images/Kirie-and-Shuichi-digging-for-answers.jpg)
 
 Kirie and Shuichi digging for answers
 
-[![](images/Opening-scenes-of-Kirie-and-Shiho-in-color.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Opening-scenes-of-Kirie-and-Shiho-in-color.jpg)
+[![](images/Opening-scenes-of-Kirie-and-Shiho-in-color.jpg)](images/Opening-scenes-of-Kirie-and-Shiho-in-color.jpg)
+[![](images/Opening-scenes-of-Kirie-and-Shiho-in-color.jpg)](images/Opening-scenes-of-Kirie-and-Shiho-in-color.jpg)
 
 Opening scenes of Kirie and Shiho in color
 

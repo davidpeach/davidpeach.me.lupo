@@ -19,7 +19,8 @@ It's a crime that more people aren't aware of this album. I absolutely adore eve
 
 Bad for Good, the eponymous opening song, kicks the album off with pure fire. It encapsulates the things that Jim is so great at: intense, energetic musical passages; huge, expertly-woven orchestrations; lyrics that paint epic pictures of passion, power and love. His lyrics read like poetry and are delivered with great conviction and authority. The speed change half way in, with the verse that follows it, is one of my favourite moments on the whole album. The whole song plays like its own self-contained, nine-minute opera.
 
-[![](images/jim-steinman-pose-for-bad-for-good-album-rear-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/jim-steinman-pose-for-bad-for-good-album-rear-cover.jpg)
+[![](images/jim-steinman-pose-for-bad-for-good-album-rear-cover.jpg)](images/jim-steinman-pose-for-bad-for-good-album-rear-cover.jpg)
+[![](images/jim-steinman-pose-for-bad-for-good-album-rear-cover.jpg)](images/jim-steinman-pose-for-bad-for-good-album-rear-cover.jpg)
 
 Visit my website https://vinyl-records.nl for complete album information and thousands of album cover photos
 
@@ -43,7 +44,8 @@ Jim Steinman's music has such energy and diversity to it and Bad For Good is the
 
 The album closes with the huge-sounding orchestral instrumental, 'The Storm'. This piece wouldn't be out of place as an overture for a huge opera production. And it serves further show just _how_ diverse this man's music is. It's moments like this that make me wish that Jim Steinman was a prolific film composer. His operatic and, quite frankly, epic visions for music would do cinema so must good.
 
-[![](images/meat-loaf-and-jim-steinman.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/meat-loaf-and-jim-steinman.jpg)
+[![](images/meat-loaf-and-jim-steinman.jpg)](images/meat-loaf-and-jim-steinman.jpg)
+[![](images/meat-loaf-and-jim-steinman.jpg)](images/meat-loaf-and-jim-steinman.jpg)
 
 Meat Loaf (left) and Jim Steinman (right)
 

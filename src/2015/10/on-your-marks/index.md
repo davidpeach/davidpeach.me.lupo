@@ -10,6 +10,7 @@ tags:
 coverImage: "On-Your-Marks.jpg"
 ---
 
-[![](images/On-Your-Marks.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/On-Your-Marks.jpg)
+[![](images/On-Your-Marks.jpg)](images/On-Your-Marks.jpg)
+[![](images/On-Your-Marks.jpg)](images/On-Your-Marks.jpg)
 
 Start of the 2015 Birmingham Half-Marathon.

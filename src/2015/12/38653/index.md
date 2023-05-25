@@ -11,4 +11,5 @@ coverImage: "Advent-Calendar-2015.jpg"
 
 @Maelacuna Nice! Here's mine. [@MrChom](https://twitter.com/MrChom)? Yours?
 
-[![](images/Advent-Calendar-2015.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Advent-Calendar-2015.jpg)
+[![](images/Advent-Calendar-2015.jpg)](images/Advent-Calendar-2015.jpg)
+[![](images/Advent-Calendar-2015.jpg)](images/Advent-Calendar-2015.jpg)

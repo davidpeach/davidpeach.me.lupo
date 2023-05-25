@@ -14,7 +14,8 @@ tags:
 coverImage: "Kiss-Tomie-part-5-cover.jpg"
 ---
 
-[![](images/Kiss-Tomie-part-5-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Kiss-Tomie-part-5-cover.jpg)
+[![](images/Kiss-Tomie-part-5-cover.jpg)](images/Kiss-Tomie-part-5-cover.jpg)
+[![](images/Kiss-Tomie-part-5-cover.jpg)](images/Kiss-Tomie-part-5-cover.jpg)
 
 > I was right, she's here... Tomie... she's here... somewhere in this house.
 > 
@@ -30,23 +31,28 @@ How far will Tomie's bodyguards, Daichi and Kimata, go in honouring their commit
 
 ## Main Characters
 
-[![](images/Tsukiko-2.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Tsukiko-2.jpg)
+[![](images/Tsukiko-2.jpg)](images/Tsukiko-2.jpg)
+[![](images/Tsukiko-2.jpg)](images/Tsukiko-2.jpg)
 
 Tsukiko
 
-[![](images/Michiko.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Michiko.jpg)
+[![](images/Michiko.jpg)](images/Michiko.jpg)
+[![](images/Michiko.jpg)](images/Michiko.jpg)
 
 Michiko
 
-[![](images/Yamazaki-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Yamazaki-1.jpg)
+[![](images/Yamazaki-1.jpg)](images/Yamazaki-1.jpg)
+[![](images/Yamazaki-1.jpg)](images/Yamazaki-1.jpg)
 
 Yamazaki
 
-[![](images/Kimata-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Kimata-1.jpg)
+[![](images/Kimata-1.jpg)](images/Kimata-1.jpg)
+[![](images/Kimata-1.jpg)](images/Kimata-1.jpg)
 
 Kimata
 
-[![](images/Taichi-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Taichi-1.jpg)
+[![](images/Taichi-1.jpg)](images/Taichi-1.jpg)
+[![](images/Taichi-1.jpg)](images/Taichi-1.jpg)
 
 Taichi
 
@@ -66,15 +72,18 @@ Tomie's spilt blood giving life to the carpet underlay is one of those visions t
 
 It was also fun to see this idea fleshed out further in the closing pages of this chapter.
 
-[![](images/The-blood-stained-apartment.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/The-blood-stained-apartment.jpg)
+[![](images/The-blood-stained-apartment.jpg)](images/The-blood-stained-apartment.jpg)
+[![](images/The-blood-stained-apartment.jpg)](images/The-blood-stained-apartment.jpg)
 
 The blood stained apartment
 
-[![](images/Yamazaki-is-attacked-by-Kimata-and-Taichi.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Yamazaki-is-attacked-by-Kimata-and-Taichi.jpg)
+[![](images/Yamazaki-is-attacked-by-Kimata-and-Taichi.jpg)](images/Yamazaki-is-attacked-by-Kimata-and-Taichi.jpg)
+[![](images/Yamazaki-is-attacked-by-Kimata-and-Taichi.jpg)](images/Yamazaki-is-attacked-by-Kimata-and-Taichi.jpg)
 
 Yamazaki is attacked by Kimata and Taichi
 
-[![](images/Yamazaki-hears-Tomies-Voice.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Yamazaki-hears-Tomies-Voice.jpg)
+[![](images/Yamazaki-hears-Tomies-Voice.jpg)](images/Yamazaki-hears-Tomies-Voice.jpg)
+[![](images/Yamazaki-hears-Tomies-Voice.jpg)](images/Yamazaki-hears-Tomies-Voice.jpg)
 
 Yamazaki hears Tomie's voice
 

@@ -9,4 +9,5 @@ tags:
   - "hopping-rats"
 ---
 
-[![](images/Madagascar-Hopping-Rats.jpeg)](http://davidpeach.co.uk/wp-content/uploads/2021/02/Madagascar-Hopping-Rats.jpeg)
+[![](images/Madagascar-Hopping-Rats.jpeg)](images/Madagascar-Hopping-Rats.jpeg)
+[![](images/Madagascar-Hopping-Rats.jpeg)](images/Madagascar-Hopping-Rats.jpeg)

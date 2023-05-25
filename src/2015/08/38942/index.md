@@ -13,6 +13,7 @@ tags:
 coverImage: "American-Horror-Story-cover-wallpaper.jpeg"
 ---
 
-[![](images/American-Horror-Story-cover-wallpaper.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/American-Horror-Story-cover-wallpaper.jpeg)
+[![](images/American-Horror-Story-cover-wallpaper.jpeg)](images/American-Horror-Story-cover-wallpaper.jpeg)
+[![](images/American-Horror-Story-cover-wallpaper.jpeg)](images/American-Horror-Story-cover-wallpaper.jpeg)
 
 I love this wallpaper from American Horror Story. From series 3: Coven.

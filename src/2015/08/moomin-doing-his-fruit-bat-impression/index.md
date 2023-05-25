@@ -8,4 +8,5 @@ tags:
   - "pets"
 ---
 
-[![](images/Moomin-the-fruitbat.jpg)](http://davidpeach.co.uk/wp-content/uploads/2021/02/Moomin-the-fruitbat.jpg)
+[![](images/Moomin-the-fruitbat.jpg)](images/Moomin-the-fruitbat.jpg)
+[![](images/Moomin-the-fruitbat.jpg)](images/Moomin-the-fruitbat.jpg)

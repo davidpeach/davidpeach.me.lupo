@@ -10,7 +10,8 @@ tags:
 coverImage: "Hellstar-Remina-by-Junji-Ito.jpg"
 ---
 
-[![](images/Hellstar-Remina-by-Junji-Ito.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Hellstar-Remina-by-Junji-Ito.jpg)
+[![](images/Hellstar-Remina-by-Junji-Ito.jpg)](images/Hellstar-Remina-by-Junji-Ito.jpg)
+[![](images/Hellstar-Remina-by-Junji-Ito.jpg)](images/Hellstar-Remina-by-Junji-Ito.jpg)
 
 > Remina looked me right in the eye! Remina knows about us, knows we're here! That's why... it's coming for us...
 > 

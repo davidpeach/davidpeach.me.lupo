@@ -11,7 +11,8 @@ tags:
 coverImage: "kicker-album-by-zella-day.jpg"
 ---
 
-[![](images/kicker-album-by-zella-day.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/kicker-album-by-zella-day.jpg)
+[![](images/kicker-album-by-zella-day.jpg)](images/kicker-album-by-zella-day.jpg)
+[![](images/kicker-album-by-zella-day.jpg)](images/kicker-album-by-zella-day.jpg)
 
 The bohemian style of artistic life has always seemed like a very romantic one to me. The idea of an artist just upping and heading to a remote place for some unknown amount of time with nothing but a journal and a guitar and just writing for themselves. In today's world of rushing about and the constant flow of nauseating crap of social networks, it would be easy for you to assume that that way of life was all but gone from the world.
 

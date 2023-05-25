@@ -5,6 +5,7 @@ categories:
   - "horizon-zero-dawn"
 ---
 
-[![](images/Woman-and-beast-scaled-1.jpg)](http://davidpeach.co.uk/wp-content/uploads/2020/10/Woman-and-beast-scaled-1.jpg)
+[![](images/Woman-and-beast-scaled-1.jpg)](images/Woman-and-beast-scaled-1.jpg)
+[![](images/Woman-and-beast-scaled-1.jpg)](images/Woman-and-beast-scaled-1.jpg)
 
 Woman and Machine

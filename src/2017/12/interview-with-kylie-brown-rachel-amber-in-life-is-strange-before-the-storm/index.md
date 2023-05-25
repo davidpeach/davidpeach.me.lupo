@@ -10,7 +10,8 @@ tags:
 coverImage: "kylie-brown.jpg"
 ---
 
-[![](images/kylie-brown.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/kylie-brown.jpg)
+[![](images/kylie-brown.jpg)](images/kylie-brown.jpg)
+[![](images/kylie-brown.jpg)](images/kylie-brown.jpg)
 
 The character of Rachel Amber has been brought to life, in ways we couldn't even imagine, by the very talented Kylie Brown.
 

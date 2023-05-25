@@ -9,7 +9,8 @@ tags:
 coverImage: "Worshipping-the-Satsuma.jpg"
 ---
 
-[![](images/Worshipping-the-Satsuma-1024x758.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Worshipping-the-Satsuma.jpg)
+[![](images/Worshipping-the-Satsuma-1024x758.jpg)](images/Worshipping-the-Satsuma.jpg)
+[![](images/Worshipping-the-Satsuma-1024x758.jpg)](images/Worshipping-the-Satsuma.jpg)
 
 Worshipping the Satsuma
 

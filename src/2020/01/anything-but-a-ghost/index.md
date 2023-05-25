@@ -12,7 +12,8 @@ tags:
 coverImage: "Anything-but-a-Ghost.jpg"
 ---
 
-[![](images/Anything-but-a-Ghost.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Anything-but-a-Ghost.jpg)
+[![](images/Anything-but-a-Ghost.jpg)](images/Anything-but-a-Ghost.jpg)
+[![](images/Anything-but-a-Ghost.jpg)](images/Anything-but-a-Ghost.jpg)
 
 > She died giving birth to me. When I came out, she was already a ghost. But she still cared about me. Even after that, she would come to breastfeed me.
 > 
@@ -26,15 +27,18 @@ After some time has past, Shigeru and his wife are going about their lives — t
 
 But it seems that she is to have a negative impact on his life. Her and Shigeru begin seeing each other in secret and soon reveals a strange, twisted secret about herself — one that he simply doesn't believe. However, as the closing pages of this manga reveal themselves, not only does her secret show itself to be true, but things also get a whole lot stranger and a lot more darker.
 
-[![](images/Shigeru.jpg)](https://davidpeach.co.uk/wp-content/uploads/2020/01/Shigeru.jpg)
+[![](images/Shigeru.jpg)](images/Shigeru.jpg)
+[![](images/Shigeru.jpg)](images/Shigeru.jpg)
 
 Shigeru
 
-[![](images/Yuina.jpg)](https://davidpeach.co.uk/wp-content/uploads/2020/01/Yuina.jpg)
+[![](images/Yuina.jpg)](images/Yuina.jpg)
+[![](images/Yuina.jpg)](images/Yuina.jpg)
 
 Yuina
 
-[![](images/Misaki.jpg)](https://davidpeach.co.uk/wp-content/uploads/2020/01/Misaki.jpg)
+[![](images/Misaki.jpg)](images/Misaki.jpg)
+[![](images/Misaki.jpg)](images/Misaki.jpg)
 
 Misaki
 
@@ -48,7 +52,8 @@ When she mentions that she can see Shigeru's ghosts following him, I immediately
 
 I always enjoy how [Junji Ito](https://junjiitomanga.com/) seems to be able to take our preconceived ideas of what typical sorts of horror stories are, and turns them on their head.
 
-[![](images/Misaki-shows-her-true-self.jpg)](https://davidpeach.co.uk/wp-content/uploads/2020/01/Misaki-shows-her-true-self.jpg)
+[![](images/Misaki-shows-her-true-self.jpg)](images/Misaki-shows-her-true-self.jpg)
+[![](images/Misaki-shows-her-true-self.jpg)](images/Misaki-shows-her-true-self.jpg)
 
 Misaki shows her true self
 
@@ -60,15 +65,18 @@ The very idea of having a person who feeds on ghosts is an incredibly inventive 
 
 And without giving too much away, the visions that Junji Ito was able to put into my mind, purely by suggestion, were pretty horrific. When she bites into what she eats towards the end, I could see every single blood-curdling inch of it, yet Ito drew none of it. He is truly a master of not only his own imagination, but of toying with his readers' imaginations too.
 
-[![](images/Shigeru-finds-the-blood-covered-woman-beside-the-road.jpg)](https://davidpeach.co.uk/wp-content/uploads/2020/01/Shigeru-finds-the-blood-covered-woman-beside-the-road.jpg)
+[![](images/Shigeru-finds-the-blood-covered-woman-beside-the-road.jpg)](images/Shigeru-finds-the-blood-covered-woman-beside-the-road.jpg)
+[![](images/Shigeru-finds-the-blood-covered-woman-beside-the-road.jpg)](images/Shigeru-finds-the-blood-covered-woman-beside-the-road.jpg)
 
 Shigeru finds the blood covered woman beside the road
 
-[![](images/Shigeru-starts-seeing-Misaki-in-secret.jpg)](https://davidpeach.co.uk/wp-content/uploads/2020/01/Shigeru-starts-seeing-Misaki-in-secret.jpg)
+[![](images/Shigeru-starts-seeing-Misaki-in-secret.jpg)](images/Shigeru-starts-seeing-Misaki-in-secret.jpg)
+[![](images/Shigeru-starts-seeing-Misaki-in-secret.jpg)](images/Shigeru-starts-seeing-Misaki-in-secret.jpg)
 
 Shigeru starts seeing Misaki in secret
 
-[![](images/What-is-Misaki-eating.jpg)](https://davidpeach.co.uk/wp-content/uploads/2020/01/What-is-Misaki-eating.jpg)
+[![](images/What-is-Misaki-eating.jpg)](images/What-is-Misaki-eating.jpg)
+[![](images/What-is-Misaki-eating.jpg)](images/What-is-Misaki-eating.jpg)
 
 What is Misaki eating?
 

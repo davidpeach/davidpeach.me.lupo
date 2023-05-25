@@ -12,4 +12,5 @@ tags:
 coverImage: "Balance-scaled-1.jpg"
 ---
 
-[![](images/Balance-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/Balance-scaled-1.jpg)
+[![](images/Balance-scaled-1.jpg)](images/Balance-scaled-1.jpg)
+[![](images/Balance-scaled-1.jpg)](images/Balance-scaled-1.jpg)

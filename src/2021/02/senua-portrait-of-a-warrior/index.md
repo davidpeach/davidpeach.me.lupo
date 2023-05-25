@@ -11,4 +11,5 @@ tags:
   - "vertical-shots"
 ---
 
-[![](images/Hellblade_-Senuas-Sacrifice™_20210217203304-Portrait-of-a-warrior-scaled-1.jpg)](http://davidpeach.co.uk/wp-content/uploads/2021/02/Hellblade_-Senuas-Sacrifice™_20210217203304-Portrait-of-a-warrior-scaled-1.jpg)
+[![](images/Hellblade_-Senuas-Sacrifice™_20210217203304-Portrait-of-a-warrior-scaled-1.jpg)](images/Hellblade_-Senuas-Sacrifice™_20210217203304-Portrait-of-a-warrior-scaled-1.jpg)
+[![](images/Hellblade_-Senuas-Sacrifice™_20210217203304-Portrait-of-a-warrior-scaled-1.jpg)](images/Hellblade_-Senuas-Sacrifice™_20210217203304-Portrait-of-a-warrior-scaled-1.jpg)

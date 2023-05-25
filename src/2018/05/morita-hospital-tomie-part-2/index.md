@@ -11,7 +11,7 @@ tags:
 coverImage: "Morita-Hospital-Tomie-part-2-cover.jpg"
 ---
 
-[![](images/Morita-Hospital-Tomie-part-2-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Morita-Hospital-Tomie-part-2-cover.jpg)
+[![](images/Morita-Hospital-Tomie-part-2-cover.jpg)](images/Morita-Hospital-Tomie-part-2-cover.jpg)
 
 > He speaks ill of you to no end... and yet, I guess that's the kind of man I like.
 > 
@@ -26,26 +26,57 @@ As he leaves Yuki to her hospital room, she spots him out of the window walking 
 Although it isn't explicitly stated, I believe that this is the Tomie that Reiko found growing beneath the cave at the end of Part 1. Tadashi reveals how he met Tomie at the beach, which in itself isn't that strange. But considering the fact that Tomie is referring to herself as Reiko, my theory is that she killed the original Reiko and assumed her identity. I can't confirm this, but I like to think that this is what would have happened.
 
 ## Main Characters
+<style>
+figure {
+        padding: 1rem 1rem 0;
+        margin: 0;
+        background-color: #cbeb66;
+    }
+    figure > p {
+            margin: 0;
+        }
+        figcaption {
+                font-size: .8em;
+                line-height: 1rem;
+            }
+</style>
 
-[![](images/Tomie-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Tomie-1.jpg)
 
-Tomie
+<!-- <div style"display:flex;"> -->
+<ul style="display:flex;gap: 1em;justify-content: flex-start;list-style-type:none;padding-left:0;">
+<li><figure>
+[![](images/Tomie-1.jpg)](images/Tomie-1.jpg)
 
-[![](images/yuki.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/yuki.jpg)
+<figcaption>Tomie</figcaption>
+</figure>
+
+<li><figure>
+[![](images/yuki.jpg)](images/yuki.jpg)
 
 Yuki
+</figure>
 
-[![](images/Tadashi.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Tadashi.jpg)
+<li><figure>
+[![](images/Tadashi.jpg)](images/Tadashi.jpg)
 
 Tadashi
+</figure>
 
-[![](images/Hospital-Director.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Hospital-Director.jpg)
+<li><figure>
+[![](images/Hospital-Director.jpg)](images/Hospital-Director.jpg)
 
 Hospital Director
+</figure>
 
-[![](images/Detective.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Detective.jpg)
+<li><figure>
+[![](images/Detective.jpg)](images/Detective.jpg)
 
 Detective
+</figure>
+</ul>
+<!-- </div> -->
+
+</div>
 
 ## Tomie is a spoilt brat
 
@@ -61,19 +92,23 @@ Due to an unfortunate encounter between Tadashi and Tomie, she ends up in hospit
 
 It turns out that she also happens to be a perfect match for a certain patient awaiting a certain kidney transplant. The operation goes ahead and with great success. However, the spirit of Tomie is strong and she can not be killed - not easily at least. Her darkness will always find a way back to the light, squeezing through the cracks from within any living flesh.
 
-[![](images/Tomie-upsets-Yuki.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Tomie-upsets-Yuki.jpg)
+[![](images/Tomie-upsets-Yuki.jpg)](images/Tomie-upsets-Yuki.jpg)
+[![](images/Tomie-upsets-Yuki.jpg)](images/Tomie-upsets-Yuki.jpg)
 
 Tomie upsets Yuki
 
-[![](images/Something-strange-during-surgery.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Something-strange-during-surgery.jpg)
+[![](images/Something-strange-during-surgery.jpg)](images/Something-strange-during-surgery.jpg)
+[![](images/Something-strange-during-surgery.jpg)](images/Something-strange-during-surgery.jpg)
 
 Something strange during surgery
 
-[![](images/A-very-strange-X-ray.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/A-very-strange-X-ray.jpg)
+[![](images/A-very-strange-X-ray.jpg)](images/A-very-strange-X-ray.jpg)
+[![](images/A-very-strange-X-ray.jpg)](images/A-very-strange-X-ray.jpg)
 
 A very strange X-ray
 
-[![](images/Tomie-arrives-at-Morita-Hospital.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/02/Tomie-arrives-at-Morita-Hospital.jpg)
+[![](images/Tomie-arrives-at-Morita-Hospital.jpg)](images/Tomie-arrives-at-Morita-Hospital.jpg)
+[![](images/Tomie-arrives-at-Morita-Hospital.jpg)](images/Tomie-arrives-at-Morita-Hospital.jpg)
 
 Tomie arrives at Morita Hospital
 

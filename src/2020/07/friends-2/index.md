@@ -10,6 +10,7 @@ tags:
 coverImage: "Smile.jpg"
 ---
 
-[![](images/Smile.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Smile.jpg)
+[![](images/Smile.jpg)](images/Smile.jpg)
+[![](images/Smile.jpg)](images/Smile.jpg)
 
 Friends?

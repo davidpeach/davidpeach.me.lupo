@@ -15,7 +15,8 @@ tags:
 coverImage: "hante-between-hope-and-danger.jpg"
 ---
 
-[![](images/hante-between-hope-and-danger.jpg)](https://davidpeach.co.uk/wp-content/uploads/2017/06/hante-between-hope-and-danger.jpg)
+[![](images/hante-between-hope-and-danger.jpg)](images/hante-between-hope-and-danger.jpg)
+[![](images/hante-between-hope-and-danger.jpg)](images/hante-between-hope-and-danger.jpg)
 
 Hante's music is always a dark, dreamy escape that I am addicted to getting lost into. As soon as I learned of her new release, 'Between Hope and Danger’, I immediately had to listen to it. From the get go it contained everything I love about her music - mystery-entrenched soundscapes of unapologetic synth. That and her haunting, echo chamber style vocals.
 

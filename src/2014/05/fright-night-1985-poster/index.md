@@ -9,7 +9,8 @@ tags:
 coverImage: "fright-night-poster-1985.jpg"
 ---
 
-[![](images/fright-night-poster-1985.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/fright-night-poster-1985.jpg)
+[![](images/fright-night-poster-1985.jpg)](images/fright-night-poster-1985.jpg)
+[![](images/fright-night-poster-1985.jpg)](images/fright-night-poster-1985.jpg)
 
 Fright Night is one of my top 10 favourite films of all time. It oozes the 80′s out of its pours and has one of my favourite ever soundtracks. The film stars Chris Sarandon, Roddy McDowall and William Ragsdale and centres around Charlie Brewster — Ragsdale — who believes his new next-door neighbour — Sarandon — is a vampire.
 

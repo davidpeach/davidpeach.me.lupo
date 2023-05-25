@@ -10,7 +10,8 @@ tags:
 coverImage: "dracula-book-cover.png"
 ---
 
-[![](images/dracula-book-cover.png)](https://davidpeach.co.uk/wp-content/uploads/2023/05/dracula-book-cover.png)
+[![](images/dracula-book-cover.png)](images/dracula-book-cover.png)
+[![](images/dracula-book-cover.png)](images/dracula-book-cover.png)
 
 ## Selected Quotes
 

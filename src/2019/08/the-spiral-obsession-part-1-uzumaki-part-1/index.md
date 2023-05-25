@@ -10,7 +10,8 @@ tags:
 coverImage: "The-Spiral-Obsession-part-1-cover.jpg"
 ---
 
-[![](images/The-Spiral-Obsession-part-1-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/The-Spiral-Obsession-part-1-cover.jpg)
+[![](images/The-Spiral-Obsession-part-1-cover.jpg)](images/The-Spiral-Obsession-part-1-cover.jpg)
+[![](images/The-Spiral-Obsession-part-1-cover.jpg)](images/The-Spiral-Obsession-part-1-cover.jpg)
 
 > You'll see! You can express the spiral through your own body!!
 > 
@@ -24,23 +25,28 @@ In this opening chapter of [Uzumaki](https://junjiitomanga.com/uzumaki-by-junji-
 
 Kurouzu-cho is a small coastal town that is home to both Kirie and Shuichi, as well as their respective families. Shuichi, however, does not go to school in the town — he goes to the nearby city of Midoriyama-shi instead. The reason for this is unknown, but his time spent outside of Kurouzu-cho has helped him realise something that all the other residents seem blind to...
 
-[![](images/Kirie-Goshima.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Kirie-Goshima.jpg)
+[![](images/Kirie-Goshima.jpg)](images/Kirie-Goshima.jpg)
+[![](images/Kirie-Goshima.jpg)](images/Kirie-Goshima.jpg)
 
 Kirie Goshima
 
-[![](images/Shuichi-Saito-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Shuichi-Saito-1.jpg)
+[![](images/Shuichi-Saito-1.jpg)](images/Shuichi-Saito-1.jpg)
+[![](images/Shuichi-Saito-1.jpg)](images/Shuichi-Saito-1.jpg)
 
 Shuichi Saito
 
-[![](images/Shuichis-father.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Shuichis-father.jpg)
+[![](images/Shuichis-father.jpg)](images/Shuichis-father.jpg)
+[![](images/Shuichis-father.jpg)](images/Shuichis-father.jpg)
 
 Shuichi's Father
 
-[![](images/Kiries-father.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Kiries-father.jpg)
+[![](images/Kiries-father.jpg)](images/Kiries-father.jpg)
+[![](images/Kiries-father.jpg)](images/Kiries-father.jpg)
 
 Kirie's father
 
-[![](images/Shuichis-Mother.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Shuichis-Mother.jpg)
+[![](images/Shuichis-Mother.jpg)](images/Shuichis-Mother.jpg)
+[![](images/Shuichis-Mother.jpg)](images/Shuichis-Mother.jpg)
 
 Shuichi's Mother
 
@@ -54,7 +60,8 @@ Shuichi explains about the strangeness of his father's new hobby, and his unheal
 
 The spiral is slowly consuming him...
 
-[![](images/The-eyes-of-Shuichis-father.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/The-eyes-of-Shuichis-father.jpg)
+[![](images/The-eyes-of-Shuichis-father.jpg)](images/The-eyes-of-Shuichis-father.jpg)
+[![](images/The-eyes-of-Shuichis-father.jpg)](images/The-eyes-of-Shuichis-father.jpg)
 
 The eyes of Shuichi's father
 
@@ -66,19 +73,23 @@ The characters in Uzumaki are your quintessential Ito characters. Kirie is the c
 
 But what's interesting here is, is that this darkness is weighing over _all_ of the town's people. It's just that Shuichi seems to be the only one who notices it. I can't wait to journey deeper into the cursed shape and find what lies at its heart.
 
-[![](images/Kirie-finds-Shuichis-father-in-the-alleyway.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Kirie-finds-Shuichis-father-in-the-alleyway.jpg)
+[![](images/Kirie-finds-Shuichis-father-in-the-alleyway.jpg)](images/Kirie-finds-Shuichis-father-in-the-alleyway.jpg)
+[![](images/Kirie-finds-Shuichis-father-in-the-alleyway.jpg)](images/Kirie-finds-Shuichis-father-in-the-alleyway.jpg)
 
 Kirie finds Shuichi's father in the alleyway
 
-[![](images/Kirie-in-a-field-of-spirals.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Kirie-in-a-field-of-spirals.jpg)
+[![](images/Kirie-in-a-field-of-spirals.jpg)](images/Kirie-in-a-field-of-spirals.jpg)
+[![](images/Kirie-in-a-field-of-spirals.jpg)](images/Kirie-in-a-field-of-spirals.jpg)
 
 Kirie in a field of spirals
 
-[![](images/Shuichis-father-rolls-his-tongue.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Shuichis-father-rolls-his-tongue.jpg)
+[![](images/Shuichis-father-rolls-his-tongue.jpg)](images/Shuichis-father-rolls-his-tongue.jpg)
+[![](images/Shuichis-father-rolls-his-tongue.jpg)](images/Shuichis-father-rolls-his-tongue.jpg)
 
 Shuichi's father rolls his tongue
 
-[![](images/Shuichis-father-studies-a-spiral.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Shuichis-father-studies-a-spiral.jpg)
+[![](images/Shuichis-father-studies-a-spiral.jpg)](images/Shuichis-father-studies-a-spiral.jpg)
+[![](images/Shuichis-father-studies-a-spiral.jpg)](images/Shuichis-father-studies-a-spiral.jpg)
 
 Shuichi's father studies a spiral
 

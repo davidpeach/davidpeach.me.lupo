@@ -8,7 +8,8 @@ tags:
   - "presents"
 ---
 
-[![](images/Birthday-presents-2015.jpg)](http://davidpeach.co.uk/wp-content/uploads/2021/02/Birthday-presents-2015.jpg)
+[![](images/Birthday-presents-2015.jpg)](images/Birthday-presents-2015.jpg)
+[![](images/Birthday-presents-2015.jpg)](images/Birthday-presents-2015.jpg)
 
 - Gyo by Junji Ito
 - Simpsons socks

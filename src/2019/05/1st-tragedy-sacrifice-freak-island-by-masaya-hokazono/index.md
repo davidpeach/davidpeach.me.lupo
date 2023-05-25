@@ -22,7 +22,8 @@ Oh geez.
 
 After the relaxing face of [Franken Fran](https://davidpeach.co.uk/2019/05/15/brains-franken-fran-part-1-by-kigitsu-katsuhisa/) I just wasn’t ready for this level of brutality. But I’ve started so I’ll continue.
 
-[![](images/Freak-Island-Sacrifice-1st-Tragedy.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Freak-Island-Sacrifice-1st-Tragedy.jpg)
+[![](images/Freak-Island-Sacrifice-1st-Tragedy.jpg)](images/Freak-Island-Sacrifice-1st-Tragedy.jpg)
+[![](images/Freak-Island-Sacrifice-1st-Tragedy.jpg)](images/Freak-Island-Sacrifice-1st-Tragedy.jpg)
 
 Just off the coast of the island where these monstrous events are happening, a small pleasure boat sails by carrying six young students. These students are out in search of ruins on the island as part of a University expedition. Little do they know that the thought-to-be-deserted island they are approaching is in fact home to the violent destruction of a helpless young woman.
 

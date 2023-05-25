@@ -9,6 +9,7 @@ tags:
   - "running"
 ---
 
-[![](images/After-birmimgham-half-marathon-2015.jpg)](http://davidpeach.co.uk/wp-content/uploads/2021/02/After-birmimgham-half-marathon-2015.jpg)
+[![](images/After-birmimgham-half-marathon-2015.jpg)](images/After-birmimgham-half-marathon-2015.jpg)
+[![](images/After-birmimgham-half-marathon-2015.jpg)](images/After-birmimgham-half-marathon-2015.jpg)
 
 Great Birmingham half-marathon completed in 2 hours and 17 minutes.

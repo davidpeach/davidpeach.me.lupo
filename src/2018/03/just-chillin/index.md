@@ -12,4 +12,5 @@ tags:
 coverImage: "Just-chillin-scaled-1.jpg"
 ---
 
-[![](images/Just-chillin-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/Just-chillin-scaled-1.jpg)
+[![](images/Just-chillin-scaled-1.jpg)](images/Just-chillin-scaled-1.jpg)
+[![](images/Just-chillin-scaled-1.jpg)](images/Just-chillin-scaled-1.jpg)

@@ -11,6 +11,7 @@ tags:
 coverImage: "Bodies-in-the-room.jpg"
 ---
 
-[![](images/Bodies-in-the-room.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Bodies-in-the-room.jpg)
+[![](images/Bodies-in-the-room.jpg)](images/Bodies-in-the-room.jpg)
+[![](images/Bodies-in-the-room.jpg)](images/Bodies-in-the-room.jpg)
 
 Bodies in the room

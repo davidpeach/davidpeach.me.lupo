@@ -10,7 +10,8 @@ tags:
 coverImage: "A-hind-D.jpeg"
 ---
 
-[![](images/A-hind-D.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/A-hind-D.jpeg)
+[![](images/A-hind-D.jpeg)](images/A-hind-D.jpeg)
+[![](images/A-hind-D.jpeg)](images/A-hind-D.jpeg)
 
 Hind D. Start of Metal Gear Solid.
 

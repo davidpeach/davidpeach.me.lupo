@@ -14,7 +14,8 @@ tags:
 coverImage: "Gathering-Tomie-part-17-cover.jpg"
 ---
 
-[![](images/Gathering-Tomie-part-17-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Gathering-Tomie-part-17-cover.jpg)
+[![](images/Gathering-Tomie-part-17-cover.jpg)](images/Gathering-Tomie-part-17-cover.jpg)
+[![](images/Gathering-Tomie-part-17-cover.jpg)](images/Gathering-Tomie-part-17-cover.jpg)
 
 > You interest me. That's all. For you to see me and not feel anything, it's too weird.
 > 

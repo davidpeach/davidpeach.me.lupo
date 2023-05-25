@@ -14,4 +14,5 @@ tags:
 coverImage: "Horizon-Zero-Dawn™_-Complete-Edition_20210605112705-scaled-1.jpg"
 ---
 
-[![](images/Horizon-Zero-Dawn™_-Complete-Edition_20210605112705-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/Horizon-Zero-Dawn™_-Complete-Edition_20210605112705-scaled-1.jpg)
+[![](images/Horizon-Zero-Dawn™_-Complete-Edition_20210605112705-scaled-1.jpg)](images/Horizon-Zero-Dawn™_-Complete-Edition_20210605112705-scaled-1.jpg)
+[![](images/Horizon-Zero-Dawn™_-Complete-Edition_20210605112705-scaled-1.jpg)](images/Horizon-Zero-Dawn™_-Complete-Edition_20210605112705-scaled-1.jpg)

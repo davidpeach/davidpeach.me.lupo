@@ -5,4 +5,5 @@ categories:
   - "horizon-zero-dawn"
 ---
 
-[![](images/Stormbird-in-the-night-sky-scaled-1.jpg)](http://davidpeach.co.uk/wp-content/uploads/2020/10/Stormbird-in-the-night-sky-scaled-1.jpg)
+[![](images/Stormbird-in-the-night-sky-scaled-1.jpg)](images/Stormbird-in-the-night-sky-scaled-1.jpg)
+[![](images/Stormbird-in-the-night-sky-scaled-1.jpg)](images/Stormbird-in-the-night-sky-scaled-1.jpg)

@@ -14,4 +14,5 @@ Starting to listen to the British History Podcast again. Planning to work all of
 
 I love the philosophy and energy behind the person presenting this show. 💚
 
-[![](images/img_0247.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/img_0247.jpg)
+[![](images/img_0247.jpg)](images/img_0247.jpg)
+[![](images/img_0247.jpg)](images/img_0247.jpg)

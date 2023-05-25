@@ -12,7 +12,8 @@ tags:
 coverImage: "Animal-Farm-grey-with-animal-shapes-forming-the-pig-shape.jpeg"
 ---
 
-[![](images/Animal-Farm-grey-with-animal-shapes-forming-the-pig-shape.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Animal-Farm-grey-with-animal-shapes-forming-the-pig-shape.jpeg)
+[![](images/Animal-Farm-grey-with-animal-shapes-forming-the-pig-shape.jpeg)](images/Animal-Farm-grey-with-animal-shapes-forming-the-pig-shape.jpeg)
+[![](images/Animal-Farm-grey-with-animal-shapes-forming-the-pig-shape.jpeg)](images/Animal-Farm-grey-with-animal-shapes-forming-the-pig-shape.jpeg)
 
 The story of Manor Farm and the animals who revolt after being inspired to fight for a better life. But those who assume command inevitably become the enemy of the society they are trying to create.
 
@@ -38,19 +39,24 @@ Here's a collection of cool covers for Animal Farm that I've found. These could 
 
 ![](images/Animal-Farm-penguin-cover.jpg)
 
-[![](images/Animal-Farm-soviet-style.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Animal-Farm-soviet-style.jpg)
+[![](images/Animal-Farm-soviet-style.jpg)](images/Animal-Farm-soviet-style.jpg)
+[![](images/Animal-Farm-soviet-style.jpg)](images/Animal-Farm-soviet-style.jpg)
 
-[![](images/Animal-Farm-grey-with-animal-shapes-forming-the-pig-shape-1.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Animal-Farm-grey-with-animal-shapes-forming-the-pig-shape-1.jpeg)
+[![](images/Animal-Farm-grey-with-animal-shapes-forming-the-pig-shape-1.jpeg)](images/Animal-Farm-grey-with-animal-shapes-forming-the-pig-shape-1.jpeg)
+[![](images/Animal-Farm-grey-with-animal-shapes-forming-the-pig-shape-1.jpeg)](images/Animal-Farm-grey-with-animal-shapes-forming-the-pig-shape-1.jpeg)
 
-[![](images/Animal-Farm-pink-with-fire.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Animal-Farm-pink-with-fire.jpg)
+[![](images/Animal-Farm-pink-with-fire.jpg)](images/Animal-Farm-pink-with-fire.jpg)
+[![](images/Animal-Farm-pink-with-fire.jpg)](images/Animal-Farm-pink-with-fire.jpg)
 
-[![](images/Animal-Farm-soviet-puppeteer.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Animal-Farm-soviet-puppeteer.jpg)
+[![](images/Animal-Farm-soviet-puppeteer.jpg)](images/Animal-Farm-soviet-puppeteer.jpg)
+[![](images/Animal-Farm-soviet-puppeteer.jpg)](images/Animal-Farm-soviet-puppeteer.jpg)
 
 ## Pink Floyd's Animals
 
 Animals by Pink Floyd is one of my favourite albums ever made. Definitely in my top 10. Until I read Animal Farm I hadn't made the connection between it and that album. I mean how could I miss out on the giant inflatable pig and not link that with the pig in power from the book?
 
-[![](images/Roger-Waters-inflatable-pig.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Roger-Waters-inflatable-pig.jpg)
+[![](images/Roger-Waters-inflatable-pig.jpg)](images/Roger-Waters-inflatable-pig.jpg)
+[![](images/Roger-Waters-inflatable-pig.jpg)](images/Roger-Waters-inflatable-pig.jpg)
 
 Roger Waters inflatable pig
 

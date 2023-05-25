@@ -11,4 +11,5 @@ tags:
 coverImage: "DBD-Freddy-rework-meme.jpg"
 ---
 
-[![](images/DBD-Freddy-rework-meme.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/DBD-Freddy-rework-meme.jpg)
+[![](images/DBD-Freddy-rework-meme.jpg)](images/DBD-Freddy-rework-meme.jpg)
+[![](images/DBD-Freddy-rework-meme.jpg)](images/DBD-Freddy-rework-meme.jpg)

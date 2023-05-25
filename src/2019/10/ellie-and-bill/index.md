@@ -10,4 +10,5 @@ tags:
 coverImage: "Ellie-and-Bill-scaled-1.jpg"
 ---
 
-[![](images/Ellie-and-Bill-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Ellie-and-Bill-scaled-1.jpg)
+[![](images/Ellie-and-Bill-scaled-1.jpg)](images/Ellie-and-Bill-scaled-1.jpg)
+[![](images/Ellie-and-Bill-scaled-1.jpg)](images/Ellie-and-Bill-scaled-1.jpg)

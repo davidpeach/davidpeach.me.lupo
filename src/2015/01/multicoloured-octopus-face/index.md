@@ -11,6 +11,7 @@ tags:
 coverImage: "IMG_20150109_131409-scaled.jpg"
 ---
 
-[![](images/IMG_20150109_131409-scaled.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/IMG_20150109_131409-scaled.jpg)
+[![](images/IMG_20150109_131409-scaled.jpg)](images/IMG_20150109_131409-scaled.jpg)
+[![](images/IMG_20150109_131409-scaled.jpg)](images/IMG_20150109_131409-scaled.jpg)
 
 Multicoloured Octopus Face

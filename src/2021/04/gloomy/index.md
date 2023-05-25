@@ -7,4 +7,5 @@ tags:
   - "fadenfridays"
 ---
 
-[![](images/Control_20210207074035-scaled.jpg)](https://davidpeach.co.uk/wp-content/uploads/2021/04/Control_20210207074035-scaled.jpg)
+[![](images/Control_20210207074035-scaled.jpg)](images/Control_20210207074035-scaled.jpg)
+[![](images/Control_20210207074035-scaled.jpg)](images/Control_20210207074035-scaled.jpg)

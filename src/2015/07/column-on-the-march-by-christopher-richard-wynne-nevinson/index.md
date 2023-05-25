@@ -8,6 +8,7 @@ tags:
   - "paintings"
 ---
 
-[![](images/Column-on-the-March-by-Christopher-Richard-Wynne-Nevinson-1024x758.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Column-on-the-March-by-Christopher-Richard-Wynne-Nevinson.jpg)
+[![](images/Column-on-the-March-by-Christopher-Richard-Wynne-Nevinson-1024x758.jpg)](images/Column-on-the-March-by-Christopher-Richard-Wynne-Nevinson.jpg)
+[![](images/Column-on-the-March-by-Christopher-Richard-Wynne-Nevinson-1024x758.jpg)](images/Column-on-the-March-by-Christopher-Richard-Wynne-Nevinson.jpg)
 
 I absolutely love this painting.

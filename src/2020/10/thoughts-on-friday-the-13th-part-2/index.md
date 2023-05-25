@@ -12,7 +12,8 @@ tags:
 coverImage: "friday-the-13th-part-2-cover.jpeg"
 ---
 
-[![](images/friday-the-13th-part-2-cover.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/friday-the-13th-part-2-cover.jpeg)
+[![](images/friday-the-13th-part-2-cover.jpeg)](images/friday-the-13th-part-2-cover.jpeg)
+[![](images/friday-the-13th-part-2-cover.jpeg)](images/friday-the-13th-part-2-cover.jpeg)
 
 The second film in the Friday the 13th series and first appearance of Jason.
 

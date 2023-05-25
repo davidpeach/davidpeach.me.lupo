@@ -14,7 +14,8 @@ tags:
 coverImage: "hante-no-hard-feelings.jpg"
 ---
 
-[![](images/hante-no-hard-feelings.jpg)](https://davidpeach.co.uk/wp-content/uploads/2016/11/hante-no-hard-feelings.jpg)
+[![](images/hante-no-hard-feelings.jpg)](images/hante-no-hard-feelings.jpg)
+[![](images/hante-no-hard-feelings.jpg)](images/hante-no-hard-feelings.jpg)
 
 Listening to No Hard Feelings by Hante makes me feel a lot more cultured than I am.
 

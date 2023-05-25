@@ -13,7 +13,8 @@ tags:
 coverImage: "the-wall-scream.jpeg"
 ---
 
-[![](images/the-wall-scream.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/the-wall-scream.jpeg)
+[![](images/the-wall-scream.jpeg)](images/the-wall-scream.jpeg)
+[![](images/the-wall-scream.jpeg)](images/the-wall-scream.jpeg)
 
 Scream artwork from The Wall by Pink Floyd
 

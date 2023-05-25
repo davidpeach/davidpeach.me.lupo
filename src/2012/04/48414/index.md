@@ -11,4 +11,5 @@ coverImage: "AqUZr-MCAAEok0e.jpg"
 
 #nightnight from the gruffalo.
 
-[![](images/AqUZr-MCAAEok0e-768x1024.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/AqUZr-MCAAEok0e.jpg)
+[![](images/AqUZr-MCAAEok0e-768x1024.jpg)](images/AqUZr-MCAAEok0e.jpg)
+[![](images/AqUZr-MCAAEok0e-768x1024.jpg)](images/AqUZr-MCAAEok0e.jpg)

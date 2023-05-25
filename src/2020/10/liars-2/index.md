@@ -8,6 +8,7 @@ tags:
   - "the-last-of-us"
 ---
 
-[![](images/Liars-scaled-1.jpg)](http://davidpeach.co.uk/wp-content/uploads/2020/10/Liars-scaled-1.jpg)
+[![](images/Liars-scaled-1.jpg)](images/Liars-scaled-1.jpg)
+[![](images/Liars-scaled-1.jpg)](images/Liars-scaled-1.jpg)
 
 Liars

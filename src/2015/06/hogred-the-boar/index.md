@@ -10,4 +10,5 @@ tags:
   - "tamworth"
 ---
 
-[![](images/Hogred-the-Boar-scaled.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Hogred-the-Boar-scaled.jpeg)
+[![](images/Hogred-the-Boar-scaled.jpeg)](images/Hogred-the-Boar-scaled.jpeg)
+[![](images/Hogred-the-Boar-scaled.jpeg)](images/Hogred-the-Boar-scaled.jpeg)

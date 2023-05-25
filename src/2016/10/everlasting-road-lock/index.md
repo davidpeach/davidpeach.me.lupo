@@ -12,7 +12,8 @@ tags:
 coverImage: "everlasting-road-by-lock.jpg"
 ---
 
-[![](images/everlasting-road-by-lock.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/everlasting-road-by-lock.jpg)
+[![](images/everlasting-road-by-lock.jpg)](images/everlasting-road-by-lock.jpg)
+[![](images/everlasting-road-by-lock.jpg)](images/everlasting-road-by-lock.jpg)
 
 About a month ago I shared an awesome song by LOCK called "Click". I have been listening to this song quite a lot and had become a big LOCK fan based on it. So when I heard about their new E.P. "[Everlasting Road](https://itunes.apple.com/us/album/everlasting-road-single/id1146890888)", I was well up for it.
 

@@ -12,7 +12,8 @@ tags:
 coverImage: "Honoured-Ancestors-by-Junji-Ito.jpg"
 ---
 
-[![](images/Honoured-Ancestors-by-Junji-Ito.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Honoured-Ancestors-by-Junji-Ito.jpg)
+[![](images/Honoured-Ancestors-by-Junji-Ito.jpg)](images/Honoured-Ancestors-by-Junji-Ito.jpg)
+[![](images/Honoured-Ancestors-by-Junji-Ito.jpg)](images/Honoured-Ancestors-by-Junji-Ito.jpg)
 
 Honouring the memory of one's ancestors is something that most people try to do - at least I like to think so. So it seems fitting that in Honoured Ancestors, Junji Ito should take this very human trait and turn the dial up to “weird” and give us a flesh and blood representation of ancestry.
 

@@ -11,7 +11,8 @@ tags:
 coverImage: "queen-of-hearts.jpg"
 ---
 
-[![](images/queen-of-hearts.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/queen-of-hearts.jpg)
+[![](images/queen-of-hearts.jpg)](images/queen-of-hearts.jpg)
+[![](images/queen-of-hearts.jpg)](images/queen-of-hearts.jpg)
 
 This week I had the pleasure of not only publishing my first interview, but also to have interviewed one of my favourite artists at the moment – London-based, electronic royalty, [Queen of Hearts](http://www.iamqueenofhearts.com/) – real name Liz Morphew. Her debut album, Cocoon, is currently getting a daily playing on my headphones and you should check it out too! You can read an earlier recommendation of this album that I posted a while back.
 

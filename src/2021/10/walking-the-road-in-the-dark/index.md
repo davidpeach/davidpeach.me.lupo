@@ -11,4 +11,5 @@ tags:
 coverImage: "Walking-the-road-in-the-dark-scaled-1.jpeg"
 ---
 
-[![](images/Walking-the-road-in-the-dark-scaled-1.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/Walking-the-road-in-the-dark-scaled-1.jpeg)
+[![](images/Walking-the-road-in-the-dark-scaled-1.jpeg)](images/Walking-the-road-in-the-dark-scaled-1.jpeg)
+[![](images/Walking-the-road-in-the-dark-scaled-1.jpeg)](images/Walking-the-road-in-the-dark-scaled-1.jpeg)

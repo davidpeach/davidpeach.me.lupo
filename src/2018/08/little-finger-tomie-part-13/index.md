@@ -14,7 +14,8 @@ tags:
 coverImage: "Little-Finger-Tomie-part-13-cover.jpg"
 ---
 
-[![](images/Little-Finger-Tomie-part-13-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Little-Finger-Tomie-part-13-cover.jpg)
+[![](images/Little-Finger-Tomie-part-13-cover.jpg)](images/Little-Finger-Tomie-part-13-cover.jpg)
+[![](images/Little-Finger-Tomie-part-13-cover.jpg)](images/Little-Finger-Tomie-part-13-cover.jpg)
 
 > My brothers regarded her not as their mother... but as a woman. It didn't take long for her to reciprocate, either. Motherly love, indeed.
 > 

@@ -10,7 +10,8 @@ tags:
   - "manga"
 ---
 
-[![](images/Enigma-of-Amigara-Fault.jpg)](https://davidpeach.co.uk/wp-content/uploads/2018/03/Enigma-of-Amigara-Fault.jpg)
+[![](images/Enigma-of-Amigara-Fault.jpg)](images/Enigma-of-Amigara-Fault.jpg)
+[![](images/Enigma-of-Amigara-Fault.jpg)](images/Enigma-of-Amigara-Fault.jpg)
 
 > That hole was my silhouette! It was based on me. I swear, I'm serious!
 > 

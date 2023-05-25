@@ -12,6 +12,7 @@ tags:
 coverImage: "tempa-t-valentines-gift-tag.jpeg"
 ---
 
-[![](images/tempa-t-valentines-gift-tag.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/tempa-t-valentines-gift-tag.jpeg)
+[![](images/tempa-t-valentines-gift-tag.jpeg)](images/tempa-t-valentines-gift-tag.jpeg)
+[![](images/tempa-t-valentines-gift-tag.jpeg)](images/tempa-t-valentines-gift-tag.jpeg)
 
 When you're looking for that perfect gift tag that says it all, look no further than Tempz. Love it.

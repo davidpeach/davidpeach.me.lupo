@@ -11,7 +11,8 @@ tags:
 coverImage: "lights-midnight-machines-album-cover.jpg"
 ---
 
-[![](images/lights-midnight-machines-album-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/lights-midnight-machines-album-cover.jpg)
+[![](images/lights-midnight-machines-album-cover.jpg)](images/lights-midnight-machines-album-cover.jpg)
+[![](images/lights-midnight-machines-album-cover.jpg)](images/lights-midnight-machines-album-cover.jpg)
 
 Over the past few years I've been noticing how things have more of an affect on me than they did when I was younger. Films that touch on the human condition move me more than they did; songs about a loved one have a greater affect as I imagine myself and my girlfriend in place of song characters.
 

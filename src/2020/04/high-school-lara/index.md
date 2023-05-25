@@ -11,7 +11,8 @@ tags:
 coverImage: "High-School-Lara.jpg"
 ---
 
-[![](images/High-School-Lara.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/High-School-Lara.jpg)
+[![](images/High-School-Lara.jpg)](images/High-School-Lara.jpg)
+[![](images/High-School-Lara.jpg)](images/High-School-Lara.jpg)
 
 High School Lara
 

@@ -27,15 +27,18 @@ Immediately upon moving in, it becomes apparent that something is not quite righ
 
 But will these rumours have any teeth? What are these strange markings that the family begin to show on their bodies? And will these markings become something much more sinister?
 
-[![](images/The-Goshimas-new-neighbour-Wakabayashi.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-Goshimas-new-neighbour-Wakabayashi.jpg)
+[![](images/The-Goshimas-new-neighbour-Wakabayashi.jpg)](images/The-Goshimas-new-neighbour-Wakabayashi.jpg)
+[![](images/The-Goshimas-new-neighbour-Wakabayashi.jpg)](images/The-Goshimas-new-neighbour-Wakabayashi.jpg)
 
 The Goshima's new neighbour Wakabayashi
 
-[![](images/The-new-Goshima-home-is-a-little-run-down.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-new-Goshima-home-is-a-little-run-down.jpg)
+[![](images/The-new-Goshima-home-is-a-little-run-down.jpg)](images/The-new-Goshima-home-is-a-little-run-down.jpg)
+[![](images/The-new-Goshima-home-is-a-little-run-down.jpg)](images/The-new-Goshima-home-is-a-little-run-down.jpg)
 
 The new Goshima home is a little run down
 
-[![](images/The-run-down-row-house.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-run-down-row-house.jpg)
+[![](images/The-run-down-row-house.jpg)](images/The-run-down-row-house.jpg)
+[![](images/The-run-down-row-house.jpg)](images/The-run-down-row-house.jpg)
 
 The run down row house
 
@@ -49,7 +52,8 @@ Is that monster the only one of its kind, spreading its disease but devouring it
 
 The answers to these questions don't really matter -- at least not to me. I always love it when a story opens more questions than it closes. It has the effect of deepening the world in which the story takes place. And there are few collections that I've read that are quite as deep as Uzumaki.
 
-[![](images/The-run-down-row-house-1-1024x315.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-run-down-row-house-1.jpg)
+[![](images/The-run-down-row-house-1-1024x315.jpg)](images/The-run-down-row-house-1.jpg)
+[![](images/The-run-down-row-house-1-1024x315.jpg)](images/The-run-down-row-house-1.jpg)
 
 ## Monster of the Week
 
@@ -61,7 +65,8 @@ The monster in this chapter is also one of Junji Ito's most grotesque in my opin
 
 The design of the monster as a whole was awesome too. Aside from maybe the blood-thirsty women of [Mosquitoes](https://junjiitomanga.com/mosquitoes-uzumaki-part-10/), the monster of The House felt like Junji Ito's most deadly creation yet. It even made me imagine some kind of later transformation of a creature from the [Resident Evil](https://en.wikipedia.org/wiki/Resident_Evil) game series.
 
-[![](images/Spiral-tentacles-emerge-from-the-apartment-wall.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Spiral-tentacles-emerge-from-the-apartment-wall.jpg)
+[![](images/Spiral-tentacles-emerge-from-the-apartment-wall.jpg)](images/Spiral-tentacles-emerge-from-the-apartment-wall.jpg)
+[![](images/Spiral-tentacles-emerge-from-the-apartment-wall.jpg)](images/Spiral-tentacles-emerge-from-the-apartment-wall.jpg)
 
 The way in which the monster's spirals pushed their way in through the wall made me think of potatoes too. Stay with me a second. Those growths that potatoes get when left in the cupboard for too long. For the longest time those potato sproutings, although natural, really freaked me out. This monster pricked that same repulsion I think.
 

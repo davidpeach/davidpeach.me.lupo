@@ -11,7 +11,8 @@ tags:
 coverImage: "long-way-home-by-lapsley.jpg"
 ---
 
-[![](images/long-way-home-by-lapsley.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/long-way-home-by-lapsley.jpg)
+[![](images/long-way-home-by-lapsley.jpg)](images/long-way-home-by-lapsley.jpg)
+[![](images/long-way-home-by-lapsley.jpg)](images/long-way-home-by-lapsley.jpg)
 
 One of the first thoughts that came to me when I listened to Låpsley's first album, "Long Way Home", was just how ahead of her years she sounds. She has the air of an artist who has been around for over twenty years or more, when in fact she herself is less than that at the time of writing. At the age of just nineteen, she has already laid the first stones of what will hopefully be a very long, and no-doubt will be a very successful, career.
 

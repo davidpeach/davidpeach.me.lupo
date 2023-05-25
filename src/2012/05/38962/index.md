@@ -10,7 +10,8 @@ tags:
 coverImage: "Sarlacc-pit-miniature-made-of-sand.jpeg"
 ---
 
-[![](images/Sarlacc-pit-miniature-made-of-sand.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Sarlacc-pit-miniature-made-of-sand.jpeg)
+[![](images/Sarlacc-pit-miniature-made-of-sand.jpeg)](images/Sarlacc-pit-miniature-made-of-sand.jpeg)
+[![](images/Sarlacc-pit-miniature-made-of-sand.jpeg)](images/Sarlacc-pit-miniature-made-of-sand.jpeg)
 
 Hand-made miniature of the Sarlacc Pit
 

@@ -5,6 +5,7 @@ categories:
   - "uncharted-4"
 ---
 
-[![](images/Uncharted™-4_-A-Thiefs-End_20200125201946.jpg)](http://davidpeach.co.uk/wp-content/uploads/2020/09/Uncharted™-4_-A-Thiefs-End_20200125201946.jpg)
+[![](images/Uncharted™-4_-A-Thiefs-End_20200125201946.jpg)](images/Uncharted™-4_-A-Thiefs-End_20200125201946.jpg)
+[![](images/Uncharted™-4_-A-Thiefs-End_20200125201946.jpg)](images/Uncharted™-4_-A-Thiefs-End_20200125201946.jpg)
 
 Climbing the clock tower

@@ -40,7 +40,8 @@ I discovered a new instrument when hearing the soundtrack to Joker: the Halldoro
 
 When I think about the score, I go straight to a bathroom scene where Fleck slow dances by himself having just killed the three suits on the subway. The way that the instrument filled the cinema as Fleck seemed to be slipping into something a lot more comfortable, mentally speaking, created a single moment in cinema that I will never forget.
 
-[![](images/Arthur-begins-to-fit-into-his-emerging-persona-1024x542.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Arthur-begins-to-fit-into-his-emerging-persona.jpg)
+[![](images/Arthur-begins-to-fit-into-his-emerging-persona-1024x542.jpg)](images/Arthur-begins-to-fit-into-his-emerging-persona.jpg)
+[![](images/Arthur-begins-to-fit-into-his-emerging-persona-1024x542.jpg)](images/Arthur-begins-to-fit-into-his-emerging-persona.jpg)
 
 Arthur begins to fit into his emerging persona
 
@@ -66,7 +67,8 @@ From what we saw on that train car, we know that those three men were complete s
 
 But then to have Thomas Wayne, the poster child for success and wealth in the city, give the following statement, it puts him in a completely opposing light to how I'd seen him previously: "And until that jealousy ends, those of us who've made a good life for ourselves will always look at those who haven't as nothing but clowns.".
 
-[![](images/Arthur-getting-ready-for-the-Murray-Franklin-show-1024x542.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Arthur-getting-ready-for-the-Murray-Franklin-show.jpg)
+[![](images/Arthur-getting-ready-for-the-Murray-Franklin-show-1024x542.jpg)](images/Arthur-getting-ready-for-the-Murray-Franklin-show.jpg)
+[![](images/Arthur-getting-ready-for-the-Murray-Franklin-show-1024x542.jpg)](images/Arthur-getting-ready-for-the-Murray-Franklin-show.jpg)
 
 Arthur getting ready for the Murray Franklin show
 
@@ -86,23 +88,28 @@ But the most powerful moment for me was the awakening of Joker on the bonnet of 
 
 Joker is raised up and revered as the leader of a crusade for the beaten and down-trodden in society. At the same time the seeds of what Bruce is to become are planted at the very moment that his parents are taken away from him.
 
-[![](images/Arthur-does-his-best-to-keep-his-anger-inside-1024x550.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Arthur-does-his-best-to-keep-his-anger-inside.jpg)
+[![](images/Arthur-does-his-best-to-keep-his-anger-inside-1024x550.jpg)](images/Arthur-does-his-best-to-keep-his-anger-inside.jpg)
+[![](images/Arthur-does-his-best-to-keep-his-anger-inside-1024x550.jpg)](images/Arthur-does-his-best-to-keep-his-anger-inside.jpg)
 
 Arthur does his best to keep his anger inside
 
-[![](images/Arthur-Fleck-walks-home-after-his-therapy-session-1024x559.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Arthur-Fleck-walks-home-after-his-therapy-session.jpg)
+[![](images/Arthur-Fleck-walks-home-after-his-therapy-session-1024x559.jpg)](images/Arthur-Fleck-walks-home-after-his-therapy-session.jpg)
+[![](images/Arthur-Fleck-walks-home-after-his-therapy-session-1024x559.jpg)](images/Arthur-Fleck-walks-home-after-his-therapy-session.jpg)
 
 Arthur Fleck walks home after his therapy session
 
-[![](images/Arthur-on-the-subway-1024x544.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Arthur-on-the-subway.jpg)
+[![](images/Arthur-on-the-subway-1024x544.jpg)](images/Arthur-on-the-subway.jpg)
+[![](images/Arthur-on-the-subway-1024x544.jpg)](images/Arthur-on-the-subway.jpg)
 
 Arthur on the subway
 
-[![](images/Arthur-on-the-Murray-Franklin-show-1024x542.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Arthur-on-the-Murray-Franklin-show.jpg)
+[![](images/Arthur-on-the-Murray-Franklin-show-1024x542.jpg)](images/Arthur-on-the-Murray-Franklin-show.jpg)
+[![](images/Arthur-on-the-Murray-Franklin-show-1024x542.jpg)](images/Arthur-on-the-Murray-Franklin-show.jpg)
 
 Arthur on the Murray Franklin show
 
-[![](images/Arthur-has-a-heated-discussion-with-Murray-Franklin-1024x542.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Arthur-has-a-heated-discussion-with-Murray-Franklin.jpg)
+[![](images/Arthur-has-a-heated-discussion-with-Murray-Franklin-1024x542.jpg)](images/Arthur-has-a-heated-discussion-with-Murray-Franklin.jpg)
+[![](images/Arthur-has-a-heated-discussion-with-Murray-Franklin-1024x542.jpg)](images/Arthur-has-a-heated-discussion-with-Murray-Franklin.jpg)
 
 Arthur has a heated discussion with Murray Franklin
 

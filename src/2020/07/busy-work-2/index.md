@@ -11,6 +11,7 @@ tags:
 coverImage: "Busy-work.jpg"
 ---
 
-[![](images/Busy-work.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Busy-work.jpg)
+[![](images/Busy-work.jpg)](images/Busy-work.jpg)
+[![](images/Busy-work.jpg)](images/Busy-work.jpg)
 
 Busy work

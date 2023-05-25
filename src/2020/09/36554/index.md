@@ -9,7 +9,8 @@ tags:
 coverImage: "img_0438.png"
 ---
 
-[![](images/img_0438.png)](https://davidpeach.co.uk/wp-content/uploads/2023/05/img_0438.png)
+[![](images/img_0438.png)](images/img_0438.png)
+[![](images/img_0438.png)](images/img_0438.png)
 
 Start of playlist 28-09-20
 

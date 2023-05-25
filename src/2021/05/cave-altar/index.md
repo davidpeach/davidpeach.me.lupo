@@ -9,4 +9,5 @@ tags:
   - "resident-evil"
 ---
 
-[![](images/Cave-Altar.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Cave-Altar.jpeg)
+[![](images/Cave-Altar.jpeg)](images/Cave-Altar.jpeg)
+[![](images/Cave-Altar.jpeg)](images/Cave-Altar.jpeg)

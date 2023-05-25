@@ -13,7 +13,8 @@ tags:
 coverImage: "The-Sad-Take-of-the-Principal-Post.jpg"
 ---
 
-[![](images/The-Sad-Take-of-the-Principal-Post.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-Sad-Take-of-the-Principal-Post.jpg)
+[![](images/The-Sad-Take-of-the-Principal-Post.jpg)](images/The-Sad-Take-of-the-Principal-Post.jpg)
+[![](images/The-Sad-Take-of-the-Principal-Post.jpg)](images/The-Sad-Take-of-the-Principal-Post.jpg)
 
 One of the shortest of Junji Ito's manga stories at just four pages. Included with his famous Gyo series is this little gem about a man who has some trouble with the supporting beam of his family's home - the principal post.
 

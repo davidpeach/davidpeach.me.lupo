@@ -14,7 +14,8 @@ tags:
 coverImage: "Mansion-Tomie-part-6-cover.jpg"
 ---
 
-[![](images/Mansion-Tomie-part-6-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Mansion-Tomie-part-6-cover.jpg)
+[![](images/Mansion-Tomie-part-6-cover.jpg)](images/Mansion-Tomie-part-6-cover.jpg)
+[![](images/Mansion-Tomie-part-6-cover.jpg)](images/Mansion-Tomie-part-6-cover.jpg)
 
 > You appear to have some extraordinary talent. I've been fascinated with these pictures you took of my daughter.
 > 
@@ -32,15 +33,18 @@ We then follow her as she comes across past admirers of Tomie - people who are s
 
 ## Main Characters
 
-[![](images/Tomie-4.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Tomie-4.jpg)
+[![](images/Tomie-4.jpg)](images/Tomie-4.jpg)
+[![](images/Tomie-4.jpg)](images/Tomie-4.jpg)
 
 Tomie
 
-[![](images/Tsukiko-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Tsukiko-1.jpg)
+[![](images/Tsukiko-1.jpg)](images/Tsukiko-1.jpg)
+[![](images/Tsukiko-1.jpg)](images/Tsukiko-1.jpg)
 
 Tsukiko
 
-[![](images/Master-of-the-house.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Master-of-the-house.jpg)
+[![](images/Master-of-the-house.jpg)](images/Master-of-the-house.jpg)
+[![](images/Master-of-the-house.jpg)](images/Master-of-the-house.jpg)
 
 Master of the house
 
@@ -58,19 +62,23 @@ It would have been great to have delved a little deeper into the mansion story. 
 
 A special mention needs to be made for the poor family who call this mansion their home. I wont spoil their ultimate fate for you, but rest assured that they have a bad time with Tomie around. I don't know why she chose that particular home to essentially invade, but when Tomie wants something - no matter how large or small - she gets it. This girl is a real piece of work.
 
-[![](images/Tomie-takes-Tsukiko-to-her-home.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Tomie-takes-Tsukiko-to-her-home.jpg)
+[![](images/Tomie-takes-Tsukiko-to-her-home.jpg)](images/Tomie-takes-Tsukiko-to-her-home.jpg)
+[![](images/Tomie-takes-Tsukiko-to-her-home.jpg)](images/Tomie-takes-Tsukiko-to-her-home.jpg)
 
 Tomie takes Tsukiko to her home
 
-[![](images/Run-Tsukiko.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Run-Tsukiko.jpg)
+[![](images/Run-Tsukiko.jpg)](images/Run-Tsukiko.jpg)
+[![](images/Run-Tsukiko.jpg)](images/Run-Tsukiko.jpg)
 
 Run Tsukiko
 
-[![](images/Lucky-girl.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Lucky-girl.jpg)
+[![](images/Lucky-girl.jpg)](images/Lucky-girl.jpg)
+[![](images/Lucky-girl.jpg)](images/Lucky-girl.jpg)
 
 Lucky girl
 
-[![](images/Something-strange-in-the-basement.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Something-strange-in-the-basement.jpg)
+[![](images/Something-strange-in-the-basement.jpg)](images/Something-strange-in-the-basement.jpg)
+[![](images/Something-strange-in-the-basement.jpg)](images/Something-strange-in-the-basement.jpg)
 
 Something strange in the basement
 

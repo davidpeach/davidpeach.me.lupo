@@ -9,7 +9,8 @@ tags:
 coverImage: "Moutain-of-Gods-Precipice-of-the-unknown-cover.jpg"
 ---
 
-[![](images/Moutain-of-Gods-Precipice-of-the-unknown-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Moutain-of-Gods-Precipice-of-the-unknown-cover.jpg)
+[![](images/Moutain-of-Gods-Precipice-of-the-unknown-cover.jpg)](images/Moutain-of-Gods-Precipice-of-the-unknown-cover.jpg)
+[![](images/Moutain-of-Gods-Precipice-of-the-unknown-cover.jpg)](images/Moutain-of-Gods-Precipice-of-the-unknown-cover.jpg)
 
 > That man wasn't smiling. He was _sneering_ at me with immense hatred.
 > 
@@ -25,15 +26,18 @@ This brings to mind eerie encounters that each of them has had on their past hik
 
 But will the mystery of this sneering man (is it even a man?) or the death of the lady hiker ever be solved?
 
-[![](images/Ishida.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Ishida.jpg)
+[![](images/Ishida.jpg)](images/Ishida.jpg)
+[![](images/Ishida.jpg)](images/Ishida.jpg)
 
 Ishida
 
-[![](images/Tenno.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Tenno.jpg)
+[![](images/Tenno.jpg)](images/Tenno.jpg)
+[![](images/Tenno.jpg)](images/Tenno.jpg)
 
 Tenno
 
-[![](images/Azumi.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Azumi.jpg)
+[![](images/Azumi.jpg)](images/Azumi.jpg)
+[![](images/Azumi.jpg)](images/Azumi.jpg)
 
 Azumi
 
@@ -41,7 +45,8 @@ Azumi
 
 I think that this story is supposed to do what nearly all ghost stories do. It tells of an unnatural occurrence with some malevolent force, but never gives any explanation of it. This is told purely from the perspective of the hikers in the cabin and their own memories and imaginations on what they think could have happened. We are left to wonder whether there even is such a person as the sneering man, or whether it is a common hallucination from being up so high in the altitude.
 
-[![](images/Ishida-tells-of-his-past-hiking-experiences.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Ishida-tells-of-his-past-hiking-experiences.jpg)
+[![](images/Ishida-tells-of-his-past-hiking-experiences.jpg)](images/Ishida-tells-of-his-past-hiking-experiences.jpg)
+[![](images/Ishida-tells-of-his-past-hiking-experiences.jpg)](images/Ishida-tells-of-his-past-hiking-experiences.jpg)
 
 Ishida tells of his past hiking experiences
 
@@ -57,11 +62,13 @@ Despite this being a lesser-known Junji Ito work, I think it is one of the best 
 
 A big part of me is always glad when a menacing figure such as this remains mysterious. There's nothing worse than having everything explained to you when your own imagination can be so much scarier at times. But there is a small part of me that would kind of like to know where this sneering man came from.
 
-[![](images/The-lady-hiker-found-dead-in-the-snowy-valley.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/The-lady-hiker-found-dead-in-the-snowy-valley.jpg)
+[![](images/The-lady-hiker-found-dead-in-the-snowy-valley.jpg)](images/The-lady-hiker-found-dead-in-the-snowy-valley.jpg)
+[![](images/The-lady-hiker-found-dead-in-the-snowy-valley.jpg)](images/The-lady-hiker-found-dead-in-the-snowy-valley.jpg)
 
 The lady hiker found dead in the snowy valley
 
-[![](images/Tennos-encounter-in-his-tent.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Tennos-encounter-in-his-tent.jpg)
+[![](images/Tennos-encounter-in-his-tent.jpg)](images/Tennos-encounter-in-his-tent.jpg)
+[![](images/Tennos-encounter-in-his-tent.jpg)](images/Tennos-encounter-in-his-tent.jpg)
 
 Tenno's encounter in his tent
 

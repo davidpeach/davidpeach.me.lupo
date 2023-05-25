@@ -5,4 +5,5 @@ categories:
   - "galleries-journal"
 ---
 
-[![](images/Street-food-scaled-1.jpeg)](http://davidpeach.co.uk/wp-content/uploads/2021/03/Street-food-scaled-1.jpeg)
+[![](images/Street-food-scaled-1.jpeg)](images/Street-food-scaled-1.jpeg)
+[![](images/Street-food-scaled-1.jpeg)](images/Street-food-scaled-1.jpeg)

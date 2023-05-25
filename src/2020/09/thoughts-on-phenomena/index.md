@@ -15,7 +15,8 @@ tags:
 coverImage: "Phenomena-film-cover.jpeg"
 ---
 
-[![](images/Phenomena-film-cover.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Phenomena-film-cover.jpeg)
+[![](images/Phenomena-film-cover.jpeg)](images/Phenomena-film-cover.jpeg)
+[![](images/Phenomena-film-cover.jpeg)](images/Phenomena-film-cover.jpeg)
 
 The next film in my Giallo journey was Dario Argento's Phenomena -- arguably one of his best. Although, to be fair, I haven't seen a bad Argento film yet.
 
@@ -39,7 +40,8 @@ Joining Goblin, and some others, on this kick-ass soundtrack, is none other than
 
 The soundtrack does wonders for this film's pacing. At one point I was anxious and nervous following these characters. But then when that crazy opening to "Flash of the Blade" came on, a huge smile took over my face. I found myself simultaneously foot-tapping to a great song i'd forgotten about, and worried for a woman's life as she ran from a merciless killer.
 
-[![](images/Jennifer-from-Phenomena.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Jennifer-from-Phenomena.jpg)
+[![](images/Jennifer-from-Phenomena.jpg)](images/Jennifer-from-Phenomena.jpg)
+[![](images/Jennifer-from-Phenomena.jpg)](images/Jennifer-from-Phenomena.jpg)
 
 Jennifer from Phenomena
 
@@ -51,7 +53,8 @@ Jennifer from Phenomena
 
 Anyway, there is a scene in Phenomena where Jennifer is trying to track down the killers hideout using a very unconventional method -- I'll let you discover the method. But method aside, the entire bus ride she takes from the town centre out to the rolling swiss countryside hills was a complete callback for me to [Torn Curtain](https://en.wikipedia.org/wiki/Torn_Curtain) -- Hitchcock's lesser-known, but no less incredible, political thriller film from 1966.
 
-[![](images/Vera-Brandt-1024x576.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Vera-Brandt.jpg)
+[![](images/Vera-Brandt-1024x576.jpg)](images/Vera-Brandt.jpg)
+[![](images/Vera-Brandt-1024x576.jpg)](images/Vera-Brandt.jpg)
 
 Vera Brandt misses her bus
 
@@ -67,22 +70,27 @@ The violent pane-smashing opening, the unconventional vat of... stuff, and of co
 
 ## Some stills from Phenomena
 
-[![](images/Jennifer-is-examined.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Jennifer-is-examined.jpg)
+[![](images/Jennifer-is-examined.jpg)](images/Jennifer-is-examined.jpg)
+[![](images/Jennifer-is-examined.jpg)](images/Jennifer-is-examined.jpg)
 
 Jennifer is examined
 
-[![](images/Jennifer-strokes-a-bee.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Jennifer-strokes-a-bee.jpg)
+[![](images/Jennifer-strokes-a-bee.jpg)](images/Jennifer-strokes-a-bee.jpg)
+[![](images/Jennifer-strokes-a-bee.jpg)](images/Jennifer-strokes-a-bee.jpg)
 
 Jennifer strokes a bee
 
-[![](images/Maggots-are-a-strong-theme.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Maggots-are-a-strong-theme.jpg)
+[![](images/Maggots-are-a-strong-theme.jpg)](images/Maggots-are-a-strong-theme.jpg)
+[![](images/Maggots-are-a-strong-theme.jpg)](images/Maggots-are-a-strong-theme.jpg)
 
 Maggots are a strong theme
 
-[![](images/Jennifer-and-Professor-McGregor.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Jennifer-and-Professor-McGregor.jpg)
+[![](images/Jennifer-and-Professor-McGregor.jpg)](images/Jennifer-and-Professor-McGregor.jpg)
+[![](images/Jennifer-and-Professor-McGregor.jpg)](images/Jennifer-and-Professor-McGregor.jpg)
 
 Jennifer and Professor McGregor
 
-[![](images/Inga-the-Chimpanzee.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Inga-the-Chimpanzee.jpg)
+[![](images/Inga-the-Chimpanzee.jpg)](images/Inga-the-Chimpanzee.jpg)
+[![](images/Inga-the-Chimpanzee.jpg)](images/Inga-the-Chimpanzee.jpg)
 
 Inga the Chimpanzee

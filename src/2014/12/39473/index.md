@@ -10,7 +10,8 @@ tags:
   - "lost"
 ---
 
-[![](images/I-was-LOST.jpeg)](http://davidpeach.co.uk/wp-content/uploads/2021/03/I-was-LOST.jpeg)
+[![](images/I-was-LOST.jpeg)](images/I-was-LOST.jpeg)
+[![](images/I-was-LOST.jpeg)](images/I-was-LOST.jpeg)
 
 That is the best thing I've seen all year. I am LOST for words!
 

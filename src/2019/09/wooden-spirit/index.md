@@ -24,15 +24,18 @@ Before long, she and Megumi's father become an item and she eventually moves in.
 
 What is most strange here though, is Manami's behaviour towards the house itself. This woman takes house proud to a whole new level. But just how far will she go with her strange antics?
 
-[![](images/Megumi.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Megumi.jpg)
+[![](images/Megumi.jpg)](images/Megumi.jpg)
+[![](images/Megumi.jpg)](images/Megumi.jpg)
 
 Megumi
 
-[![](images/Megumis-Father.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Megumis-Father.jpg)
+[![](images/Megumis-Father.jpg)](images/Megumis-Father.jpg)
+[![](images/Megumis-Father.jpg)](images/Megumis-Father.jpg)
 
 Megumi's Father
 
-[![](images/Manami-Kino.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Manami-Kino.jpg)
+[![](images/Manami-Kino.jpg)](images/Manami-Kino.jpg)
+[![](images/Manami-Kino.jpg)](images/Manami-Kino.jpg)
 
 Manami Kino
 
@@ -46,7 +49,8 @@ At first read of this story last year I took it at face value. I saw it simply a
 
 Later on when she reveals herself for the demon she is — with an almost wood-like appearance — I came to an interesting thought. What if she was some kind of tree spirit? Yes, I know the story is called "Wooden Spirit", but I thought I'd dig a bit deeper. What if her love for this house is not as a result of the building, but of the materials instead? Could her love towards the walls and the beams come from them being made from a former partner of hers when they were once _both_ trees?
 
-[![](images/Megumi-and-her-Fathers-house.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Megumi-and-her-Fathers-house.jpg)
+[![](images/Megumi-and-her-Fathers-house.jpg)](images/Megumi-and-her-Fathers-house.jpg)
+[![](images/Megumi-and-her-Fathers-house.jpg)](images/Megumi-and-her-Fathers-house.jpg)
 
 Megumi and her Father's house
 
@@ -54,19 +58,23 @@ My theory does take a few leaps in imagination, but that is precisely one of the
 
 I loved how the story ended too. It felt almost poetic for me after I'd been on this theoretical journey in my mind. Let's think for a moment how the wood has been taken from its natural place: the forest, and forced to become something fit for humans: a house. From this idea we could suppose that what this demon / spirit woman is doing in the end, is herself turning the wood back into something that she could then love again — flesh and blood.
 
-[![](images/Manami-arrives-at-the-house.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Manami-arrives-at-the-house.jpg)
+[![](images/Manami-arrives-at-the-house.jpg)](images/Manami-arrives-at-the-house.jpg)
+[![](images/Manami-arrives-at-the-house.jpg)](images/Manami-arrives-at-the-house.jpg)
 
 Manami arrives at the house
 
-[![](images/Manami-really-likes-the-flooring-of-the-house.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Manami-really-likes-the-flooring-of-the-house.jpg)
+[![](images/Manami-really-likes-the-flooring-of-the-house.jpg)](images/Manami-really-likes-the-flooring-of-the-house.jpg)
+[![](images/Manami-really-likes-the-flooring-of-the-house.jpg)](images/Manami-really-likes-the-flooring-of-the-house.jpg)
 
 Manami really likes the flooring of the house
 
-[![](images/Megumi-catches-the-strange-woman-in-the-act.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Megumi-catches-the-strange-woman-in-the-act.jpg)
+[![](images/Megumi-catches-the-strange-woman-in-the-act.jpg)](images/Megumi-catches-the-strange-woman-in-the-act.jpg)
+[![](images/Megumi-catches-the-strange-woman-in-the-act.jpg)](images/Megumi-catches-the-strange-woman-in-the-act.jpg)
 
 Megumi catches the strange woman in the act
 
-[![](images/Manami-kisses-the-floor.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Manami-kisses-the-floor.jpg)
+[![](images/Manami-kisses-the-floor.jpg)](images/Manami-kisses-the-floor.jpg)
+[![](images/Manami-kisses-the-floor.jpg)](images/Manami-kisses-the-floor.jpg)
 
 Manami kisses the floor
 

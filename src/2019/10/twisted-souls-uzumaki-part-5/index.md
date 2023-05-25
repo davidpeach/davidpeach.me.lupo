@@ -14,13 +14,15 @@ tags:
 coverImage: "Twisted-Souls-Uzumaki-part-5-cover.jpg"
 ---
 
-[![](images/Twisted-Souls-Uzumaki-part-5-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Twisted-Souls-Uzumaki-part-5-cover.jpg)
+[![](images/Twisted-Souls-Uzumaki-part-5-cover.jpg)](images/Twisted-Souls-Uzumaki-part-5-cover.jpg)
+[![](images/Twisted-Souls-Uzumaki-part-5-cover.jpg)](images/Twisted-Souls-Uzumaki-part-5-cover.jpg)
 
 ## Twisted Souls — synopsis
 
 Yoriko and Kazunori are deeply in love, but are from two families at war. To make matters worse, these two families share the same row house within the town of Kurouzu-cho — separated only by a thin dividing wall. The row houses are long, wooden, single-level buildings that can be found throughout the town. Some are hidden away in the towns forgotten places, whilst others sit on its outer edges.
 
-[![](images/Row-houses-hidden-in-Kurouzu-Cho.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Row-houses-hidden-in-Kurouzu-Cho.jpg)
+[![](images/Row-houses-hidden-in-Kurouzu-Cho.jpg)](images/Row-houses-hidden-in-Kurouzu-Cho.jpg)
+[![](images/Row-houses-hidden-in-Kurouzu-Cho.jpg)](images/Row-houses-hidden-in-Kurouzu-Cho.jpg)
 
 Row houses hidden in Kurouzu Cho
 
@@ -34,19 +36,23 @@ However, it may be that embracing the spiral is the only way for them to escape 
 
 The focus in this story is completely removed from the previous chapters so far. The families in Twisted Souls are separate from both Kirie and Shuichi — it was only through chance that Kirie stumbled upon them. But the spiral is still at work in this story. It is obvious after reading this that the spiral is in fact all over Kurouzu-Cho.
 
-[![](images/Kazunori.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Kazunori.jpg)
+[![](images/Kazunori.jpg)](images/Kazunori.jpg)
+[![](images/Kazunori.jpg)](images/Kazunori.jpg)
 
 Kazunori
 
-[![](images/Kirie-in-Twisted-Souls.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Kirie-in-Twisted-Souls.jpg)
+[![](images/Kirie-in-Twisted-Souls.jpg)](images/Kirie-in-Twisted-Souls.jpg)
+[![](images/Kirie-in-Twisted-Souls.jpg)](images/Kirie-in-Twisted-Souls.jpg)
 
 Kirie in Twisted Souls
 
-[![](images/Shuichi-in-Twisted-Souls.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Shuichi-in-Twisted-Souls.jpg)
+[![](images/Shuichi-in-Twisted-Souls.jpg)](images/Shuichi-in-Twisted-Souls.jpg)
+[![](images/Shuichi-in-Twisted-Souls.jpg)](images/Shuichi-in-Twisted-Souls.jpg)
 
 Shuichi in Twisted Souls
 
-[![](images/Yoriko.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Yoriko.jpg)
+[![](images/Yoriko.jpg)](images/Yoriko.jpg)
+[![](images/Yoriko.jpg)](images/Yoriko.jpg)
 
 Yoriko
 
@@ -60,19 +66,23 @@ On first reading this story, when I saw what Kazunori was saying about his and Y
 
 But I couldn't have been more wrong about my predictions in Twisted Souls. It was an interesting spin and, dare I say it, a relief to see the spiral being used by these people as a way for them to finally realise their own dreams.
 
-[![](images/Kirie-listens-to-Kazunori.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Kirie-listens-to-Kazunori.jpg)
+[![](images/Kirie-listens-to-Kazunori.jpg)](images/Kirie-listens-to-Kazunori.jpg)
+[![](images/Kirie-listens-to-Kazunori.jpg)](images/Kirie-listens-to-Kazunori.jpg)
 
 Kirie listens to Kazunori
 
-[![](images/The-fathers-of-each-family-at-war.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-fathers-of-each-family-at-war.jpg)
+[![](images/The-fathers-of-each-family-at-war.jpg)](images/The-fathers-of-each-family-at-war.jpg)
+[![](images/The-fathers-of-each-family-at-war.jpg)](images/The-fathers-of-each-family-at-war.jpg)
 
 The fathers of each family at war
 
-[![](images/Kazunori-can-take-no-more.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Kazunori-can-take-no-more.jpg)
+[![](images/Kazunori-can-take-no-more.jpg)](images/Kazunori-can-take-no-more.jpg)
+[![](images/Kazunori-can-take-no-more.jpg)](images/Kazunori-can-take-no-more.jpg)
 
 Kazunori can take no more
 
-[![](images/Arms-twisting-together.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Arms-twisting-together.jpg)
+[![](images/Arms-twisting-together.jpg)](images/Arms-twisting-together.jpg)
+[![](images/Arms-twisting-together.jpg)](images/Arms-twisting-together.jpg)
 
 Arms twisting together
 

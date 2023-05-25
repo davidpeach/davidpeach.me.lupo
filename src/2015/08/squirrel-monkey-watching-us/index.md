@@ -9,4 +9,5 @@ tags:
   - "squirrel-monkey"
 ---
 
-[![](images/Squirrel-Monkey-watching-us.jpeg)](http://davidpeach.co.uk/wp-content/uploads/2021/02/Squirrel-Monkey-watching-us.jpeg)
+[![](images/Squirrel-Monkey-watching-us.jpeg)](images/Squirrel-Monkey-watching-us.jpeg)
+[![](images/Squirrel-Monkey-watching-us.jpeg)](images/Squirrel-Monkey-watching-us.jpeg)

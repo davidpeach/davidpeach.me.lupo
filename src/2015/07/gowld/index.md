@@ -8,4 +8,5 @@ tags:
   - "birmingham-owls"
 ---
 
-[![](images/Gowld-scaled-1.jpeg)](http://davidpeach.co.uk/wp-content/uploads/2021/02/Gowld-scaled-1.jpeg)
+[![](images/Gowld-scaled-1.jpeg)](images/Gowld-scaled-1.jpeg)
+[![](images/Gowld-scaled-1.jpeg)](images/Gowld-scaled-1.jpeg)

@@ -11,7 +11,8 @@ tags:
 coverImage: "sia-this-is-acting-cover.jpg"
 ---
 
-[![](images/sia-this-is-acting-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/sia-this-is-acting-cover.jpg)
+[![](images/sia-this-is-acting-cover.jpg)](images/sia-this-is-acting-cover.jpg)
+[![](images/sia-this-is-acting-cover.jpg)](images/sia-this-is-acting-cover.jpg)
 
 As soon as the opening song's first chorus hit my eardrum, it just blew me away. The song felt familiar and yet still fresh. As I continued through the rest of the album I kept getting that same thought. It didn't take many listens before this album quickly became one of my go-to albums when I'm quickly thinking of an album to switch to when the traffic lights are on red.
 

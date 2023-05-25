@@ -20,7 +20,8 @@ In it's opening chapter, Dead Tube's two central characters are introduced. Thes
 
 In the opening pages Mashiro asks Machiya to film her none-stop for two days. He accepts her invitation and begins filming her. It starts off innocently enough with him filming her during her normal swimming session. However, the extent of the filming starts to become apparent when she has him follow her to the bathroom and continue to record as nature takes its course.
 
-[![](images/Dead-Tube-Take-1-Action.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/Dead-Tube-Take-1-Action.jpg)
+[![](images/Dead-Tube-Take-1-Action.jpg)](images/Dead-Tube-Take-1-Action.jpg)
+[![](images/Dead-Tube-Take-1-Action.jpg)](images/Dead-Tube-Take-1-Action.jpg)
 
 After filming her sleep at her request, they both step out into their second day of filming. Here she has him record every moment of her date with her apparent boyfriend. The big payoff then comes at the end of the day.
 

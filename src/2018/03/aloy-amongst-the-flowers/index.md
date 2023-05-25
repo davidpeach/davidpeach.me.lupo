@@ -12,4 +12,5 @@ tags:
 coverImage: "Amongst-the-flowers-scaled-1.jpg"
 ---
 
-[![](images/Amongst-the-flowers-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/Amongst-the-flowers-scaled-1.jpg)
+[![](images/Amongst-the-flowers-scaled-1.jpg)](images/Amongst-the-flowers-scaled-1.jpg)
+[![](images/Amongst-the-flowers-scaled-1.jpg)](images/Amongst-the-flowers-scaled-1.jpg)

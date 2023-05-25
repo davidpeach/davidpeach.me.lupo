@@ -12,4 +12,5 @@ tags:
 coverImage: "Original-artwork-for-Hitchcocks-Vertigo-scaled.jpeg"
 ---
 
-[![](images/Original-artwork-for-Hitchcocks-Vertigo-scaled.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Original-artwork-for-Hitchcocks-Vertigo-scaled.jpeg)
+[![](images/Original-artwork-for-Hitchcocks-Vertigo-scaled.jpeg)](images/Original-artwork-for-Hitchcocks-Vertigo-scaled.jpeg)
+[![](images/Original-artwork-for-Hitchcocks-Vertigo-scaled.jpeg)](images/Original-artwork-for-Hitchcocks-Vertigo-scaled.jpeg)

@@ -11,7 +11,8 @@ tags:
 coverImage: "Hellblade_-Senuas-Sacrifice™_20210216205423-Hellblade-title-screen-scaled.jpg"
 ---
 
-[![](images/Hellblade_-Senuas-Sacrifice™_20210216205423-Hellblade-title-screen-1024x576.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Hellblade_-Senuas-Sacrifice™_20210216205423-Hellblade-title-screen-scaled.jpg)
+[![](images/Hellblade_-Senuas-Sacrifice™_20210216205423-Hellblade-title-screen-1024x576.jpg)](images/Hellblade_-Senuas-Sacrifice™_20210216205423-Hellblade-title-screen-scaled.jpg)
+[![](images/Hellblade_-Senuas-Sacrifice™_20210216205423-Hellblade-title-screen-1024x576.jpg)](images/Hellblade_-Senuas-Sacrifice™_20210216205423-Hellblade-title-screen-scaled.jpg)
 
 After seeing so many good things said about it, and seeing some many gorgeous photos taken in it, I finally started playing Hellblade.
 

@@ -7,7 +7,8 @@ categories:
 coverImage: "Flesh-Coloured-Horror-cover.jpg"
 ---
 
-[![](images/Flesh-Coloured-Horror-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Flesh-Coloured-Horror-cover.jpg)
+[![](images/Flesh-Coloured-Horror-cover.jpg)](images/Flesh-Coloured-Horror-cover.jpg)
+[![](images/Flesh-Coloured-Horror-cover.jpg)](images/Flesh-Coloured-Horror-cover.jpg)
 
 > I'm not tearing. This is the peeling...
 > 
@@ -23,19 +24,23 @@ Chikara is a scary-looking child, whose veins trace dark lines over his bald hea
 
 After a bloody incident involving Chikara and another student, Kosuke, he is expelled from the school and instructed to never return. However, one day he follows his old teacher Takigawa home from the school, and she agrees to take him inside before escorting him back to his own home.
 
-[![](images/Momoko-Takigawa.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Momoko-Takigawa.jpg)
+[![](images/Momoko-Takigawa.jpg)](images/Momoko-Takigawa.jpg)
+[![](images/Momoko-Takigawa.jpg)](images/Momoko-Takigawa.jpg)
 
 Momoko Takigawa
 
-[![](images/Chikara.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Chikara.jpg)
+[![](images/Chikara.jpg)](images/Chikara.jpg)
+[![](images/Chikara.jpg)](images/Chikara.jpg)
 
 Chikara
 
-[![](images/Chikaras-Mother.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Chikaras-Mother.jpg)
+[![](images/Chikaras-Mother.jpg)](images/Chikaras-Mother.jpg)
+[![](images/Chikaras-Mother.jpg)](images/Chikaras-Mother.jpg)
 
 Chikara's Mother
 
-[![](images/Chikaras-Auntie.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Chikaras-Auntie.jpg)
+[![](images/Chikaras-Auntie.jpg)](images/Chikaras-Auntie.jpg)
+[![](images/Chikaras-Auntie.jpg)](images/Chikaras-Auntie.jpg)
 
 Chikara's Auntie
 
@@ -49,7 +54,8 @@ The subject of a child's abuse is always a delicate one to approach in fiction �
 
 I felt that Ito approached this subject very tastefully. He seemed to keep it grounded but still within his story's crazy boundaries. My initial feelings towards Chikara were those of disgust — the desired effect, no doubt. But by the end I was fully on his side after having learnt his story. And not only that, but it even taught me something about not judging people too quickly.
 
-[![](images/Chikara-doesnt-know-how-to-make-friends-in-the-playground.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Chikara-doesnt-know-how-to-make-friends-in-the-playground.jpg)
+[![](images/Chikara-doesnt-know-how-to-make-friends-in-the-playground.jpg)](images/Chikara-doesnt-know-how-to-make-friends-in-the-playground.jpg)
+[![](images/Chikara-doesnt-know-how-to-make-friends-in-the-playground.jpg)](images/Chikara-doesnt-know-how-to-make-friends-in-the-playground.jpg)
 
 Chikara doesn't know how to make friends in the playground
 
@@ -63,7 +69,8 @@ This is normal life for Chikara, and it truly is a shame — both for him _and_ 
 
 There is a saying that goes "Beauty is only skin deep", which means that a person's character is more important than how they look. This saying is no more apt than in Flesh Colored Horror — albeit in a slightly tongue-in-cheek way. I loved the insane idea of going to the extremes of trying to preserve one's beauty by removing the skin and bathing it in saline solution. Then admiring the muscles and tendons beneath as a thing of beauty. Ito definitely has a way of creating these fresh and crazy characters with very unique quirks. And he often does so by taking very normal behaviours, like using skin cream to maintain one's complexion, and turning it up to crazy.
 
-[![](images/Chikaras-Mother-always-seems-to-have-just-gotten-out-of-the-bath.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Chikaras-Mother-always-seems-to-have-just-gotten-out-of-the-bath.jpg)
+[![](images/Chikaras-Mother-always-seems-to-have-just-gotten-out-of-the-bath.jpg)](images/Chikaras-Mother-always-seems-to-have-just-gotten-out-of-the-bath.jpg)
+[![](images/Chikaras-Mother-always-seems-to-have-just-gotten-out-of-the-bath.jpg)](images/Chikaras-Mother-always-seems-to-have-just-gotten-out-of-the-bath.jpg)
 
 Chikara's Mother always seems to have just gotten out of the bath
 
@@ -77,15 +84,18 @@ Beauty is only skin deep.
 
 I'm glad that Chikara got to have some kind of revenge on his mother. Burning away his mother's skin before tearing her exposed tendons with his bare hands was a hell of a way to go. But strangely enough, it felt like the logical result of what the boy had to endure. She created this viscous animal within her child, and now that very same animal is being unleashed on its creator. It is so crazy and so unbelievable, but it is so very enjoyable to read too, and definitely very Ito-esque.
 
-[![](images/Kosuke-is-attacked-by-Chikara.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Kosuke-is-attacked-by-Chikara.jpg)
+[![](images/Kosuke-is-attacked-by-Chikara.jpg)](images/Kosuke-is-attacked-by-Chikara.jpg)
+[![](images/Kosuke-is-attacked-by-Chikara.jpg)](images/Kosuke-is-attacked-by-Chikara.jpg)
 
 Kosuke is attacked by Chikara
 
-[![](images/The-walls-have-been-peeled-in-Chikaras-home.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/The-walls-have-been-peeled-in-Chikaras-home.jpg)
+[![](images/The-walls-have-been-peeled-in-Chikaras-home.jpg)](images/The-walls-have-been-peeled-in-Chikaras-home.jpg)
+[![](images/The-walls-have-been-peeled-in-Chikaras-home.jpg)](images/The-walls-have-been-peeled-in-Chikaras-home.jpg)
 
 The walls have been peeled in Chikara's home
 
-[![](images/A-strange-figure-approaches-a-stranger-in-the-street.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/A-strange-figure-approaches-a-stranger-in-the-street.jpg)
+[![](images/A-strange-figure-approaches-a-stranger-in-the-street.jpg)](images/A-strange-figure-approaches-a-stranger-in-the-street.jpg)
+[![](images/A-strange-figure-approaches-a-stranger-in-the-street.jpg)](images/A-strange-figure-approaches-a-stranger-in-the-street.jpg)
 
 A strange figure approaches a stranger in the street
 

@@ -11,4 +11,5 @@ tags:
 coverImage: "Claire-Redfield-and-the-stuffed-tiger-in-Chief-Irons-office-scaled-1.jpg"
 ---
 
-[![](images/Claire-Redfield-and-the-stuffed-tiger-in-Chief-Irons-office-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2020/04/Claire-Redfield-and-the-stuffed-tiger-in-Chief-Irons-office-scaled-1.jpg)
+[![](images/Claire-Redfield-and-the-stuffed-tiger-in-Chief-Irons-office-scaled-1.jpg)](images/Claire-Redfield-and-the-stuffed-tiger-in-Chief-Irons-office-scaled-1.jpg)
+[![](images/Claire-Redfield-and-the-stuffed-tiger-in-Chief-Irons-office-scaled-1.jpg)](images/Claire-Redfield-and-the-stuffed-tiger-in-Chief-Irons-office-scaled-1.jpg)

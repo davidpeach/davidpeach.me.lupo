@@ -11,6 +11,7 @@ tags:
 coverImage: "Polish-poster-for-David-Cronenbergs-Videodrome.jpeg"
 ---
 
-[![](images/Polish-poster-for-David-Cronenbergs-Videodrome.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Polish-poster-for-David-Cronenbergs-Videodrome.jpeg)
+[![](images/Polish-poster-for-David-Cronenbergs-Videodrome.jpeg)](images/Polish-poster-for-David-Cronenbergs-Videodrome.jpeg)
+[![](images/Polish-poster-for-David-Cronenbergs-Videodrome.jpeg)](images/Polish-poster-for-David-Cronenbergs-Videodrome.jpeg)
 
 image found on twitter: [here](https://twitter.com/LaFamiliaFilm/status/592493328966516736).

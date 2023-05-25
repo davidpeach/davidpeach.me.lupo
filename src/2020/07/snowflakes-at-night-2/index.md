@@ -11,6 +11,7 @@ tags:
 coverImage: "Snowflakes-at-night.jpg"
 ---
 
-[![](images/Snowflakes-at-night.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Snowflakes-at-night.jpg)
+[![](images/Snowflakes-at-night.jpg)](images/Snowflakes-at-night.jpg)
+[![](images/Snowflakes-at-night.jpg)](images/Snowflakes-at-night.jpg)
 
 Snowflakes at night

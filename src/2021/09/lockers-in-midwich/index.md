@@ -13,4 +13,5 @@ tags:
 coverImage: "Lockers-in-Midwich.jpeg"
 ---
 
-[![](images/Lockers-in-Midwich.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/Lockers-in-Midwich.jpeg)
+[![](images/Lockers-in-Midwich.jpeg)](images/Lockers-in-Midwich.jpeg)
+[![](images/Lockers-in-Midwich.jpeg)](images/Lockers-in-Midwich.jpeg)

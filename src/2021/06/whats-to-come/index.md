@@ -7,4 +7,5 @@ tags:
   - "senua"
 ---
 
-[![](images/Whats-to-come.png)](https://davidpeach.co.uk/wp-content/uploads/2021/06/Whats-to-come.png)
+[![](images/Whats-to-come.png)](images/Whats-to-come.png)
+[![](images/Whats-to-come.png)](images/Whats-to-come.png)

@@ -71,7 +71,8 @@ I have replayed **Death Stranding** and took my time, almost doubling the play t
 
 ## I made a meme
 
-[![](images/2020-2021.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/2020-2021.jpg)
+[![](images/2020-2021.jpg)](images/2020-2021.jpg)
+[![](images/2020-2021.jpg)](images/2020-2021.jpg)
 
 2020's Governor to 2021's Negan -- A Walking Dead meme I made
 

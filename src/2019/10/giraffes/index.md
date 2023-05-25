@@ -10,4 +10,5 @@ tags:
 coverImage: "Giraffes-scaled-1.jpg"
 ---
 
-[![](images/Giraffes-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Giraffes-scaled-1.jpg)
+[![](images/Giraffes-scaled-1.jpg)](images/Giraffes-scaled-1.jpg)
+[![](images/Giraffes-scaled-1.jpg)](images/Giraffes-scaled-1.jpg)

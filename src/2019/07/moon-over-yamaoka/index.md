@@ -10,4 +10,5 @@ tags:
 coverImage: "Moon-over-Yamaoka.jpg"
 ---
 
-[![](images/Moon-over-Yamaoka.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/Moon-over-Yamaoka.jpg)
+[![](images/Moon-over-Yamaoka.jpg)](images/Moon-over-Yamaoka.jpg)
+[![](images/Moon-over-Yamaoka.jpg)](images/Moon-over-Yamaoka.jpg)

@@ -14,7 +14,8 @@ tags:
 coverImage: "Hideo-Kojima-and-Junji-Ito.jpg"
 ---
 
-[![](images/Hideo-Kojima-and-Junji-Ito.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Hideo-Kojima-and-Junji-Ito.jpg)
+[![](images/Hideo-Kojima-and-Junji-Ito.jpg)](images/Hideo-Kojima-and-Junji-Ito.jpg)
+[![](images/Hideo-Kojima-and-Junji-Ito.jpg)](images/Hideo-Kojima-and-Junji-Ito.jpg)
 
 This picture is one of the most exciting pictures I've seen in a while. On the surface it is just three people looking at something on a computer monitor. However, for those who know and enjoy two of these people's work, it is something to shout home about.
 
@@ -24,7 +25,8 @@ The guy on the left is Junji Ito - horror manga legend and instrumental in bring
 
 His most well known stories are probably Uzumaki, Tomie, and Gyo. Each masterpieces in their own right and serve to solidify Ito's position at the very top of his game. His stories, especially those mentioned, work within the horror sub-genre of 'Body Horror'.dog atta
 
-[![](images/Junji-Ito.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Junji-Ito.jpg)
+[![](images/Junji-Ito.jpg)](images/Junji-Ito.jpg)
+[![](images/Junji-Ito.jpg)](images/Junji-Ito.jpg)
 
 ## Hideo Kojima
 
@@ -34,7 +36,8 @@ Each of the games of Kojima's that I have played I have fallen in love with. The
 
 These games were some of the most memorable gaming experiences that I have ever had and have definitely stayed with me to the present day.
 
-[![](images/Hideo-Kojima-724x1024.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Hideo-Kojima.jpg)
+[![](images/Hideo-Kojima-724x1024.jpg)](images/Hideo-Kojima.jpg)
+[![](images/Hideo-Kojima-724x1024.jpg)](images/Hideo-Kojima.jpg)
 
 ## Why this picture is exciting
 

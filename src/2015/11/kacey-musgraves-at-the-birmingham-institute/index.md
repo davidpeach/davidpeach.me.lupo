@@ -11,7 +11,8 @@ tags:
 coverImage: "kacey-musgraves-live.jpg"
 ---
 
-[![](images/kacey-musgraves-live.jpg)](https://davidpeach.co.uk/wp-content/uploads/2015/11/kacey-musgraves-live.jpg)
+[![](images/kacey-musgraves-live.jpg)](images/kacey-musgraves-live.jpg)
+[![](images/kacey-musgraves-live.jpg)](images/kacey-musgraves-live.jpg)
 
 One of the best concerts I've been to.
 

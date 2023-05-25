@@ -10,7 +10,8 @@ tags:
 coverImage: "katy-bentz.jpg"
 ---
 
-[![](images/katy-bentz.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/katy-bentz.jpg)
+[![](images/katy-bentz.jpg)](images/katy-bentz.jpg)
+[![](images/katy-bentz.jpg)](images/katy-bentz.jpg)
 
 Life is Strange Before the Storm re-acquainted us with some of the characters we had come to love from the original game. But not only that, we got introduced to some new characters also. A favourite of a lot of peoples, myself included, was Steph Gingrich. She's the girl who you really need to take the time and play D&D with in [episode 1](https://davidpeach.co.uk/2017/09/life-strange-storm-episode-1/).
 

@@ -10,4 +10,5 @@ tags:
 coverImage: "Old-spiral-steps-near-Regents-Park-scaled-1.jpeg"
 ---
 
-[![](images/Old-spiral-steps-near-Regents-Park-scaled-1.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Old-spiral-steps-near-Regents-Park-scaled-1.jpeg)
+[![](images/Old-spiral-steps-near-Regents-Park-scaled-1.jpeg)](images/Old-spiral-steps-near-Regents-Park-scaled-1.jpeg)
+[![](images/Old-spiral-steps-near-Regents-Park-scaled-1.jpeg)](images/Old-spiral-steps-near-Regents-Park-scaled-1.jpeg)

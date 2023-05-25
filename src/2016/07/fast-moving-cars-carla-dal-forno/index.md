@@ -10,7 +10,8 @@ tags:
 coverImage: "fast-moving-cars-by-carla-dal-forno.jpg"
 ---
 
-[![](images/fast-moving-cars-by-carla-dal-forno.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/fast-moving-cars-by-carla-dal-forno.jpg)
+[![](images/fast-moving-cars-by-carla-dal-forno.jpg)](images/fast-moving-cars-by-carla-dal-forno.jpg)
+[![](images/fast-moving-cars-by-carla-dal-forno.jpg)](images/fast-moving-cars-by-carla-dal-forno.jpg)
 
 This single, and indeed its accompanying song, "Better Yet", is one of the nicest musical surprises I've had recently. I'd never heard of Carla Dal Forno before stumbling upon the song "Fast Moving Cars".
 

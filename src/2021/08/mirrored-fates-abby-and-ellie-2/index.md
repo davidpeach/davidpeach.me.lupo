@@ -14,6 +14,7 @@ tags:
 coverImage: "Abby-and-Ellie-hospital-window.png"
 ---
 
-[![](images/Abby-and-Ellie-hospital-window.png)](https://davidpeach.co.uk/wp-content/uploads/2023/01/Abby-and-Ellie-hospital-window.png)
+[![](images/Abby-and-Ellie-hospital-window.png)](images/Abby-and-Ellie-hospital-window.png)
+[![](images/Abby-and-Ellie-hospital-window.png)](images/Abby-and-Ellie-hospital-window.png)
 
 My entry into the [#MirroredFates](https://twitter.com/search?q=%23mirroredfates) hashtag on Twitter.

@@ -9,4 +9,5 @@ tags:
   - "lizards"
 ---
 
-[![](images/Beaded-Lizard.jpg)](http://davidpeach.co.uk/wp-content/uploads/2021/02/Beaded-Lizard.jpg)
+[![](images/Beaded-Lizard.jpg)](images/Beaded-Lizard.jpg)
+[![](images/Beaded-Lizard.jpg)](images/Beaded-Lizard.jpg)

@@ -9,4 +9,5 @@ tags:
   - "pets"
 ---
 
-[![](images/Moomin-in-his-ball-scaled-1.jpeg)](http://davidpeach.co.uk/wp-content/uploads/2021/03/Moomin-in-his-ball-scaled-1.jpeg)
+[![](images/Moomin-in-his-ball-scaled-1.jpeg)](images/Moomin-in-his-ball-scaled-1.jpeg)
+[![](images/Moomin-in-his-ball-scaled-1.jpeg)](images/Moomin-in-his-ball-scaled-1.jpeg)

@@ -9,7 +9,8 @@ tags:
   - "horror"
 ---
 
-[![](images/the-babysitter.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/the-babysitter.jpg)
+[![](images/the-babysitter.jpg)](images/the-babysitter.jpg)
+[![](images/the-babysitter.jpg)](images/the-babysitter.jpg)
 
 Not to be confused with the 1995 erotic, straight-to-video film starring Alicia Silverstone. 2017's The Babysitter is a violent, fun watch and completely ridiculous in all the right places.
 

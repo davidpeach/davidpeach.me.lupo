@@ -14,7 +14,8 @@ tags:
 coverImage: "Boy-Tomie-part-14-cover.jpg"
 ---
 
-[![](images/Boy-Tomie-part-14-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Boy-Tomie-part-14-cover.jpg)
+[![](images/Boy-Tomie-part-14-cover.jpg)](images/Boy-Tomie-part-14-cover.jpg)
+[![](images/Boy-Tomie-part-14-cover.jpg)](images/Boy-Tomie-part-14-cover.jpg)
 
 > But sweetie, don't tell anyone about me. Instead, come visit me here every day.
 > 

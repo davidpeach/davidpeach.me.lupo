@@ -14,7 +14,8 @@ tags:
 coverImage: "The-Black-Lighthouse-Uzumaki-part-9-cover.jpg"
 ---
 
-[![](images/The-Black-Lighthouse-Uzumaki-part-9-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-Black-Lighthouse-Uzumaki-part-9-cover.jpg)
+[![](images/The-Black-Lighthouse-Uzumaki-part-9-cover.jpg)](images/The-Black-Lighthouse-Uzumaki-part-9-cover.jpg)
+[![](images/The-Black-Lighthouse-Uzumaki-part-9-cover.jpg)](images/The-Black-Lighthouse-Uzumaki-part-9-cover.jpg)
 
 > As I walked further... spiral patterns appeared on the walls and ceiling. They glowed eerily in the dark.
 > 
@@ -32,11 +33,13 @@ The further that Kirie climbs up the lighthouse steps, the stranger the place be
 
 As dusk approaches and Kirie still searches for her brother and his friends, what awaits them all in the Black Lighthouse's top floor? And just what gruesome discoveries will they all find?
 
-[![](images/Kirie-Goshima.jpg)](https://davidpeach.co.uk/wp-content/uploads/2020/01/Kirie-Goshima.jpg)
+[![](images/Kirie-Goshima.jpg)](images/Kirie-Goshima.jpg)
+[![](images/Kirie-Goshima.jpg)](images/Kirie-Goshima.jpg)
 
 Kirie Goshima
 
-[![](images/Mitsuo.jpg)](https://davidpeach.co.uk/wp-content/uploads/2020/01/Mitsuo.jpg)
+[![](images/Mitsuo.jpg)](images/Mitsuo.jpg)
+[![](images/Mitsuo.jpg)](images/Mitsuo.jpg)
 
 Mitsuo
 
@@ -48,7 +51,8 @@ The light stretches out over the town leaving no-one and nothing outside of its 
 
 And just as the Great Eye had it's vision set across all of Middle-Earth, so too does the spiral have its gaze across all that _it_ sees. Even a small boat nearing the town's coastline is pulled in and run aground. There is quite literally nowhere to hide from this town's curse of [Uzumaki](https://junjiitomanga.com/tag/uzumaki/).
 
-[![](images/People-of-Kurozu-cho-staring-at-the-light.jpg)](https://davidpeach.co.uk/wp-content/uploads/2020/01/People-of-Kurozu-cho-staring-at-the-light.jpg)
+[![](images/People-of-Kurozu-cho-staring-at-the-light.jpg)](images/People-of-Kurozu-cho-staring-at-the-light.jpg)
+[![](images/People-of-Kurozu-cho-staring-at-the-light.jpg)](images/People-of-Kurozu-cho-staring-at-the-light.jpg)
 
 People of Kurozu cho staring at the light
 
@@ -66,15 +70,18 @@ I advise you to really take the time to look over the depiction of those men's r
 
 And when I was taking the time to really focus in on those panels inside the stairwell, I then started to really notice the spiral patterns on the walls. Made up of hundreds of tiny little dots throughout every hallway depicted. A real inspiration and an insight into his patience and his craft.
 
-[![](images/The-Black-Lighthouse-on-the-rocks.jpg)](https://davidpeach.co.uk/wp-content/uploads/2020/01/The-Black-Lighthouse-on-the-rocks.jpg)
+[![](images/The-Black-Lighthouse-on-the-rocks.jpg)](images/The-Black-Lighthouse-on-the-rocks.jpg)
+[![](images/The-Black-Lighthouse-on-the-rocks.jpg)](images/The-Black-Lighthouse-on-the-rocks.jpg)
 
 The Black Lighthouse on the rocks
 
-[![](images/People-start-to-behave-very-strangely.jpg)](https://davidpeach.co.uk/wp-content/uploads/2020/01/People-start-to-behave-very-strangely.jpg)
+[![](images/People-start-to-behave-very-strangely.jpg)](images/People-start-to-behave-very-strangely.jpg)
+[![](images/People-start-to-behave-very-strangely.jpg)](images/People-start-to-behave-very-strangely.jpg)
 
 People start to behave very strangely
 
-[![](images/Kirie-investigates-the-Black-Lighthouse.jpg)](https://davidpeach.co.uk/wp-content/uploads/2020/01/Kirie-investigates-the-Black-Lighthouse.jpg)
+[![](images/Kirie-investigates-the-Black-Lighthouse.jpg)](images/Kirie-investigates-the-Black-Lighthouse.jpg)
+[![](images/Kirie-investigates-the-Black-Lighthouse.jpg)](images/Kirie-investigates-the-Black-Lighthouse.jpg)
 
 Kirie investigates the Black Lighthouse
 

@@ -10,7 +10,8 @@ tags:
 coverImage: "She-is-a-Slow-Walker-by-Junji-Ito.jpg"
 ---
 
-[![](images/She-is-a-Slow-Walker-by-Junji-Ito.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/She-is-a-Slow-Walker-by-Junji-Ito.jpg)
+[![](images/She-is-a-Slow-Walker-by-Junji-Ito.jpg)](images/She-is-a-Slow-Walker-by-Junji-Ito.jpg)
+[![](images/She-is-a-Slow-Walker-by-Junji-Ito.jpg)](images/She-is-a-Slow-Walker-by-Junji-Ito.jpg)
 
 > Finally I get to board up the windows. When the zombies come, the zombie buffs will be the last standing!
 > 

@@ -10,4 +10,5 @@ tags:
 coverImage: "One-of-these-scaled-1.jpeg"
 ---
 
-[![](images/One-of-these-scaled-1.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/One-of-these-scaled-1.jpeg)
+[![](images/One-of-these-scaled-1.jpeg)](images/One-of-these-scaled-1.jpeg)
+[![](images/One-of-these-scaled-1.jpeg)](images/One-of-these-scaled-1.jpeg)

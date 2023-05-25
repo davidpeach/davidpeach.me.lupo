@@ -12,6 +12,7 @@ tags:
 coverImage: "Uncharted™-4_-A-Thiefs-End_20200122193724-scaled.jpg"
 ---
 
-[![](images/Uncharted™-4_-A-Thiefs-End_20200122193724-scaled.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Uncharted™-4_-A-Thiefs-End_20200122193724-scaled.jpg)
+[![](images/Uncharted™-4_-A-Thiefs-End_20200122193724-scaled.jpg)](images/Uncharted™-4_-A-Thiefs-End_20200122193724-scaled.jpg)
+[![](images/Uncharted™-4_-A-Thiefs-End_20200122193724-scaled.jpg)](images/Uncharted™-4_-A-Thiefs-End_20200122193724-scaled.jpg)
 
 Young Nate and the clocktower

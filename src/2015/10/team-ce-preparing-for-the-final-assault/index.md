@@ -8,4 +8,5 @@ tags:
   - "paintballing"
 ---
 
-[![](images/Team-CE-final-assault.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Team-CE-final-assault.jpg)
+[![](images/Team-CE-final-assault.jpg)](images/Team-CE-final-assault.jpg)
+[![](images/Team-CE-final-assault.jpg)](images/Team-CE-final-assault.jpg)

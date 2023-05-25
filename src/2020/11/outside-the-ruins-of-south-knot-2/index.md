@@ -5,4 +5,5 @@ categories:
   - "death-stranding"
 ---
 
-[![](images/Outside-the-ruins-of-South-Knot-scaled-1.jpeg)](http://davidpeach.co.uk/wp-content/uploads/2020/11/Outside-the-ruins-of-South-Knot-scaled-1.jpeg)
+[![](images/Outside-the-ruins-of-South-Knot-scaled-1.jpeg)](images/Outside-the-ruins-of-South-Knot-scaled-1.jpeg)
+[![](images/Outside-the-ruins-of-South-Knot-scaled-1.jpeg)](images/Outside-the-ruins-of-South-Knot-scaled-1.jpeg)

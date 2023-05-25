@@ -11,4 +11,5 @@ tags:
 coverImage: "Ellen-and-Newt.jpeg"
 ---
 Ellen Ripley and Newt.
-[![](images/Ellen-and-Newt.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Ellen-and-Newt.jpeg)
+[![](images/Ellen-and-Newt.jpeg)](images/Ellen-and-Newt.jpeg)
+[![](images/Ellen-and-Newt.jpeg)](images/Ellen-and-Newt.jpeg)

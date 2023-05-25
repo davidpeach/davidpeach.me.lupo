@@ -8,4 +8,5 @@ tags:
 coverImage: "Approaching-Lincoln-High-School-scaled-1.jpg"
 ---
 
-[![](images/Approaching-Lincoln-High-School-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Approaching-Lincoln-High-School-scaled-1.jpg)
+[![](images/Approaching-Lincoln-High-School-scaled-1.jpg)](images/Approaching-Lincoln-High-School-scaled-1.jpg)
+[![](images/Approaching-Lincoln-High-School-scaled-1.jpg)](images/Approaching-Lincoln-High-School-scaled-1.jpg)

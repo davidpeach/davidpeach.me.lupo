@@ -11,7 +11,8 @@ tags:
 coverImage: "tove-lo-ladywood-cover.jpeg"
 ---
 
-[![](images/tove-lo-ladywood-cover.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/tove-lo-ladywood-cover.jpeg)
+[![](images/tove-lo-ladywood-cover.jpeg)](images/tove-lo-ladywood-cover.jpeg)
+[![](images/tove-lo-ladywood-cover.jpeg)](images/tove-lo-ladywood-cover.jpeg)
 
 Tove Lo is an artist unafraid to use sexuality in her work. Whether that be in her lyrics; album title; or the album's accompanying short film, "Fairy Dust". That sexuality isn't used for shock or as an empty attempt to gain followers, but is instead part of the deep rooted feelings behind her music.
 

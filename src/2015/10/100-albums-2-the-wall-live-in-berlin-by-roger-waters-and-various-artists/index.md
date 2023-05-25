@@ -13,7 +13,8 @@ tags:
 coverImage: "the-wall-live-in-berlin.jpg"
 ---
 
-[![](images/the-wall-live-in-berlin.jpg)](https://davidpeach.co.uk/wp-content/uploads/2015/10/the-wall-live-in-berlin.jpg)
+[![](images/the-wall-live-in-berlin.jpg)](images/the-wall-live-in-berlin.jpg)
+[![](images/the-wall-live-in-berlin.jpg)](images/the-wall-live-in-berlin.jpg)
 
 A couple of weeks ago I went to see the one-night-only showing of Roger Waters' The Wall at my local cinema. That performance rekindled my love for that album - indeed Pink Floyd in general.
 

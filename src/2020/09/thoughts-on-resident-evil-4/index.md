@@ -12,7 +12,8 @@ tags:
 coverImage: "Resident-Evil-4-PS4-cover.jpg"
 ---
 
-[![](images/Resident-Evil-4-PS4-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2020/09/Resident-Evil-4-PS4-cover.jpg)
+[![](images/Resident-Evil-4-PS4-cover.jpg)](images/Resident-Evil-4-PS4-cover.jpg)
+[![](images/Resident-Evil-4-PS4-cover.jpg)](images/Resident-Evil-4-PS4-cover.jpg)
 
 It's felt like the longest time to get into the swing of things with Resident Evil 4.
 
@@ -32,7 +33,8 @@ However, after an hour or so of playing something happened -- I noticed that I w
 
 What I first thought to be constricting was in fact what was helping to give tension to the game play. The fact I couldn't walk and shoot meant I had to choose my moves more wisely.
 
-[![](images/resident-evil-4_20200902210354-scaled.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/resident-evil-4_20200902210354-scaled.jpg)
+[![](images/resident-evil-4_20200902210354-scaled.jpg)](images/resident-evil-4_20200902210354-scaled.jpg)
+[![](images/resident-evil-4_20200902210354-scaled.jpg)](images/resident-evil-4_20200902210354-scaled.jpg)
 
 The Castle Corridors
 
@@ -48,7 +50,8 @@ I especially enjoyed a no-combat section where you have to control Ashley to get
 
 Overall, the game was much longer than I was expecting. Just as I thought it was moving towards a resolution a whole new chapter would begin. Despite the 16 or so hours of play time I spent, the experience felt so much longer -- and I mean that in a good way.
 
-[![](images/resident-evil-4_20200831072846-scaled.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/resident-evil-4_20200831072846-scaled.jpg)
+[![](images/resident-evil-4_20200831072846-scaled.jpg)](images/resident-evil-4_20200831072846-scaled.jpg)
+[![](images/resident-evil-4_20200831072846-scaled.jpg)](images/resident-evil-4_20200831072846-scaled.jpg)
 
 Approaching the Castle
 
@@ -62,7 +65,8 @@ Later on you'll meet creepy cultists and flying bugs, before working your way th
 
 There was one enemy type in particular that was equal parts inventive and terrifying. But I'll leave you to discover those for yourself, should you dare to play. :P
 
-[![](images/resident-evil-4_20200830125118-1024x576.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/resident-evil-4_20200830125118-scaled.jpg)
+[![](images/resident-evil-4_20200830125118-1024x576.jpg)](images/resident-evil-4_20200830125118-scaled.jpg)
+[![](images/resident-evil-4_20200830125118-1024x576.jpg)](images/resident-evil-4_20200830125118-scaled.jpg)
 
 The Church and the Graveyard
 
@@ -76,6 +80,7 @@ I can't recommend RE4 enough. For it's crazy story, hideous and tough monsters a
 
 Leon needs you.
 
-[![](images/resident-evil-4_20200831062445-scaled.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/resident-evil-4_20200831062445-scaled.jpg)
+[![](images/resident-evil-4_20200831062445-scaled.jpg)](images/resident-evil-4_20200831062445-scaled.jpg)
+[![](images/resident-evil-4_20200831062445-scaled.jpg)](images/resident-evil-4_20200831062445-scaled.jpg)
 
 resident evil 4\_20200831062445

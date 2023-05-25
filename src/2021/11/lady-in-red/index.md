@@ -12,10 +12,14 @@ tags:
 coverImage: "Lady-in-red-4-scaled-1.jpg"
 ---
 
-[![](images/Lady-in-red-1-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2021/11/Lady-in-red-1-scaled-1.jpg)
+[![](images/Lady-in-red-1-scaled-1.jpg)](images/Lady-in-red-1-scaled-1.jpg)
+[![](images/Lady-in-red-1-scaled-1.jpg)](images/Lady-in-red-1-scaled-1.jpg)
 
-[![](images/Lady-in-red-2-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2021/11/Lady-in-red-2-scaled-1.jpg)
+[![](images/Lady-in-red-2-scaled-1.jpg)](images/Lady-in-red-2-scaled-1.jpg)
+[![](images/Lady-in-red-2-scaled-1.jpg)](images/Lady-in-red-2-scaled-1.jpg)
 
-[![](images/Lady-in-red-4-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2021/11/Lady-in-red-4-scaled-1.jpg)
+[![](images/Lady-in-red-4-scaled-1.jpg)](images/Lady-in-red-4-scaled-1.jpg)
+[![](images/Lady-in-red-4-scaled-1.jpg)](images/Lady-in-red-4-scaled-1.jpg)
 
-[![](images/Lady-in-red-3-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2021/11/Lady-in-red-3-scaled-1.jpg)
+[![](images/Lady-in-red-3-scaled-1.jpg)](images/Lady-in-red-3-scaled-1.jpg)
+[![](images/Lady-in-red-3-scaled-1.jpg)](images/Lady-in-red-3-scaled-1.jpg)

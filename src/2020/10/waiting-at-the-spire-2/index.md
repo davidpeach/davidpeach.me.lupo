@@ -5,4 +5,5 @@ categories:
   - "horizon-zero-dawn"
 ---
 
-[![](images/At-the-spire-scaled-1.jpg)](http://davidpeach.co.uk/wp-content/uploads/2020/10/At-the-spire-scaled-1.jpg)
+[![](images/At-the-spire-scaled-1.jpg)](images/At-the-spire-scaled-1.jpg)
+[![](images/At-the-spire-scaled-1.jpg)](images/At-the-spire-scaled-1.jpg)

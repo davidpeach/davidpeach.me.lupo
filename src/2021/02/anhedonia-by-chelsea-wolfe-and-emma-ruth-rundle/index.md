@@ -11,7 +11,8 @@ tags:
 coverImage: "anhedonia-by-chelsea-wolfe-and-emma-ruth-rundle-cover.jpg"
 ---
 
-[![](images/anhedonia-by-chelsea-wolfe-and-emma-ruth-rundle-cover-1024x1024.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/anhedonia-by-chelsea-wolfe-and-emma-ruth-rundle-cover.jpg)
+[![](images/anhedonia-by-chelsea-wolfe-and-emma-ruth-rundle-cover-1024x1024.jpg)](images/anhedonia-by-chelsea-wolfe-and-emma-ruth-rundle-cover.jpg)
+[![](images/anhedonia-by-chelsea-wolfe-and-emma-ruth-rundle-cover-1024x1024.jpg)](images/anhedonia-by-chelsea-wolfe-and-emma-ruth-rundle-cover.jpg)
 
 Beautiful haunting song.
 

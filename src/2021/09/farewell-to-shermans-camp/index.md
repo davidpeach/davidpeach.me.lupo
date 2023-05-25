@@ -13,4 +13,5 @@ tags:
 coverImage: "Fairwell-to-Shermans-Camp-scaled-1.jpeg"
 ---
 
-[![](images/Fairwell-to-Shermans-Camp-scaled-1.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/Fairwell-to-Shermans-Camp-scaled-1.jpeg)
+[![](images/Fairwell-to-Shermans-Camp-scaled-1.jpeg)](images/Fairwell-to-Shermans-Camp-scaled-1.jpeg)
+[![](images/Fairwell-to-Shermans-Camp-scaled-1.jpeg)](images/Fairwell-to-Shermans-Camp-scaled-1.jpeg)

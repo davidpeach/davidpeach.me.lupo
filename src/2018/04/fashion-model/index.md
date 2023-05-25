@@ -11,7 +11,8 @@ tags:
   - "shiver-collection"
 ---
 
-[![](images/Fashion-Model-manga-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2018/04/Fashion-Model-manga-cover.jpg)
+[![](images/Fashion-Model-manga-cover.jpg)](images/Fashion-Model-manga-cover.jpg)
+[![](images/Fashion-Model-manga-cover.jpg)](images/Fashion-Model-manga-cover.jpg)
 
 > But, Oda... She's been gradually transforming in my memory, so that now she's basically a monster
 > 

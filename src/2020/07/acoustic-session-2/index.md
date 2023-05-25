@@ -10,6 +10,7 @@ tags:
 coverImage: "Acoustic-sessions.jpg"
 ---
 
-[![](images/Acoustic-sessions.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Acoustic-sessions.jpg)
+[![](images/Acoustic-sessions.jpg)](images/Acoustic-sessions.jpg)
+[![](images/Acoustic-sessions.jpg)](images/Acoustic-sessions.jpg)
 
 Acoustic sessions

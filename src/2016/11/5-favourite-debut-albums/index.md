@@ -16,7 +16,8 @@ tags:
 
 ## Buckingham Nicks by Lindsey Buckingham and Stevie Nicks
 
-[![](images/buckingham-nicks-album.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/buckingham-nicks-album.jpg)
+[![](images/buckingham-nicks-album.jpg)](images/buckingham-nicks-album.jpg)
+[![](images/buckingham-nicks-album.jpg)](images/buckingham-nicks-album.jpg)
 
 Buckingham Nicks by Lindsey Buckingham and Stevie Nicks
 
@@ -28,7 +29,8 @@ The harmonies that these two manage to produce together areÂ simply phenomenal.Â
 
 ## Light Me Up by The Pretty Reckless
 
-[![](images/light-me-up-by-the-pretty-reckless.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/light-me-up-by-the-pretty-reckless.jpg)
+[![](images/light-me-up-by-the-pretty-reckless.jpg)](images/light-me-up-by-the-pretty-reckless.jpg)
+[![](images/light-me-up-by-the-pretty-reckless.jpg)](images/light-me-up-by-the-pretty-reckless.jpg)
 
 Light Me Up by The Pretty Reckless
 
@@ -38,7 +40,8 @@ In a time when I was a little bored with the contemporary rock music coming out,
 
 ## Pure Heroine by Lorde
 
-[![](images/lorde-pure-heroine.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/lorde-pure-heroine.jpg)
+[![](images/lorde-pure-heroine.jpg)](images/lorde-pure-heroine.jpg)
+[![](images/lorde-pure-heroine.jpg)](images/lorde-pure-heroine.jpg)
 
 Pure Heroine by Lorde
 
@@ -50,7 +53,8 @@ As soon as I pressed play and heard the absolutely stunner "Tennis Court" I was 
 
 ## Same Trailer Different Park by Kacey Musgraves
 
-[![](images/same-trailer-different-park.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/same-trailer-different-park.jpg)
+[![](images/same-trailer-different-park.jpg)](images/same-trailer-different-park.jpg)
+[![](images/same-trailer-different-park.jpg)](images/same-trailer-different-park.jpg)
 
 Same Trailer Different Park by Kacey Musgraves
 
@@ -62,7 +66,8 @@ Every corner of "Same Trailer Different Park" is as genuine a country album we c
 
 ## Atlas by FM-84
 
-[![](images/atlas-album-by-fm84-1024x1024.jpg)](https://davidpeach.co.uk/wp-content/uploads/2016/09/atlas-album-by-fm84.jpg)
+[![](images/atlas-album-by-fm84-1024x1024.jpg)](images/atlas-album-by-fm84.jpg)
+[![](images/atlas-album-by-fm84-1024x1024.jpg)](images/atlas-album-by-fm84.jpg)
 
 Atlas by FM-84
 

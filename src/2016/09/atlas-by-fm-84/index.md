@@ -12,7 +12,8 @@ tags:
 coverImage: "atlas-album-by-fm84.jpg"
 ---
 
-[![](images/atlas-album-by-fm84-1024x1024.jpg)](https://davidpeach.co.uk/wp-content/uploads/2016/09/atlas-album-by-fm84.jpg)
+[![](images/atlas-album-by-fm84-1024x1024.jpg)](images/atlas-album-by-fm84.jpg)
+[![](images/atlas-album-by-fm84-1024x1024.jpg)](images/atlas-album-by-fm84.jpg)
 
 FM-84 is one of the first artists I heard from out of the [New Retro Wave](https://www.reddit.com/r/newretrowave/) genre of music. And his debut album, [Atlas](https://soundcloud.com/fm84/sets/atlas), is already a crowning achievement in his relatively new career.
 

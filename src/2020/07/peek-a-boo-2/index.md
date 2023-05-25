@@ -11,6 +11,7 @@ tags:
 coverImage: "Peek-a-boo.jpg"
 ---
 
-[![](images/Peek-a-boo.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Peek-a-boo.jpg)
+[![](images/Peek-a-boo.jpg)](images/Peek-a-boo.jpg)
+[![](images/Peek-a-boo.jpg)](images/Peek-a-boo.jpg)
 
 Peek-a-boo!

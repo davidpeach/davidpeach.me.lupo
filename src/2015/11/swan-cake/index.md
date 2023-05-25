@@ -8,4 +8,5 @@ tags:
   - "food"
 ---
 
-[![](images/Swan-Cake.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Swan-Cake.jpg)
+[![](images/Swan-Cake.jpg)](images/Swan-Cake.jpg)
+[![](images/Swan-Cake.jpg)](images/Swan-Cake.jpg)

@@ -12,7 +12,8 @@ tags:
 coverImage: "roger-waters-the-wall.jpg"
 ---
 
-[![](images/roger-waters-the-wall.jpg)](https://davidpeach.co.uk/wp-content/uploads/2015/09/roger-waters-the-wall.jpg)
+[![](images/roger-waters-the-wall.jpg)](images/roger-waters-the-wall.jpg)
+[![](images/roger-waters-the-wall.jpg)](images/roger-waters-the-wall.jpg)
 
 A slow, winding blade of green weaves across the ever-growing familiar white brickwork from the left side of the stage. Then another from the right. They wind slowly across the length of the wall - both to the centre and up - until they blend seamlessly into one of the most iconic animations from The Wall - the flower scene over Empty Spaces.
 

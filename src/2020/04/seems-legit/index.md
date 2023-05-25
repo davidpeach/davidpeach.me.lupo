@@ -11,4 +11,5 @@ tags:
 coverImage: "RESIDENT-EVIL-2_20190127102651-scaled-1.jpg"
 ---
 
-[![](images/RESIDENT-EVIL-2_20190127102651-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/RESIDENT-EVIL-2_20190127102651-scaled-1.jpg)
+[![](images/RESIDENT-EVIL-2_20190127102651-scaled-1.jpg)](images/RESIDENT-EVIL-2_20190127102651-scaled-1.jpg)
+[![](images/RESIDENT-EVIL-2_20190127102651-scaled-1.jpg)](images/RESIDENT-EVIL-2_20190127102651-scaled-1.jpg)

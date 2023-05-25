@@ -9,7 +9,8 @@ tags:
   - "running"
 ---
 
-[![](images/Birmingham-10k-run-finished.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Birmingham-10k-run-finished.jpeg)
+[![](images/Birmingham-10k-run-finished.jpeg)](images/Birmingham-10k-run-finished.jpeg)
+[![](images/Birmingham-10k-run-finished.jpeg)](images/Birmingham-10k-run-finished.jpeg)
 
 Iron Man and Me
 

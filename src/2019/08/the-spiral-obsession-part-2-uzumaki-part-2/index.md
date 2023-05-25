@@ -10,7 +10,8 @@ tags:
 coverImage: "The-Spiral-Obsession-part-2-Uzumaki.jpg"
 ---
 
-[![](images/The-Spiral-Obsession-part-2-Uzumaki.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/The-Spiral-Obsession-part-2-Uzumaki.jpg)
+[![](images/The-Spiral-Obsession-part-2-Uzumaki.jpg)](images/The-Spiral-Obsession-part-2-Uzumaki.jpg)
+[![](images/The-Spiral-Obsession-part-2-Uzumaki.jpg)](images/The-Spiral-Obsession-part-2-Uzumaki.jpg)
 
 > What's inside... the human ear? Don't tell me... there's a spiral.
 > 
@@ -24,19 +25,23 @@ High over the sky of Kurouzu-cho sits a blanket of spiral-shaped smoke, with wha
 
 Mrs Saito soon becomes afflicted with the same cursed obsession as her husband before her - the Spiral; Uzumaki. She starts noticing the spirals all around her, as well as the natural spirals of the human body. This only serves to drive her further over the edge and further out of help's reach.
 
-[![](images/Shuichis-Mother.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Shuichis-Mother.jpg)
+[![](images/Shuichis-Mother.jpg)](images/Shuichis-Mother.jpg)
+[![](images/Shuichis-Mother.jpg)](images/Shuichis-Mother.jpg)
 
 Shuichi's Mother
 
-[![](images/Shuichi-Saito.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Shuichi-Saito.jpg)
+[![](images/Shuichi-Saito.jpg)](images/Shuichi-Saito.jpg)
+[![](images/Shuichi-Saito.jpg)](images/Shuichi-Saito.jpg)
 
 Shuichi Saito
 
-[![](images/Kirie-Goshima-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Kirie-Goshima-1.jpg)
+[![](images/Kirie-Goshima-1.jpg)](images/Kirie-Goshima-1.jpg)
+[![](images/Kirie-Goshima-1.jpg)](images/Kirie-Goshima-1.jpg)
 
 Kirie Goshima
 
-[![](images/The-Doctor.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/The-Doctor.jpg)
+[![](images/The-Doctor.jpg)](images/The-Doctor.jpg)
+[![](images/The-Doctor.jpg)](images/The-Doctor.jpg)
 
 The Doctor
 
@@ -50,7 +55,8 @@ I found it interesting to be able to follow this first story line of the spiral 
 
 This is what Uzumaki allows us to do here.
 
-[![](images/Nightmares-of-Centipedes.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Nightmares-of-Centipedes.jpg)
+[![](images/Nightmares-of-Centipedes.jpg)](images/Nightmares-of-Centipedes.jpg)
+[![](images/Nightmares-of-Centipedes.jpg)](images/Nightmares-of-Centipedes.jpg)
 
 Nightmares of Centipedes
 
@@ -64,15 +70,18 @@ Perhaps for the father the spiral was a path of wonder to journey to its secret 
 
 Shuichi's family has been torn apart by the spiral obsession. This has been exhibited by both of his parents now and I hope things start getting better for him. It seems somewhat ironic that the only person who seemed to feel something was wrong in Kurouzu-cho, Shuichi, is also the one most directly affected by it so far.
 
-[![](images/The-smoke-is-settling.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/The-smoke-is-settling.jpg)
+[![](images/The-smoke-is-settling.jpg)](images/The-smoke-is-settling.jpg)
+[![](images/The-smoke-is-settling.jpg)](images/The-smoke-is-settling.jpg)
 
 The smoke is settling
 
-[![](images/Shuichis-mother-cant-take-much-more.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Shuichis-mother-cant-take-much-more.jpg)
+[![](images/Shuichis-mother-cant-take-much-more.jpg)](images/Shuichis-mother-cant-take-much-more.jpg)
+[![](images/Shuichis-mother-cant-take-much-more.jpg)](images/Shuichis-mother-cant-take-much-more.jpg)
 
 Shuichi's mother cant take much more
 
-[![](images/The-Father-appears-to-the-Mother-in-disturbing-visions.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/The-Father-appears-to-the-Mother-in-disturbing-visions.jpg)
+[![](images/The-Father-appears-to-the-Mother-in-disturbing-visions.jpg)](images/The-Father-appears-to-the-Mother-in-disturbing-visions.jpg)
+[![](images/The-Father-appears-to-the-Mother-in-disturbing-visions.jpg)](images/The-Father-appears-to-the-Mother-in-disturbing-visions.jpg)
 
 The Father appears to the Mother in disturbing visions
 

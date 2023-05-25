@@ -9,4 +9,5 @@ tags:
 coverImage: "Joel-through-the-window-1-scaled-1.jpg"
 ---
 
-[![](images/Joel-through-the-window-1-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Joel-through-the-window-1-scaled-1.jpg)
+[![](images/Joel-through-the-window-1-scaled-1.jpg)](images/Joel-through-the-window-1-scaled-1.jpg)
+[![](images/Joel-through-the-window-1-scaled-1.jpg)](images/Joel-through-the-window-1-scaled-1.jpg)

@@ -13,4 +13,5 @@ coverImage: "As9k2-sCMAAHdRV.jpg"
 
 Keepin it g-style #bttf
 
-[![](images/As9k2-sCMAAHdRV-768x1024.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/04/As9k2-sCMAAHdRV.jpg)
+[![](images/As9k2-sCMAAHdRV-768x1024.jpg)](images/As9k2-sCMAAHdRV.jpg)
+[![](images/As9k2-sCMAAHdRV-768x1024.jpg)](images/As9k2-sCMAAHdRV.jpg)

@@ -7,7 +7,8 @@ tags:
   - "hzd-autumn-photomode"
 ---
 
-[![](images/Autumn-coming-scaled-1.jpg)](http://davidpeach.co.uk/wp-content/uploads/2020/10/Autumn-coming-scaled-1.jpg)
+[![](images/Autumn-coming-scaled-1.jpg)](images/Autumn-coming-scaled-1.jpg)
+[![](images/Autumn-coming-scaled-1.jpg)](images/Autumn-coming-scaled-1.jpg)
 
 Autumn is coming
 

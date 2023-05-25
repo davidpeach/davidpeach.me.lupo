@@ -19,15 +19,18 @@ Plus, escaped nazi war scientists always bring with them a particular brand of h
 
 ## Main Characters
 
-[![](images/Elaine-Donnelly-as-Annie-Spillers.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Elaine-Donnelly-as-Annie-Spillers.jpg)
+[![](images/Elaine-Donnelly-as-Annie-Spillers.jpg)](images/Elaine-Donnelly-as-Annie-Spillers.jpg)
+[![](images/Elaine-Donnelly-as-Annie-Spillers.jpg)](images/Elaine-Donnelly-as-Annie-Spillers.jpg)
 
 Annie Spillers
 
-[![](images/Brian-Cox-as-Chuck-Spillers.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Brian-Cox-as-Chuck-Spillers.jpg)
+[![](images/Brian-Cox-as-Chuck-Spillers.jpg)](images/Brian-Cox-as-Chuck-Spillers.jpg)
+[![](images/Brian-Cox-as-Chuck-Spillers.jpg)](images/Brian-Cox-as-Chuck-Spillers.jpg)
 
 Chuck Spillers
 
-[![](images/Peter-Cushing-as-Martin-Blueck.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Peter-Cushing-as-Martin-Blueck.jpg)
+[![](images/Peter-Cushing-as-Martin-Blueck.jpg)](images/Peter-Cushing-as-Martin-Blueck.jpg)
+[![](images/Peter-Cushing-as-Martin-Blueck.jpg)](images/Peter-Cushing-as-Martin-Blueck.jpg)
 
 Martin Blueck
 
@@ -51,7 +54,8 @@ Imprisonment is a big theme in this episode: Chuck has just been released from j
 
 On writing this it even occured to me that perhaps the prisons that these character's carry within them are of importance too. The way that Chuck's desire for more leads him to crack open the warehouse safe, causing his own imprisonment by Blueck.
 
-[![](images/A-Leopard-sits-in-one-of-Bluecks-cages.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/A-Leopard-sits-in-one-of-Bluecks-cages.jpg)
+[![](images/A-Leopard-sits-in-one-of-Bluecks-cages.jpg)](images/A-Leopard-sits-in-one-of-Bluecks-cages.jpg)
+[![](images/A-Leopard-sits-in-one-of-Bluecks-cages.jpg)](images/A-Leopard-sits-in-one-of-Bluecks-cages.jpg)
 
 A Leopard sits in its cage
 

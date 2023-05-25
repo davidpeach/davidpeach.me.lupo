@@ -10,7 +10,8 @@ tags:
 coverImage: "The-Snail-Uzumaki-part-8-by-Junji-Ito.jpg"
 ---
 
-[![](images/The-Snail-Uzumaki-part-8-by-Junji-Ito.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/The-Snail-Uzumaki-part-8-by-Junji-Ito.jpg)
+[![](images/The-Snail-Uzumaki-part-8-by-Junji-Ito.jpg)](images/The-Snail-Uzumaki-part-8-by-Junji-Ito.jpg)
+[![](images/The-Snail-Uzumaki-part-8-by-Junji-Ito.jpg)](images/The-Snail-Uzumaki-part-8-by-Junji-Ito.jpg)
 
 > Get off my back! He's just a slug now! He's not human anymore!!
 > 
@@ -26,23 +27,28 @@ As each day passes, with the rain continuing, Katayama keeps arriving later. How
 
 Just how will the other school students deal with this very odd turn of events? Will they attack or will they try to help? And what will happen once another one of those very students begins to display signs that they may be going down a similar path?
 
-[![](images/Katayama.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Katayama.jpg)
+[![](images/Katayama.jpg)](images/Katayama.jpg)
+[![](images/Katayama.jpg)](images/Katayama.jpg)
 
 Katayama
 
-[![](images/Kirie.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Kirie.jpg)
+[![](images/Kirie.jpg)](images/Kirie.jpg)
+[![](images/Kirie.jpg)](images/Kirie.jpg)
 
 Kirie
 
-[![](images/Kiries-Friend.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Kiries-Friend.jpg)
+[![](images/Kiries-Friend.jpg)](images/Kiries-Friend.jpg)
+[![](images/Kiries-Friend.jpg)](images/Kiries-Friend.jpg)
 
 Kirie's friend
 
-[![](images/Tsumura.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Tsumura.jpg)
+[![](images/Tsumura.jpg)](images/Tsumura.jpg)
+[![](images/Tsumura.jpg)](images/Tsumura.jpg)
 
 Tsumura
 
-[![](images/Mr-Yokota.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Mr-Yokota.jpg)
+[![](images/Mr-Yokota.jpg)](images/Mr-Yokota.jpg)
+[![](images/Mr-Yokota.jpg)](images/Mr-Yokota.jpg)
 
 Mr Yokota
 
@@ -56,7 +62,8 @@ There was one thing I noticed that I found very interesting to note too. Once Ka
 
 I wonder whether the spiral is completely self aware and is actually beginning to target these people out of malice or revenge. If so, it would indeed give some new angles from which to view other chapters in the Uzumaki collection.
 
-[![](images/Katayama-is-bad-at-sports-due-to-his-slowness.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Katayama-is-bad-at-sports-due-to-his-slowness.jpg)
+[![](images/Katayama-is-bad-at-sports-due-to-his-slowness.jpg)](images/Katayama-is-bad-at-sports-due-to-his-slowness.jpg)
+[![](images/Katayama-is-bad-at-sports-due-to-his-slowness.jpg)](images/Katayama-is-bad-at-sports-due-to-his-slowness.jpg)
 
 Katayama is bad at sports due to his slowness
 
@@ -68,19 +75,23 @@ Everything from the bumpy slimy textures of the bodies, to the bulging, elongate
 
 There was another thing that I found worked at both the grotesque and the dark comedy levels too. The moment when both Katayama and Tsumura, both fully-transformed, are kept together in the pen. They soon begin to mate, as snails do, which brought a whole new layer to the story. Not only are these both young men at heart, or at least they were, they were also the complete opposite of friends. The idea that you have a bully and his victim now mating as human-sized snails, brings a whole new level of horror, and dare I say comedy, that only someone like Junji Ito could conjure up.
 
-[![](images/Katayamas-back-becomes-swollen.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Katayamas-back-becomes-swollen.jpg)
+[![](images/Katayamas-back-becomes-swollen.jpg)](images/Katayamas-back-becomes-swollen.jpg)
+[![](images/Katayamas-back-becomes-swollen.jpg)](images/Katayamas-back-becomes-swollen.jpg)
 
 Katayama's back becomes swollen
 
-[![](images/Forcing-the-snail-off-the-school-wall.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Forcing-the-snail-off-the-school-wall.jpg)
+[![](images/Forcing-the-snail-off-the-school-wall.jpg)](images/Forcing-the-snail-off-the-school-wall.jpg)
+[![](images/Forcing-the-snail-off-the-school-wall.jpg)](images/Forcing-the-snail-off-the-school-wall.jpg)
 
 Forcing the snail off the school wall
 
-[![](images/Katayama-and-Tsumura-begin-mating-as-snails.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Katayama-and-Tsumura-begin-mating-as-snails.jpg)
+[![](images/Katayama-and-Tsumura-begin-mating-as-snails.jpg)](images/Katayama-and-Tsumura-begin-mating-as-snails.jpg)
+[![](images/Katayama-and-Tsumura-begin-mating-as-snails.jpg)](images/Katayama-and-Tsumura-begin-mating-as-snails.jpg)
 
 Katayama and Tsumura begin mating as snails
 
-[![](images/Katayama-leaves-a-slime-trail.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Katayama-leaves-a-slime-trail.jpg)
+[![](images/Katayama-leaves-a-slime-trail.jpg)](images/Katayama-leaves-a-slime-trail.jpg)
+[![](images/Katayama-leaves-a-slime-trail.jpg)](images/Katayama-leaves-a-slime-trail.jpg)
 
 Katayama leaves a slime trail
 

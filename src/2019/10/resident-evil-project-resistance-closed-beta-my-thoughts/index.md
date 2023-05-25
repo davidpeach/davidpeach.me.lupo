@@ -13,7 +13,8 @@ tags:
 coverImage: "Resident-Evil-Project-Resistance.jpg"
 ---
 
-[![](images/Resident-Evil-Project-Resistance.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Resident-Evil-Project-Resistance.jpg)
+[![](images/Resident-Evil-Project-Resistance.jpg)](images/Resident-Evil-Project-Resistance.jpg)
+[![](images/Resident-Evil-Project-Resistance.jpg)](images/Resident-Evil-Project-Resistance.jpg)
 
 I couldn't believe how lucky I was to open my email two weeks ago and find an invitation to the upcoming multiplayer game Resident Evil: Project Resistance. I had heard it referred to as "Resident Evil but done like Dead by Daylight". But I'm here to tell you that it is so much more than that.
 
@@ -31,7 +32,8 @@ As one of the four survivors your goal is to make it out of the match with your 
 
 Each time you deal damage or complete objectives you get additional seconds added on to your team's time to escape. And believe me when I say that every second counts. Each area has a simple puzzle to solve, which essentially involves exploring the environment for each part of a puzzle to unlock the next door.
 
-[![](images/The-survivors-enter-the-last-area.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/The-survivors-enter-the-last-area.jpg)
+[![](images/The-survivors-enter-the-last-area.jpg)](images/The-survivors-enter-the-last-area.jpg)
+[![](images/The-survivors-enter-the-last-area.jpg)](images/The-survivors-enter-the-last-area.jpg)
 
 The survivors enter the last area
 
@@ -45,7 +47,8 @@ The Mastermind builds up a points gauge, about 1 point per five seconds I think.
 
 A Zombie dog for example takes 2 points to place down. It is a weaker enemy, but more can be placed down in succession. A Licker on the other hand is worth 7 points but is much stronger. So it will take slightly longer to build up to the points to place one of those down. So it's all a bit of give and take.
 
-[![](images/Downtown-map-view.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Downtown-map-view.jpg)
+[![](images/Downtown-map-view.jpg)](images/Downtown-map-view.jpg)
+[![](images/Downtown-map-view.jpg)](images/Downtown-map-view.jpg)
 
 Downtown map view
 
@@ -59,7 +62,8 @@ I have to say that I pretty much liked everything about this game. Even though i
 
 I felt there was a good push and pull between the survivors and the Mastermind. Some games I would absolutely destroy the survivors, whilst in others they would escape with 8 minutes or so remaining. It will be interesting to see how this game gets altered, if at all, after they have sifted through all of the feedback from the testing weekend.
 
-[![](images/An-example-of-the-cards-to-put-enemies-down.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/An-example-of-the-cards-to-put-enemies-down.jpg)
+[![](images/An-example-of-the-cards-to-put-enemies-down.jpg)](images/An-example-of-the-cards-to-put-enemies-down.jpg)
+[![](images/An-example-of-the-cards-to-put-enemies-down.jpg)](images/An-example-of-the-cards-to-put-enemies-down.jpg)
 
 An example of the cards to put enemies down
 
@@ -85,7 +89,8 @@ Some of my absolute dream maps would be:
 
 - The Guest House from Resident Evil Remake
 
-[![](images/Mr-X-watches-as-the-dog-attacks-a-survivor.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Mr-X-watches-as-the-dog-attacks-a-survivor.jpg)
+[![](images/Mr-X-watches-as-the-dog-attacks-a-survivor.jpg)](images/Mr-X-watches-as-the-dog-attacks-a-survivor.jpg)
+[![](images/Mr-X-watches-as-the-dog-attacks-a-survivor.jpg)](images/Mr-X-watches-as-the-dog-attacks-a-survivor.jpg)
 
 Mr X watches as the dog attacks a survivor
 

@@ -14,7 +14,8 @@ tags:
 coverImage: "Babysitter-Tomie-part-16-cover.jpg"
 ---
 
-[![](images/Babysitter-Tomie-part-16-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Babysitter-Tomie-part-16-cover.jpg)
+[![](images/Babysitter-Tomie-part-16-cover.jpg)](images/Babysitter-Tomie-part-16-cover.jpg)
+[![](images/Babysitter-Tomie-part-16-cover.jpg)](images/Babysitter-Tomie-part-16-cover.jpg)
 
 > Just insurance, my dear. Sitters have a habit of running out on us.
 > 

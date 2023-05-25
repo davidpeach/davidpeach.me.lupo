@@ -9,4 +9,5 @@ tags:
   - "ps4"
 ---
 
-[![](images/Horizon-Zero-Dawn™_-Complete-Edition_20210113194750-scaled-1.jpg)](http://davidpeach.co.uk/wp-content/uploads/2021/01/Horizon-Zero-Dawn™_-Complete-Edition_20210113194750-scaled-1.jpg)
+[![](images/Horizon-Zero-Dawn™_-Complete-Edition_20210113194750-scaled-1.jpg)](images/Horizon-Zero-Dawn™_-Complete-Edition_20210113194750-scaled-1.jpg)
+[![](images/Horizon-Zero-Dawn™_-Complete-Edition_20210113194750-scaled-1.jpg)](images/Horizon-Zero-Dawn™_-Complete-Edition_20210113194750-scaled-1.jpg)

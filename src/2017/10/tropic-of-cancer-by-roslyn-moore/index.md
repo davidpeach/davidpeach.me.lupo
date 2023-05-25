@@ -11,7 +11,8 @@ tags:
 coverImage: "Tropic-Of-Cancer-A-Desert-Opera-cover.jpg"
 ---
 
-[![](images/Tropic-Of-Cancer-A-Desert-Opera-cover.jpg)](https://davidpeach.co.uk/wp-content/uploads/2016/09/Tropic-Of-Cancer-A-Desert-Opera-cover.jpg)
+[![](images/Tropic-Of-Cancer-A-Desert-Opera-cover.jpg)](images/Tropic-Of-Cancer-A-Desert-Opera-cover.jpg)
+[![](images/Tropic-Of-Cancer-A-Desert-Opera-cover.jpg)](images/Tropic-Of-Cancer-A-Desert-Opera-cover.jpg)
 
 Roslyn Moore is back with her second desert opera, Tropic of Cancer.
 

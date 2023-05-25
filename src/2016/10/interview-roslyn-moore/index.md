@@ -11,7 +11,8 @@ tags:
 coverImage: "roslyn-moore.jpg"
 ---
 
-[![](images/roslyn-moore.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/roslyn-moore.jpg)
+[![](images/roslyn-moore.jpg)](images/roslyn-moore.jpg)
+[![](images/roslyn-moore.jpg)](images/roslyn-moore.jpg)
 
 This week I am excited to share an interview I did with one of my favourite lady performers at the moment - [Roslyn Moore](http://www.roslynmoore.com/). You should be listening to her music, specifically her awesome album, "[Hazy (A Desert Opera)](https://soundcloud.com/roslyn-moore/sets/hazy-a-desert-opera)". [I wrote a review of the album](/2016/09/27/hazy-a-desert-opera-by-roslyn-moore/) recently and can't recommend it enough.
 

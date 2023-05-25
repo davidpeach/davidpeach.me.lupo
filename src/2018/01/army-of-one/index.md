@@ -9,7 +9,8 @@ tags:
   - "junji-ito"
 ---
 
-[![](images/Army-of-One-by-Junji-Ito.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/03/Army-of-One-by-Junji-Ito.jpg)
+[![](images/Army-of-One-by-Junji-Ito.jpg)](images/Army-of-One-by-Junji-Ito.jpg)
+[![](images/Army-of-One-by-Junji-Ito.jpg)](images/Army-of-One-by-Junji-Ito.jpg)
 
 > Gather round, people. All together now! Nobody likes a lonely only. Everyone's your friend, everyone's your friend. When you join hearts and sing - Army of one, We're an army of one!
 > 

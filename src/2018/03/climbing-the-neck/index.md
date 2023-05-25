@@ -13,4 +13,5 @@ tags:
 coverImage: "Climbing-the-neck-scaled-1.jpg"
 ---
 
-[![](images/Climbing-the-neck-scaled-1.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/01/Climbing-the-neck-scaled-1.jpg)
+[![](images/Climbing-the-neck-scaled-1.jpg)](images/Climbing-the-neck-scaled-1.jpg)
+[![](images/Climbing-the-neck-scaled-1.jpg)](images/Climbing-the-neck-scaled-1.jpg)

@@ -27,7 +27,8 @@ Carla brings an eeriness to music that for me, has many distant echos back to al
 
 The opening song, an instrumental called "Italian Cinema" is possibly the strangest album intro I've heard in a long time. The title "Italian Cinema" is apt, being that it made me conjure up images of old Italian Giallo films. It starts with a strange warbling effect and merges into what I could only imagine as a demonic playground melody.
 
-[![](images/four-flies-on-grey-velvet.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/four-flies-on-grey-velvet.jpg)
+[![](images/four-flies-on-grey-velvet.jpg)](images/four-flies-on-grey-velvet.jpg)
+[![](images/four-flies-on-grey-velvet.jpg)](images/four-flies-on-grey-velvet.jpg)
 
 Following "Italian Cinema" was the now-familiar crack of thunder, ushering in one of my favourite songs of the year, "Fast Moving Cars". The song doesn't seem to really go anywhere as such. It's almost like a Wican chant set to a repeated base tone and minimal synthesizer. But that is precisely what I love about Carla Dal Forno's music - her ethereal, often haunting, aesthetics.
 

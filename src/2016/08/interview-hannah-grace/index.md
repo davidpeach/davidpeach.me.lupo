@@ -9,7 +9,8 @@ tags:
 coverImage: "Hannah-Grace.jpg"
 ---
 
-[![](images/Hannah-Grace.jpg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Hannah-Grace.jpg)
+[![](images/Hannah-Grace.jpg)](images/Hannah-Grace.jpg)
+[![](images/Hannah-Grace.jpg)](images/Hannah-Grace.jpg)
 
 One of my favourite E.Ps to come out so far has been [Hannah Grace's Mustang](https://davidpeach.co.uk/2016/07/28/mustang-e-p-hannah-grace/). Such great music - and with a good variety in its four songs. I am really looking forward to a full length album by her in the near future.
 

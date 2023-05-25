@@ -12,4 +12,5 @@ tags:
 coverImage: "Wall-paintings-in-Camden-Town-scaled-1.jpeg"
 ---
 
-[![](images/Wall-paintings-in-Camden-Town-scaled-1.jpeg)](https://davidpeach.co.uk/wp-content/uploads/2023/05/Wall-paintings-in-Camden-Town-scaled-1.jpeg)
+[![](images/Wall-paintings-in-Camden-Town-scaled-1.jpeg)](images/Wall-paintings-in-Camden-Town-scaled-1.jpeg)
+[![](images/Wall-paintings-in-Camden-Town-scaled-1.jpeg)](images/Wall-paintings-in-Camden-Town-scaled-1.jpeg)
