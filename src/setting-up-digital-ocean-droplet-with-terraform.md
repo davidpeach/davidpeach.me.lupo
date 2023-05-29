@@ -78,3 +78,38 @@ data "digitalocean_domain" "davidpeachme" {
   name = "davidpeach.me"
 }
 ```
+
+This block is a little different. Here I am using the `data` property to grab information about something that **already exists**.
+
+I have already set up my domain in Digital Ocean's networking.
+
+This is the overarching domain itself -- not the specific A record that will point to the server.
+
+The reason i'm doing it this way, is because I have got mailbox settings and TXT records that are working, so i dont want them to be potentially torn down and re-created with the rest of my infrastructure.
+
+```
+resource "digitalocean_record" "davidpeachme" {
+  domain = data.digitalocean_domain.davidpeachme.id
+  type   = "A"
+  name   = "@"
+  ttl    = 60
+  value  = "${digitalocean_droplet.davidpeachme.ipv4_address}"
+}
+```
+
+The final block creates the actual A record with my existing domain settings.
+
+It uses the id given back by the data block i defined before, and the ip address of the created droplet for its value.
+
+## Setting the required variables
+
+Terraform accepts variables in a number of ways. For simplicity, I opt to set my variables in my bashrc env variables - in a separate file that is sourced into my bashrc if present. This way the variables stay out of my dotfiles and out of version control.
+
+The format for variables are to create them as the same name as they appear in your terraform configuration, but with a prefix of `TF_VAR_`.
+
+So for my terraform variable `do_token`, I create an env variable called `TF_VAR_do_token` set to my Digital Ocean Access Token.
+
+## Creating an ssh key
+
+In the main.tf file, I could have set the ssh public key path to my existing one. However, I thought I'd create a key pair specific for my website deployment.
+
