@@ -5,7 +5,6 @@ html {
 body {
     font-size: 100%;
     background: #bada55;
-    font-family: sans-serif;
     padding-left: 3%;
     padding-right: 3%;
 }
@@ -13,10 +12,6 @@ body {
 p {
     max-width: 60rem;
     line-height: 1.7;
-}
-
-li {
-    line-height: 2.5;
 }
 
 img {
