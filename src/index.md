@@ -13,3 +13,9 @@ into my new homepage.
 View the [Lupo source code](https://github.com/davidpeach/lupo)**.
 
 [My Dev Setup](/development-setup.html)
+
+## New Posts
+The structure of my website is in a state of flux. Here are the posts I'm writing as I set out my website structure:
+
+31st May 2023  
+[Setting up Digital Ocean droplet with terraform](/setting-up-digital-ocean-droplet-with-terraform.html)

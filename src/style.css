@@ -17,11 +17,30 @@ p {
 
 li {
     line-height: 2.5;
+    max-width: 80rem;
+}
+
+pre > code {
+    display: block;
+    background-color: #222;
+    color: #eee;
+    padding: 2em;
+    max-width: 80rem;
+    font-size: .7em;
+    line-height: 1.7;
 }
 
 img {
     max-width: 100%;
     height: auto;
+}
+
+.post-in-progress-message {
+    background-color: darkgreen;
+    color: #eee;
+    font-style: italic;
+    border-radius: 10px;
+    padding: 1em;
 }
 
 @media(min-width:48rem) {
