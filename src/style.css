@@ -54,6 +54,12 @@ body {
     font-size: 1.3em;
 }
 
+h2 {
+    margin-top: 2em;
+}
+p, li {
+    line-height: 1.7em;
+}
 img {
     max-width: 100%;
     height: auto;
@@ -86,7 +92,8 @@ pre code {
 }
 
 .home-index-wrap li {
-    list-style-type: none
+    list-style-type: none;
+    line-height: initial;
 }
 
 .home-index-wrap > ul > li {

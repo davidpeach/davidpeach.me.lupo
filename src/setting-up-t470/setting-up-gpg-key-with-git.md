@@ -1,12 +1,18 @@
 ---
-title: Setting up GPG Key with git
+title: Setting up a GPG Key with git to sign your commits
 ---
 
 Signing your git commits with GPG is really easy to set up and I'm always surprised by how many developers I meet that don't do this.
 
 Of course it's not required to push commits and has no baring on quality of code. But that green verified message next to your commits does feel good.
 
-## Creating the GPG key if need
+Essentially there are three parts to this:
+
+1. Create your GPG key
+2. Tell git to use your GPG key to sign your commits
+3. Upload the public part of your GPG key to Gitlab / Github / etc
+
+## Creating the GPG key if needed
 
 ```
 gpg --full-generate-key
@@ -64,7 +70,7 @@ git config --global commit.gpgsign true
 git config commit.gpgsign true
 ```
 
-If you wanted to, you could even decide to sign commits per each commit, by not setting as a config setting, but passing a flag on even commit:
+If you wanted to, you could even decide to sign commits per each commit, by not setting it as a config setting, but passing a flag on every commit:
 
 ```
 git commit -S -m "My signed commit message"
