@@ -1,17 +1,68 @@
+/* Dracula color scheme for now */
+:root {
+    --foreground: #F8F8F2;
+    --background: #282A36;
+    --color0:     #000000;
+    --color1:     #FF5555;
+    --color2:     #50FA7B;
+    --color3:     #F1FA8C;
+    --color4:     #BD93F9;
+    --color5:     #FF79C6;
+    --color6:     #8BE9FD;
+    --color7:     #BFBFBF;
+    --color8:     #4D4D4D;
+    --color9:     #FF6E67;
+    --color10:    #5AF78E;
+    --color11:    #F4F99D;
+    --color12:    #CAA9FA;
+    --color13:    #FF92D0;
+    --color14:    #9AEDFE;
+    --color15:    #E6E6E6;
+}
+
+@font-face {
+    font-family: 'Heading';
+    src: url('Anton-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Main';
+    src: url('TenorSans-Regular.ttf') format('truetype');
+}
+
 html {
     font-size: 16px;
+    min-height: 100%;
 }
 
 body {
+    min-height: 100%;
     font-size: 100%;
-    background: #bada55;
+    background: #fff;
     padding-left: 3%;
     padding-right: 3%;
+    font-family: 'Main';
 }
 
-p {
-    max-width: 60rem;
+.intro {
+    font-size: 2rem;
     line-height: 1.7;
+    text-align: center;
+    margin-bottom: 3em;
+}
+.intro span {
+    position: relative;
+}
+.intro span:after {
+    z-index: -1;
+    content: "";
+    display: block;
+    position: absolute;
+    right: -37px;
+    top: -7px;
+    width: 130%;
+    height:57px;
+    background-color: var(--color9);
+    rotate: -3deg;
 }
 
 img {
@@ -19,10 +70,94 @@ img {
     height: auto;
 }
 
+pre code {
+    display: block;
+    background-color: var(--background);
+}
+
+.home-index-wrap h2 {
+    letter-spacing: 0.2rem;
+    font-family: 'Heading';
+    font-size: 2em;
+    text-align: right;
+    line-height: 1.2em;
+}
+
+.home-index-wrap * {
+    display: inline-block;
+}
+
+.home-index-wrap ul {
+    padding: 0;
+}
+
+.home-index-wrap li {
+    list-style-type: none
+}
+
+.home-index-wrap > ul > li {
+    line-height: 1em;
+    font-size: 1em;
+    margin-bottom: 1.5em;
+    width: 100%;
+}
+
+.home-index-wrap > ul > li ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+/* The home index links */
+.home-index-wrap > ul > li li {
+    margin: .5em .5em .5em 0;
+}
+.home-index-wrap > ul > li a {
+    position: relative;
+    background-color: var(--color4);
+    padding: .5em;
+    overflow: hidden;
+}
+.home-index-wrap > ul > li:nth-of-type(2) a {
+    background-color: var(--color5);
+}
+.home-index-wrap > ul > li:nth-of-type(3) a{
+    background-color: var(--color6);
+}
+.home-index-wrap > ul > li:nth-of-type(4) a {
+    background-color: var(--color9);
+}
+.home-index-wrap > ul > li:nth-of-type(5) a {
+    background-color: var(--color11);
+}
+.home-index-wrap > ul > li:nth-of-type(6) a {
+    background-color: var(--color7);
+}
+.home-index-wrap > ul > li a:after {
+    content: "";
+    position: absolute;
+    top:0;
+    left: -50px;
+    height: 100%;
+    width: 50px;
+    background-color: rgba(255,255,255,0.2);
+}
+
+.home-index-wrap > ul > li a:hover:after {
+    left: 150%;
+    transition: 400ms ease-in-out;
+}
+
 @media(min-width:48rem) {
     body {
         font-size: 120%;
     }
+    .home-index-wrap > ul {
+        grid-template-columns: repeat(2, 1fr)
+    }
+
 }
 
 @media(min-width:65rem) {
@@ -34,12 +169,89 @@ img {
 @media(min-width:80rem) {
     body {
         font-size: 160%;
+        background-image: url("/2020/04/army-of-one-fan-art-in-red-ink/images/Army-of-One-fan-art-in-red-ink.jpg");
+        background-repeat: no-repeat;
+        background-position: bottom 30px right 20px;
+        background-size: 222px;
+        background-attachment: fixed;
+    }
+    body:after {
+        content: "Image not by me. I found it online";
+        position: fixed;
+        bottom: 10px;
+        right: 20px;
+        font-size: .5em;
+        font-style: italic;
+    }
+
+    .home-index-wrap h2 {
+        position: relative;
+    }
+
+    .home-index-wrap h2:before {
+        z-index: -1;
+        content: "";
+        position: absolute;
+        right: 70px;
+        width: 47%;
+        height: 36px;
+        background-color: #CAA9FA;
+    }
+
+    .home-index-wrap > ul > li:nth-of-type(1) h2:before {
+        right: 144px;
+        top: 43px;
+        background-color: var(--color4)
+    }
+
+    .home-index-wrap > ul > li:nth-of-type(2) h2:before {
+        width: 78%;
+        right: -47px;
+        top: 3px;
+        background-color: var(--color5)
+    }
+
+    .home-index-wrap > ul > li:nth-of-type(3) h2:before {
+        width: 38%;
+        right: 169px;
+        top: 9px;
+        background-color: var(--color6)
+    }
+
+    .home-index-wrap > ul > li:nth-of-type(4) h2:before {
+        width: 59%;
+        right: -68px;
+        top: 32px;
+        background-color: var(--color9)
+    }
+    .home-index-wrap > ul > li:nth-of-type(5) h2:before {
+        width: 86%;
+        right: -18px;
+        top: 22px;
+        background-color: var(--color11)
+    }
+    .home-index-wrap > ul > li:nth-of-type(6) h2:before {
+        width: 27%;
+        right: 52px;
+        top: 47px;
+        background-color: var(--color7)
+    }
+    .home-index-wrap > ul {
+        grid-template-columns: repeat(3, 1fr)
+    }
+    .home-index-wrap > ul > li {
+        display: grid;
+        gap: 3em;
+        grid-template-columns: 2fr 4fr;
     }
 }
 
 @media(min-width:110rem) {
     body {
         font-size: 180%;
+    }
+    .home-index-wrap > ul {
+        grid-template-columns: repeat(5, 1fr)
     }
 }
 
