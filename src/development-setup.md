@@ -4,9 +4,9 @@ title: My Development Setup
 
 ## Hardware
 
-- Lenovo Thinkpad T470
+- Lenovo Thinkpad T470 - [How I set mine up](/setting-up-t470)
 - Lenovo Thinkpad Docking Station
-- 4k Asus Monitor
+- BenQ 4k Monitor
 
 ## Operating System
 

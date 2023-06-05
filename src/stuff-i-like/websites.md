@@ -12,6 +12,7 @@ I'll need to filter through them soon.
   <a href="#maths">Maths</a>
   <a href="#fitness">Fitness</a>
   <a href="#animals">Animals</a>
+  <a href="#archives">Archives</a>
   <a href="#guitar">Classical Guitar Tabs</a>
   <a href="#games">Games</a>
   <a href="#interesting">Interesting</a>
@@ -62,16 +63,16 @@ I'll need to filter through them soon.
 
 
     
-<h2 id="history">History bookmarks</h2>
+<h2 id="history">History Bookmarks</h2>
 - [Workhouses in Lichfield](https://www.workhouses.org.uk/Lichfield/)
 
-<h2 id="maths"></h2>
+<h2 id="maths">Maths Bookmarks</h2>
 - [Understanding the Levenshtein Distance Equation for Beginners](https://medium.com/@ethannam/understanding-the-levenshtein-distance-equation-for-beginners-c4285a5604f0)
 
-<h2 id="fitness">Fitness</h2>
+<h2 id="fitness">Fitness Bookmarks</h2>
 - [82 Push-up variations](https://greatist.com/fitness/bodyweight-push-up-variations)
 
-<h2 id="animals">Animals</a></h2>
+<h2 id="animals">Animal Bookmarks</a></h2>
 - [Harness training your cat](https://www.youtube.com/watch?v=RhB72g8K2Aw)
 
 <h2 id="archives">Some of my Archived pages on Wayback Machine</h2>
@@ -86,7 +87,7 @@ I'll need to filter through them soon.
 <h2 id="games">Games</h2>
 - [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/)
 
-<h2 id="interesting">Interesting</h2>
+<h2 id="interesting">Interesting Bookmarks</h2>
 - [How RFID Works](https://electronics.howstuffworks.com/gadgets/high-tech-gadgets/rfid.htm)
 - [How to live without G__gle](https://alternativeto.net/list/818/how-to-live-without-google/)
 - [Data brokers buying and selling your](https://www.fastcompany.com/90310803/here-are-the-data-brokers-quietly-buying-and-selling-your-personal-information)

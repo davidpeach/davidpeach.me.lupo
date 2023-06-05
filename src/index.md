@@ -1,4 +1,8 @@
-<p class="intro">My name is <span>David Peach</span>. This is my Home Page &mdash; my own little corner of the World Wide Web.</p>
+---
+title: David Peach's homepage
+---
+
+<p class="intro">Welcome to my Home Page &mdash; my own little corner of the World Wide Web.</p>
 
 <div class="home-index-wrap">
 <ul>
@@ -7,7 +11,7 @@
     <ul>
       <li>Programming Blog</li>
       <li>My Open Source projects</li>
-      <li>My Dotfiles</li>
+      <li>[My Dotfiles](https://github.com/davidpeach/dotfiles)</li>
       <li>My Contributions to open source</li>
       <li>[My Dev Setup](/development-setup.html)</li>
     </ul>
@@ -41,7 +45,7 @@
       <li>paintings</li>
       <li>Found Memes</li>
       <li>These are my jams</li>
-      <li>websites i like</li>
+      <li>[websites i like](/stuff-i-like/websites.html)</li>
     </ul>
   </li>
   <li>

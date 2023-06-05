@@ -43,10 +43,20 @@ body {
     font-family: 'Main';
 }
 
+nav {
+    margin-top: 1em;
+}
+nav:before {
+    content: "\00AB"
+}
+
+h2:target {
+    background-color: pink;
+}
+
 .intro {
     font-size: 2rem;
     line-height: 1.7;
-    text-align: center;
     margin-bottom: 3em;
 }
 .intro span {
@@ -99,7 +109,7 @@ pre code {
 .home-index-wrap > ul > li {
     line-height: 1em;
     font-size: 1em;
-    margin-bottom: 1.5em;
+    margin-bottom: 3.5em;
     width: 100%;
 }
 
