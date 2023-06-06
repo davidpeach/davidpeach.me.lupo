@@ -23,6 +23,7 @@ I'll need to filter through them soon.
 - [Classical Guitar Tabs](https://www.classtab.org/)
 - [The Valuable Dev](https://thevaluable.dev/)
 - [Privacy Tools](https://www.privacytools.io/)
+- [Ru Singh](https://rusingh.com/)
 - [Self Hosted Show](https://selfhosted.show/)
 - [Jack Franklin's Blog](https://www.jackfranklin.co.uk/blog/)
 - [Advent of Code](https://adventofcode.com/)
@@ -60,14 +61,30 @@ I'll need to filter through them soon.
 - [CI Results in Tmux status line](https://blog.semanticart.com/2020/02/13/ci-results-in-your-tmux-status-line/)
 - [Definitive guide to the Tmux Status line](https://medium.com/hackernoon/customizing-tmux-b3d2a5050207)
 - [Removing duplicate lines from a text file using Linux command line](https://linuxconfig.org/removing-duplicate-lines-from-a-text-file-using-linux-command-line)
+- [My Music Setup With i3wm](http://rsaew.com/config/2019/09/06/My-Music-Setup.html)
+- [Protonmail Bridge and Mutt](https://spaceandtim.es/code/protonmail_mutt/)
+- [Devops your Desktop](https://kemper.buzz/devops-your-desktop/)
+- [Heaps explained in PHP](https://doeken.org/blog/heaps-explained-in-php)
+- [How Rust developers are making the web safer](https://github.com/readme/featured/rust-programming)
+- [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 
+<h2 id="films">Films</h2>
+- [James Cameron’s ‘Terminator’ is a true classic](https://cinephiliabeyond.org/james-camerons-terminator-true-classic-powerful-influential-films-can-get/)
+- [Kim Novak on art, bipolar, Hitchcock and happiness](https://www.theguardian.com/film/2021/feb/15/i-had-to-leave-hollywood-to-save-myself-kim-novak-on-art-bipolar-hitchcock-and-happiness)
+- [Bruce Dern traces his career progression from “fifth cowboy from the right” to American icon](https://www.avclub.com/bruce-dern-traces-his-career-progression-from-fifth-co-1820481651)
+- [Four decades later, Brian De Palma’s ‘Carrie’ stands out...](https://cinephiliabeyond.org/four-decades-later-brian-de-palmas-carrie-stands-one-capably-crafted-horror-films-time/)
 
     
 <h2 id="history">History Bookmarks</h2>
 - [Workhouses in Lichfield](https://www.workhouses.org.uk/Lichfield/)
+- [U.S. Army Hangman John C. Woods Intentionally Botched Nazi Executions To Ensure Their Agonizing Deaths](https://allthatsinteresting.com/john-c-woods)
 
 <h2 id="maths">Maths Bookmarks</h2>
 - [Understanding the Levenshtein Distance Equation for Beginners](https://medium.com/@ethannam/understanding-the-levenshtein-distance-equation-for-beginners-c4285a5604f0)
+- [101 uses of a quadratic equation](https://plus.maths.org/content/101-uses-quadratic-equation)
+
+<h2 id="science">Science</h2>
+- [The New Thermodynamic Understanding of Clocks](https://www.quantamagazine.org/the-new-science-of-clocks-prompts-questions-about-the-nature-of-time-20210831/)
 
 <h2 id="fitness">Fitness Bookmarks</h2>
 - [82 Push-up variations](https://greatist.com/fitness/bodyweight-push-up-variations)
@@ -86,8 +103,13 @@ I'll need to filter through them soon.
 
 <h2 id="games">Games</h2>
 - [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/)
+- [Red Dead Redemption 2: 10 References To Western Movies That Can Be Found In The Game](https://screenrant.com/red-dead-redemption-2-western-movie-references/)
 
 <h2 id="interesting">Interesting Bookmarks</h2>
 - [How RFID Works](https://electronics.howstuffworks.com/gadgets/high-tech-gadgets/rfid.htm)
 - [How to live without G__gle](https://alternativeto.net/list/818/how-to-live-without-google/)
 - [Data brokers buying and selling your](https://www.fastcompany.com/90310803/here-are-the-data-brokers-quietly-buying-and-selling-your-personal-information)
+- [Life on both sides of the cell door](https://exprisonercom.wordpress.com/)
+- [The 33 Most Beautiful Abandoned Places In The World](https://imgur.com/a/D9iDC)
+- [Warp, a telemetry-sending, VC-funded, closed-source terminal](https://www.careerlimitingmoves.com/2022/04/09/warp/)
+- [How to create custom stickers for the Signal messaging app](https://www.androidcentral.com/how-create-custom-stickers-signal-messaging-app)
