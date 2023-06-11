@@ -12,7 +12,7 @@ tags:
   - "uzumaki"
 ---
 
-![](images/Uzumaki-part-14-Butterflies.jpg)
+[![](./images/butterflies-headline.png)](./images/butterflies-headline.png)
 
 > The flapping of a single butterfly's wings can create a hurricane on the other side of the world. That's what's happening in this town.
 > 
@@ -33,11 +33,9 @@ During her search she comes across three young boys that have been tied up to la
 And not only that, but they also have their eyes set on further destruction -- to both the town and the lady who has freed them.
 
 [![](images/Its-a-Twister.jpg)](images/Its-a-Twister.jpg)
-[![](images/Its-a-Twister.jpg)](images/Its-a-Twister.jpg)
 
 Its a Twister
 
-[![](images/The-ruins-of-Kurouzu-cho.jpg)](images/The-ruins-of-Kurouzu-cho.jpg)
 [![](images/The-ruins-of-Kurouzu-cho.jpg)](images/The-ruins-of-Kurouzu-cho.jpg)
 
 The ruins of Kurouzu-cho
@@ -52,7 +50,6 @@ What's interesting here is how the old row houses -- those run down and falling-
 
 From what I can remember of the later chapters (from my reading of Uzumaki about two years ago) I believe that these houses have a bigger role to play in the town's curse with the spiral. And although there is no disease present, as in [the previous chapter](https://junjiitomanga.com/the-house-uzumaki-part-13/), the spiral's influence is never the less still around.
 
-[![](images/The-air-feels-heavy.jpg)](images/The-air-feels-heavy.jpg)
 [![](images/The-air-feels-heavy.jpg)](images/The-air-feels-heavy.jpg)
 
 The air feels heavy
@@ -69,7 +66,6 @@ All of the other survivors we see look very weary and without hope.
 
 But not Kirie. She still picks herself up and does what she has to for her and the people around her.
 
-[![](images/Kirie-helps-Chie-find-shelter.jpg)](images/Kirie-helps-Chie-find-shelter.jpg)
 [![](images/Kirie-helps-Chie-find-shelter.jpg)](images/Kirie-helps-Chie-find-shelter.jpg)
 
 Kirie helps Chie find shelter
@@ -88,7 +84,6 @@ A war that I am sure will claim much more destruction and many more casualties b
 
 And I'm willing to bet that Kirie Goshima will be on the front line.
 
-[![](images/Two-of-the-Hurricane-Boys.jpg)](images/Two-of-the-Hurricane-Boys.jpg)
 [![](images/Two-of-the-Hurricane-Boys.jpg)](images/Two-of-the-Hurricane-Boys.jpg)
 
 Two of the Hurricane Boys

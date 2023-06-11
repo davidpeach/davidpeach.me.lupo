@@ -1,0 +1,44 @@
+---
+title: Horror Manga Reading List
+---
+
+These were all recommended to me based on my interest in Junji Ito and other Horror Manga authors
+
+- Everything by junji ito(start with Uzumaki)
+- Happiness
+- Manhole
+- Kiseijuu Parasyte ( it has a very good anime watch that)
+- Dragon head
+- Starving anonymous
+- fortres of the apocalypse
+- Hell Baby
+- Freak Island
+- Hideout
+- Drifting classroom
+- Shiga hime
+- Killing morph
+- lesson of evil ( the first volume isnt horror but just wait)
+- Fuan no tane and fuan no tane plus
+- Portus
+- Suicide club/jisetus circle
+- SHIRO IHON and its sequel/prequels
+- Sweet home (manwha webtoon)
+- The laughing vampire(and the other works from this author i still have to read them)
+- BASTARD ( manwha webtoon full on mangakalot , not the fantasy manga) 
+- I am a hero ( if you cant buy it its on bato.to or windowmangaclub , cause batoto missvolume 13 and 14 if i remember)
+- Kami-sama
+- Ki-sama o Koroshitai( on hiatus but trust me its worth it again.Also alot of gore )
+- Kudan no Gotoshi
+- Foul smell
+- Jinrou game
+- Mpd psycho
+- Shibito no Koe wo Kiku ga Yoi (You Will Hear the Voices of the Dead)
+- Kibou no Shima
+- Abnormal-kei Joshi(?)
+- Zashiki Onna
+- Kiriko
+- manhunt(???)
+- Mushi hime
+- Diner
+- Noah of the blood sea
+- Killing stalking

@@ -1,0 +1,35 @@
+---
+title: Albums that influenced my tastes in music
+---
+
+- Guns n Roses: Appetite for Destruction
+- Meat Loaf: Bat out of hell
+- Supertramp: Crime of the Century
+- Queen: Greatest Hits 2
+- Marilyn Manson: Holywood
+- Aerosmith: Pump
+- Whitesnake: Slip of the Tongue
+- Leonard Cohen: Songs of Love and Hate
+- Fleetwood Mac: Tango in the night
+- Pink Floyd: The Wall
+- Buckethead: Bucketheadland 2
+- Radiohead: The Bends
+- Linkin Park: Hybrid Theory
+- Jim Steinman: Bad for Good
+- Roger Waters: Pros and Cons of Hitchhiking
+- Placebo: Without You Im Nothing
+- White Stripes: Elephant
+- Lana Del Rey: Born to Die (The Paradise Edition)
+- Iron Maiden: Brave New World
+- Alice Cooper: Brutal Planet
+- Buckingham Nicks: Buckingham Nicks
+- Joe Satriani: The Extremist
+- Offspring: Americana
+- JME: Integrity
+- Lindsey Buckingham: Out of the Cradle
+- Cradle of Filth: Midian
+- Korn: Follow the Leader
+- Lorde: Pure Heroine
+- The Who: Tommy
+- Slipknot: Slipknot
+- Kris Kristofferson: Border Lord

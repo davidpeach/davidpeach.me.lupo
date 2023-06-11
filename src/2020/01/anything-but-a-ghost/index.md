@@ -12,7 +12,8 @@ tags:
 coverImage: "Anything-but-a-Ghost.jpg"
 ---
 
-[![](images/Anything-but-a-Ghost.jpg)](images/Anything-but-a-Ghost.jpg)
+![](images/anything-but-a-ghost-headline.png)
+
 [![](images/Anything-but-a-Ghost.jpg)](images/Anything-but-a-Ghost.jpg)
 
 > She died giving birth to me. When I came out, she was already a ghost. But she still cared about me. Even after that, she would come to breastfeed me.

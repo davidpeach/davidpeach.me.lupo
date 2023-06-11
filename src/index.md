@@ -65,6 +65,7 @@ title: David Peach's homepage
         <li>open source code</li>
         <li>original memes</li>
         <li>original music</li>
+        <li>[Original Art](/making/art.html)</li>
       </ul>
   </li>
   <li>
@@ -76,6 +77,10 @@ title: David Peach's homepage
       <li>reading list</li>
       <li>interviews</li>
       <li>psn achievements</li>
+      <li>[Books I want to read](/books-i-want-to-read.html)</li>
+      <li>[Games I want to play](/games-i-want-to-play.html)</li>
+      <li>[Horror Manga Reading List](/horror-manga-reading-list.html)</li>
+      <li>[ Avatars through the ages ](/me/avatars.html)</li>
     </ul>
   </li>
 </ul>

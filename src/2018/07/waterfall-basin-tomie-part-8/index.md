@@ -14,7 +14,8 @@ tags:
 coverImage: "Waterfall-Basin-Tomie-part-8-cover.jpg"
 ---
 
-[![](images/Waterfall-Basin-Tomie-part-8-cover.jpg)](images/Waterfall-Basin-Tomie-part-8-cover.jpg)
+[![](./images/waterfall-basin-quote-heading.png)](./images/waterfall-basin-quote-heading.png)
+
 [![](images/Waterfall-Basin-Tomie-part-8-cover.jpg)](images/Waterfall-Basin-Tomie-part-8-cover.jpg)
 
 > You have a wonderful garden. Why not take this bundle and plant it somewhere? Water it periodically, tend to it, and eventually you will be blessed with a lovely new daughter.
@@ -34,21 +35,17 @@ Soon after the Salesman’s escape, a very strange thing begins to happen. The b
 ## Main Characters
 
 [![](images/Tomie-9.jpg)](images/Tomie-9.jpg)
-[![](images/Tomie-9.jpg)](images/Tomie-9.jpg)
 
 Tomie
 
-[![](images/The-Salesman.jpg)](images/The-Salesman.jpg)
 [![](images/The-Salesman.jpg)](images/The-Salesman.jpg)
 
 The Salesman
 
 [![](images/Shin.jpg)](images/Shin.jpg)
-[![](images/Shin.jpg)](images/Shin.jpg)
 
 Shin
 
-[![](images/Shins-Friend.jpg)](images/Shins-Friend.jpg)
 [![](images/Shins-Friend.jpg)](images/Shins-Friend.jpg)
 
 Shin's Friend
@@ -76,21 +73,17 @@ Her power over the compulsions of others took on a whole new level too. She was 
 I really love how, even though Junji Ito isn't afraid to show us visual horrors in his work, he equally isn't afraid to leave some of it to our imagination.
 
 [![](images/A-strange-catch-1.jpg)](images/A-strange-catch-1.jpg)
-[![](images/A-strange-catch-1.jpg)](images/A-strange-catch-1.jpg)
 
 A strange catch
 
-[![](images/The-Packages-are-dumped-off-the-waterfall.jpg)](images/The-Packages-are-dumped-off-the-waterfall.jpg)
 [![](images/The-Packages-are-dumped-off-the-waterfall.jpg)](images/The-Packages-are-dumped-off-the-waterfall.jpg)
 
 The Packages are dumped off the waterfall
 
 [![](images/Underwater-feast.jpg)](images/Underwater-feast.jpg)
-[![](images/Underwater-feast.jpg)](images/Underwater-feast.jpg)
 
 Underwater feast
 
-[![](images/The-Salesman-arrives.jpg)](images/The-Salesman-arrives.jpg)
 [![](images/The-Salesman-arrives.jpg)](images/The-Salesman-arrives.jpg)
 
 The Salesman arrives

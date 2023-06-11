@@ -10,7 +10,8 @@ tags:
 coverImage: "Fun-Summer-Vacation.jpg"
 ---
 
-[![](images/Fun-Summer-Vacation.jpg)](images/Fun-Summer-Vacation.jpg)
+[![](./images/fun-summer-vacation-headline.png)](./images/fun-summer-vacation-headline.png)
+
 [![](images/Fun-Summer-Vacation.jpg)](images/Fun-Summer-Vacation.jpg)
 
 > On nights like this, I go out onto the streets, and suck blood out from women's jugular veins.
@@ -26,26 +27,21 @@ The very first thing that we see of Souichi, is him spitting a small metal nail 
 As their family holiday passes each day, Souichi displays more strange behaviours — sinister laughs; curses on the family; attacks with deadly nails. With his hostility specifically targeted towards his visiting cousins. But how far will Souichi go to make his presence known to them, despite being so introverted?
 
 [![](images/Michina.jpg)](images/Michina.jpg)
-[![](images/Michina.jpg)](images/Michina.jpg)
 
 Michina
 
-[![](images/Yuusuke.jpg)](images/Yuusuke.jpg)
 [![](images/Yuusuke.jpg)](images/Yuusuke.jpg)
 
 Yuusuke
 
 [![](images/Kouichi.jpg)](images/Kouichi.jpg)
-[![](images/Kouichi.jpg)](images/Kouichi.jpg)
 
 Kouichi
 
 [![](images/Sayuri.jpg)](images/Sayuri.jpg)
-[![](images/Sayuri.jpg)](images/Sayuri.jpg)
 
 Sayuri
 
-[![](images/Souichi.jpg)](images/Souichi.jpg)
 [![](images/Souichi.jpg)](images/Souichi.jpg)
 
 Souichi
@@ -61,7 +57,6 @@ What is perhaps interesting too, is that he isn't really the central character o
 He is seen skulking about in his room, sucking on old nails and trying to curse people with his doll replicas of them. He isn't the most likeable of Junji Ito's characters but I would be lying if I said that I didn't have a small piece of my heart set aside for this boy-terror.
 
 [![](images/Sayuri-and-Michina-in-the-swimming-pool.jpg)](images/Sayuri-and-Michina-in-the-swimming-pool.jpg)
-[![](images/Sayuri-and-Michina-in-the-swimming-pool.jpg)](images/Sayuri-and-Michina-in-the-swimming-pool.jpg)
 
 ## Does he just need some love?
 
@@ -72,16 +67,13 @@ Despite his appearance of hostility, maybe Souichi is just a little boy lost? Hi
 Or maybe Souichi is just a little evil-incarnate brat who simply loves to see people in pain. Whatever it is that drives him, I can't help but feel that there is more below his diabolical surface than meets the eye.
 
 [![](images/Yuusuke-and-Michina-find-Souichi-talking-to-his-dolls.jpg)](images/Yuusuke-and-Michina-find-Souichi-talking-to-his-dolls.jpg)
-[![](images/Yuusuke-and-Michina-find-Souichi-talking-to-his-dolls.jpg)](images/Yuusuke-and-Michina-find-Souichi-talking-to-his-dolls.jpg)
 
 Yuusuke and Michina find Souichi talking to his dolls
 
 [![](images/The-family-play-cards-whilst-Souichi-hides-in-the-shadows.jpg)](images/The-family-play-cards-whilst-Souichi-hides-in-the-shadows.jpg)
-[![](images/The-family-play-cards-whilst-Souichi-hides-in-the-shadows.jpg)](images/The-family-play-cards-whilst-Souichi-hides-in-the-shadows.jpg)
 
 The family play cards whilst Souichi hides in the shadows
 
-[![](images/Souichi-comes-to-Michina-when-they-are-alone-in-the-home.jpg)](images/Souichi-comes-to-Michina-when-they-are-alone-in-the-home.jpg)
 [![](images/Souichi-comes-to-Michina-when-they-are-alone-in-the-home.jpg)](images/Souichi-comes-to-Michina-when-they-are-alone-in-the-home.jpg)
 
 Souichi comes to Michina when they are alone in the home

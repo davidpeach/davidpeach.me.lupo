@@ -43,6 +43,7 @@ I'll need to filter through them soon.
 
 <h2 id="programming">Programming Bookmarks</h2>
 - [Auto Restart MySQL if Crashed](https://serverok.in/mysql-restart-bash)
+- [Audio over Bluetooth: most detailed information about profiles, codecs, and devices](https://habr.com/en/articles/456182/)
 - [NuxtJS Crash Course - video](https://www.youtube.com/watch?v=ltzlhAxJr74)
 - [Bash Prompts](https://gilesorr.com/bashprompt/prompts/index.html)
 - [Ranger on Linux](https://www.linuxfordevices.com/tutorials/linux/ranger-file-manager#Previewing-Files-using-Ranger)
@@ -67,6 +68,7 @@ I'll need to filter through them soon.
 - [Heaps explained in PHP](https://doeken.org/blog/heaps-explained-in-php)
 - [How Rust developers are making the web safer](https://github.com/readme/featured/rust-programming)
 - [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+- [Understanding AWK](https://earthly.dev/blog/awk-examples/)
 
 <h2 id="films">Films</h2>
 - [James Cameron’s ‘Terminator’ is a true classic](https://cinephiliabeyond.org/james-camerons-terminator-true-classic-powerful-influential-films-can-get/)
